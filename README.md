@@ -59,7 +59,10 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
-* "Adapting World Models with Latent-State Dynamics Residuals", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2504.02252)]
+* **MoSim**: "Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2504.07095)]
+* "Improving World Models using Deep Supervision with Linear Probes", **`ICLR 2025 Workshop on World Models`**. [[Paper](https://arxiv.org/abs/2504.03861)]
+* "Decentralized Collective World Model for Emergent Communication and Coordination", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.03353)]
+* "Adapting World Models with Latent-State Dynamics Residuals", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.02252)]
 * "Can Test-Time Scaling Improve World Foundation Model?", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.24320)] [[Code](https://github.com/Mia-Cong/SWIFT.git)]
 * "Synthesizing world models for bilevel planning", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.20124)] 
 * **Aether**: "Aether: Geometric-Aware Unified World Modeling", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.18945)] [[Website](https://aether-world.github.io/)]
@@ -155,7 +158,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
-* **UWM**: "Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2504.02792)] [[Website](https://weirdlabuw.github.io/uwm/)]
+* **UWM**: "Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.02792)] [[Website](https://weirdlabuw.github.io/uwm/)]
 * "Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.20425)] 
 * **AdaWorld**: "AdaWorld: Learning Adaptable World Models with Latent Actions", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.18938)] [[Website](https://adaptable-world-model.github.io/)] 
 * **DyWA**: "DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.16806)] [[Website](https://pku-epic.github.io/DyWA/)] 
@@ -194,7 +197,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
-* "End-to-End Driving with Online Trajectory Evaluation via BEV World Model", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2504.01941)] [[Code](https://github.com/liyingyanUCAS/WoTE)] 
+* "End-to-End Driving with Online Trajectory Evaluation via BEV World Model", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.01941)] [[Code](https://github.com/liyingyanUCAS/WoTE)] 
 * "Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.21232)]
 * **MiLA**: "MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.15875)] [[Project Page](https://github.com/xiaomi-mlab/mila.github.io)] 
 * **SimWorld**: "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.13952)] [[Project Page](https://github.com/Li-Zn-H/SimWorld)] 
