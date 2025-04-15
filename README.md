@@ -31,6 +31,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Exploring the Evolution of Physics Cognition in Video Generation: A Survey", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.21765)] [[Code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)]
 * "World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.15168)] 
 * "Simulating the Real World: A Unified Survey of Multimodal Generative Models", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.04641)] [[Code](https://github.com/ALEEEHU/World-Simulator)]
 * "Four Principles for Physically Interpretable World Models", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.02143)]
