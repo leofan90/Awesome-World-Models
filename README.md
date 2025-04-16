@@ -60,6 +60,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* **MineWorld**: "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.07257)] [[Website](https://aka.ms/mineworld)]
 * **MoSim**: "Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2504.07095)]
 * "Improving World Models using Deep Supervision with Linear Probes", **`ICLR 2025 Workshop on World Models`**. [[Paper](https://arxiv.org/abs/2504.03861)]
 * "Decentralized Collective World Model for Emergent Communication and Coordination", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.03353)]
