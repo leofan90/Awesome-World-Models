@@ -60,6 +60,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* **EchoWorld**: "EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2504.13065)] [[Code](https://github.com/LeapLabTHU/EchoWorld)]
+* "Adapting a World Model for Trajectory Following in a 3D Game", **`ICLR 2025 Workshop on World Models`**. [[Paper](https://arxiv.org/abs/2504.12299)] 
 * **MineWorld**: "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.07257)] [[Website](https://aka.ms/mineworld)]
 * **MoSim**: "Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2504.07095)]
 * "Improving World Models using Deep Supervision with Linear Probes", **`ICLR 2025 Workshop on World Models`**. [[Paper](https://arxiv.org/abs/2504.03861)]
