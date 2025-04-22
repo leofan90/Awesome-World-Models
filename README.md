@@ -60,6 +60,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* **ViMo**: "ViMo: A Generative Visual GUI World Model for App Agent", **`arxiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.13936)] 
+* "Simulating Before Planning: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning", **`SIGIR 2025`**. [[Paper](https://arxiv.org/abs/2504.13643)] 
+* **CheXWorld**: "CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2504.13820)] [[Code](https://github.com/LeapLabTHU/CheXWorld)]
 * **EchoWorld**: "EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2504.13065)] [[Code](https://github.com/LeapLabTHU/EchoWorld)]
 * "Adapting a World Model for Trajectory Following in a 3D Game", **`ICLR 2025 Workshop on World Models`**. [[Paper](https://arxiv.org/abs/2504.12299)] 
 * **MineWorld**: "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.07257)] [[Website](https://aka.ms/mineworld)]
