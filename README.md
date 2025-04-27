@@ -60,6 +60,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* **WALL-E 2.0**: "WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents", **`arxiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.15785)] [[Code](https://github.com/elated-sawyer/WALL-E)]
 * **ViMo**: "ViMo: A Generative Visual GUI World Model for App Agent", **`arxiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.13936)] 
 * "Simulating Before Planning: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning", **`SIGIR 2025`**. [[Paper](https://arxiv.org/abs/2504.13643)] 
 * **CheXWorld**: "CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2504.13820)] [[Code](https://github.com/LeapLabTHU/CheXWorld)]
@@ -165,6 +166,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* **PIN-WM**: "PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.16693)] 
+* "Offline Robotic World Model: Learning Robotic Policies without a Physics Simulator", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.16680)] 
+* **ManipDreamer**: "ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.16464)] 
 * **UWM**: "Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.02792)] [[Website](https://weirdlabuw.github.io/uwm/)]
 * "Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.20425)] 
 * **AdaWorld**: "AdaWorld: Learning Adaptable World Models with Latent Actions", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.18938)] [[Website](https://adaptable-world-model.github.io/)] 
