@@ -60,6 +60,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* **WebEvolver**: "WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model", **`arxiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.21024)] 
 * **WALL-E 2.0**: "WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents", **`arxiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.15785)] [[Code](https://github.com/elated-sawyer/WALL-E)]
 * **ViMo**: "ViMo: A Generative Visual GUI World Model for App Agent", **`arxiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.13936)] 
 * "Simulating Before Planning: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning", **`SIGIR 2025`**. [[Paper](https://arxiv.org/abs/2504.13643)] 
@@ -166,6 +167,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* **TesserAct**: "TesserAct: Learning 4D Embodied World Models", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.20995)] [[Website](https://tesseractworld.github.io/)]
 * **PIN-WM**: "PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.16693)] 
 * "Offline Robotic World Model: Learning Robotic Policies without a Physics Simulator", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.16680)] 
 * **ManipDreamer**: "ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.16464)] 
@@ -208,6 +210,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Learning to Drive from a World Model", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.19077)]
+* **DriVerse**: "DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.18576)] 
 * "End-to-End Driving with Online Trajectory Evaluation via BEV World Model", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.01941)] [[Code](https://github.com/liyingyanUCAS/WoTE)] 
 * "Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.21232)]
 * **MiLA**: "MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.15875)] [[Project Page](https://github.com/xiaomi-mlab/mila.github.io)] 
