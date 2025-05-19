@@ -48,6 +48,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks
+* **EWMBench**: "EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.09694)] [[Code](https://github.com/AgibotTech/EWMBench)]
 * "Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments", **`arxiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.08122)] 
 * **WorldModelBench**: "WorldModelBench: Judging Video Generation Models As World Models", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2502.13092)] [[Website](https://worldmodelbench-team.github.io/)]
 * **Text2World**: "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation", **`arxiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.20694)] [[Website](https://text-to-world.github.io/)] 
@@ -60,6 +61,11 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* **PoE-World**: "PoE-World: Compositional World Modeling with Products of Programmatic Experts", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.10819)] [[Website](https://topwasu.github.io/poe-world)]
+* "Explainable Reinforcement Learning Agents Using World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.08073)] 
+* **seq-JEPA**: "seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.03176)] 
+* "Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.02228)] 
+* "Learning Local Causal World Models with State Space Models and Attention", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.02074)] 
 * **WebEvolver**: "WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model", **`arxiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.21024)] 
 * **WALL-E 2.0**: "WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents", **`arxiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.15785)] [[Code](https://github.com/elated-sawyer/WALL-E)]
 * **ViMo**: "ViMo: A Generative Visual GUI World Model for App Agent", **`arxiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.13936)] 
@@ -167,6 +173,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* **FlowDreamer**: "FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.10075)] [[Website](https://sharinka0715.github.io/FlowDreamer/)]
+* "Occupancy World Model for Robots", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.05512)]
+* "Learning 3D Persistent Embodied World Models", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.05495)]
 * **TesserAct**: "TesserAct: Learning 4D Embodied World Models", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.20995)] [[Website](https://tesseractworld.github.io/)]
 * **PIN-WM**: "PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.16693)] 
 * "Offline Robotic World Model: Learning Robotic Policies without a Physics Simulator", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.16680)] 
@@ -210,6 +219,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **PosePilot**: "PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.01729)]
+* "World Model-Based Learning for Long-Term Age of Information Minimization in Vehicular Networks", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.01712)]
 * "Learning to Drive from a World Model", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.19077)]
 * **DriVerse**: "DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.18576)] 
 * "End-to-End Driving with Online Trajectory Evaluation via BEV World Model", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.01941)] [[Code](https://github.com/liyingyanUCAS/WoTE)] 
