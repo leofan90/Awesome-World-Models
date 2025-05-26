@@ -61,6 +61,11 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
+* "Consistent World Models via Foresight Diffusion", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16474)] 
+* "Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16422)] 
+* "World Models as Reference Trajectories for Rapid Motor Adaptation", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15589)] 
+* "Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.13709)] 
+* "Building spatial world models from sparse transitional episodic memories", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.13696)] 
 * **PoE-World**: "PoE-World: Compositional World Modeling with Products of Programmatic Experts", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.10819)] [[Website](https://topwasu.github.io/poe-world)]
 * "Explainable Reinforcement Learning Agents Using World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.08073)] 
 * **seq-JEPA**: "seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.03176)] 
@@ -173,6 +178,10 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* **FLARE**: "FLARE: Robot Learning with Implicit World Modeling", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Website](https://research.nvidia.com/labs/gear/flare)]
+* **Vid2World**: "Vid2World: Crafting Video Diffusion Models to Interactive World Models", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.14357)] [[Website](http://knightnemo.github.io/vid2world/)]
+* **RLVR-World**: "RLVR-World: Training World Models with Reinforcement Learning", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.13934)] [[Website]( https://thuml.github.io/RLVR-World/)] [[Code](https://github.com/thuml/RLVR-World)]
+* **LaDi-WM**: "LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.11528)]
 * **FlowDreamer**: "FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.10075)] [[Website](https://sharinka0715.github.io/FlowDreamer/)]
 * "Occupancy World Model for Robots", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.05512)]
 * "Learning 3D Persistent Embodied World Models", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.05495)]
@@ -219,6 +228,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **Raw2Drive**: "Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16394)]
+* **VL-SAFE**: "VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16377)] [[Project Page](https://ys-qu.github.io/vlsafe-website/)] 
 * **PosePilot**: "PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.01729)]
 * "World Model-Based Learning for Long-Term Age of Information Minimization in Vehicular Networks", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.01712)]
 * "Learning to Drive from a World Model", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.19077)]
