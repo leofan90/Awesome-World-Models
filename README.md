@@ -61,7 +61,6 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## General World Models
-* "Consistent World Models via Foresight Diffusion", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16474)] 
 * "Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16422)] 
 * "World Models as Reference Trajectories for Rapid Motor Adaptation", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15589)] 
 * "Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.13709)] 
@@ -178,6 +177,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## World Models for Embodied AI
+* "Consistent World Models via Foresight Diffusion", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16474)] 
 * **FLARE**: "FLARE: Robot Learning with Implicit World Modeling", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Website](https://research.nvidia.com/labs/gear/flare)]
 * **Vid2World**: "Vid2World: Crafting Video Diffusion Models to Interactive World Models", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.14357)] [[Website](http://knightnemo.github.io/vid2world/)]
 * **RLVR-World**: "RLVR-World: Training World Models with Reinforcement Learning", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.13934)] [[Website]( https://thuml.github.io/RLVR-World/)] [[Code](https://github.com/thuml/RLVR-World)]
