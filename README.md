@@ -48,6 +48,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks
+* **SimWorld**: "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene
+Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/pdf/2503.13952)] [[Code](https://github.com/Li-Zn-H/SimWorld)]
 * **EWMBench**: "EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.09694)] [[Code](https://github.com/AgibotTech/EWMBench)]
 * "Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments", **`arxiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.08122)] 
 * **WorldModelBench**: "WorldModelBench: Judging Video Generation Models As World Models", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2502.13092)] [[Website](https://worldmodelbench-team.github.io/)]
