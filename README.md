@@ -63,6 +63,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/pdf
 
 ---
 ## General World Models
+* "Long-Context State-Space Video World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.20171)] 
 * "Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16422)] 
 * "World Models as Reference Trajectories for Rapid Motor Adaptation", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15589)] 
 * "Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.13709)] 
@@ -179,6 +180,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/pdf
 
 ---
 ## World Models for Embodied AI
+* **WorldEval**: "WorldEval: World Model as Real-World Robot Policies Evaluator", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.19017)] [[Website]( https://worldeval.github.io)]
 * "Consistent World Models via Foresight Diffusion", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16474)] 
 * **FLARE**: "FLARE: Robot Learning with Implicit World Modeling", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Website](https://research.nvidia.com/labs/gear/flare)]
 * **Vid2World**: "Vid2World: Crafting Video Diffusion Models to Interactive World Models", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.14357)] [[Website](http://knightnemo.github.io/vid2world/)]
