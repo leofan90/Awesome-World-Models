@@ -48,8 +48,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks
+* "Toward Memory-Aided World Models: Benchmarking via Spatial Consistency", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.22976)] [[Datasets](https://huggingface.co/datasets/kevinLian/LoopNav)] [[Code](https://github.com/Kevin-lkw/LoopNav)]
 * **SimWorld**: "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene
-Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/pdf/2503.13952)] [[Code](https://github.com/Li-Zn-H/SimWorld)]
+Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2503.13952)] [[Code](https://github.com/Li-Zn-H/SimWorld)]
 * **EWMBench**: "EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.09694)] [[Code](https://github.com/AgibotTech/EWMBench)]
 * "Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments", **`arxiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.08122)] 
 * **WorldModelBench**: "WorldModelBench: Judging Video Generation Models As World Models", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2502.20694)] [[Website](https://worldmodelbench-team.github.io/)]
@@ -63,7 +64,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/pdf
 
 ---
 ## General World Models
-* "Long-Context State-Space Video World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.20171)] 
+* **StateSpaceDiffuser**: "StateSpaceDiffuser: Bringing Long Context to Diffusion World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.22246)]
+* "Learning World Models for Interactive Video Generation", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.21996)] 
+* "Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.21906)] 
+* "Long-Context State-Space Video World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.20171)] [[Website](https://ryanpo.com/ssm_wm)]
 * "Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16422)] 
 * "World Models as Reference Trajectories for Rapid Motor Adaptation", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15589)] 
 * "Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.13709)] 
@@ -180,6 +184,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/pdf
 
 ---
 ## World Models for Embodied AI
+* **OSVI-WM**: "OSVI-WM: One-Shot Visual Imitation for Unseen Tasks using World-Model-Guided Trajectory Generation", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.20425)] 
 * **WorldEval**: "WorldEval: World Model as Real-World Robot Policies Evaluator", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.19017)] [[Website]( https://worldeval.github.io)]
 * "Consistent World Models via Foresight Diffusion", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16474)] 
 * **FLARE**: "FLARE: Robot Learning with Implicit World Modeling", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Website](https://research.nvidia.com/labs/gear/flare)]
@@ -232,6 +237,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/pdf
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **GeoDrive**: "GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.22421)] [[Code](https://github.com/antonioo-c/GeoDrive)] 
 * **Raw2Drive**: "Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16394)]
 * **VL-SAFE**: "VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16377)] [[Project Page](https://ys-qu.github.io/vlsafe-website/)] 
 * **PosePilot**: "PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.01729)]
