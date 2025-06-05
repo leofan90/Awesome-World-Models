@@ -57,13 +57,22 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **Text2World**: "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation", **`arxiv 2025.02`**. [[Paper](https://arxiv.org/abs/2502.13092)] [[Website](https://text-to-world.github.io/)] 
 * **ACT-Bench**: "ACT-Bench: Towards Action Controllable World Models for Autonomous Driving", **`arxiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.05337)]
 * **WorldSimBench**: "WorldSimBench: Towards Video Generation Models as World Simulators", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.18072)] [[Website](https://iranqin.github.io/WorldSimBench.github.io/)] 
-* **EVA**: "EVA: An Embodied World Model for Future Video Anticipation", **`arxiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.15461)] [[Website](https://sites.google.com/view/eva-publi)] 
+* **EVA**: "EVA: An Embodied World Model for Future Video Anticipation", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2410.15461)] [[Website](https://sites.google.com/view/eva-publi)] 
 * **AeroVerse**: "AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models", **`arxiv 2024.08`**. [[Paper](https://arxiv.org/pdf/2408.15511)]
 * **CityBench**: "CityBench: Evaluating the Capabilities of Large Language Model as World Model", **`arXiv 2024.06`**. [[Paper](https://arxiv.org/abs/2406.13945)] [[Code](https://github.com/tsinghua-fib-lab/CityBench)]
 * "Imagine the Unseen World: A Benchmark for Systematic Generalization in Visual World Models", **`NIPS 2023`**. [[Paper](https://arxiv.org/abs/2311.09064)]
 
 ---
 ## General World Models
+* **FOLIAGE**: "FOLIAGE: Towards Physical Intelligence World Models Via Unbounded Surface Evolution", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.03173)]
+* "Linear Spatial World Models Emerge in Large Language Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.02996)] [[Code](https://github.com/matthieu-perso/spatial_world_models)]
+* **Simple, Good, Fast**: "Simple, Good, Fast: Self-Supervised World Models Free of Baggage", **`ICLR 2025`**. [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
+* **Medical World Model**: "Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.02327)]
+* "General agents need world models", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2506.01622)]
+* "Learning Abstract World Models with a Group-Structured Latent Space", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01529)]
+* **DeepVerse**: "DeepVerse: 4D Autoregressive Video Generation as a World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01103)]
+* "World Models for Cognitive Agents: Transforming Edge Intelligence in Future Networks", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.00417)]
+* **Dyna-Think**: "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.00320)]
 * **StateSpaceDiffuser**: "StateSpaceDiffuser: Bringing Long Context to Diffusion World Models", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.22246)]
 * "Learning World Models for Interactive Video Generation", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.21996)] 
 * "Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.21906)] 
@@ -184,8 +193,12 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **WoMAP**: "WoMAP: World Models For Embodied Open-Vocabulary Object Localization", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01600)] 
+* "Sparse Imagination for Efficient Visual World Model Planning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01392)]
+* **Humanoid World Models**: "Humanoid World Models: Open World Foundation Models for Humanoid Robotics", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01182)] 
+* "Evaluating Robot Policies in a World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.00613)] [[Website](https://world-model-eval.github.io)]
 * **OSVI-WM**: "OSVI-WM: One-Shot Visual Imitation for Unseen Tasks using World-Model-Guided Trajectory Generation", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.20425)] 
-* **WorldEval**: "WorldEval: World Model as Real-World Robot Policies Evaluator", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.19017)] [[Website]( https://worldeval.github.io)]
+* **WorldEval**: "WorldEval: World Model as Real-World Robot Policies Evaluator", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.19017)] [[Website](https://worldeval.github.io)]
 * "Consistent World Models via Foresight Diffusion", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16474)] 
 * **FLARE**: "FLARE: Robot Learning with Implicit World Modeling", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Website](https://research.nvidia.com/labs/gear/flare)]
 * **Vid2World**: "Vid2World: Crafting Video Diffusion Models to Interactive World Models", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.14357)] [[Website](http://knightnemo.github.io/vid2world/)]
@@ -237,6 +250,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **LongDWM**: "LongDWM: Cross-Granularity Distillation for Building a Long-Term Driving World Model", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01546)] [[Project Page](https://wang-xiaodong1899.github.io/longdwm/)] 
 * **GeoDrive**: "GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.22421)] [[Code](https://github.com/antonioo-c/GeoDrive)] 
 * **Raw2Drive**: "Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16394)]
 * **VL-SAFE**: "VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16377)] [[Project Page](https://ys-qu.github.io/vlsafe-website/)] 
