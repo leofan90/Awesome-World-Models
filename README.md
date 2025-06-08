@@ -48,6 +48,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks
+* **WorldPrediction**: "WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.04363)]
 * "Toward Memory-Aided World Models: Benchmarking via Spatial Consistency", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.22976)] [[Datasets](https://huggingface.co/datasets/kevinLian/LoopNav)] [[Code](https://github.com/Kevin-lkw/LoopNav)]
 * **SimWorld**: "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene
 Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2503.13952)] [[Code](https://github.com/Li-Zn-H/SimWorld)]
@@ -64,6 +65,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Video World Models with Long-term Spatial Memory", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.05284)] [[Website](https://spmem.github.io/)]
+* **DSG-World**: "DSG-World: Learning a 3D Gaussian World Model from Dual State Videos", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.05217)]
+* "Safe Planning and Policy Optimization via World Model Learning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.04828)]
 * **FOLIAGE**: "FOLIAGE: Towards Physical Intelligence World Models Via Unbounded Surface Evolution", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.03173)]
 * "Linear Spatial World Models Emerge in Large Language Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.02996)] [[Code](https://github.com/matthieu-perso/spatial_world_models)]
 * **Simple, Good, Fast**: "Simple, Good, Fast: Self-Supervised World Models Free of Baggage", **`ICLR 2025`**. [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
@@ -100,6 +104,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * "Adapting World Models with Latent-State Dynamics Residuals", **`arXiv 2025.04`**. [[Paper](https://arxiv.org/abs/2504.02252)]
 * "Can Test-Time Scaling Improve World Foundation Model?", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.24320)] [[Code](https://github.com/Mia-Cong/SWIFT.git)]
 * "Synthesizing world models for bilevel planning", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.20124)] 
+* "Long-context autoregressive video modeling with next-frame prediction", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.19325)] [[Code](https://github.com/showlab/FAR)] [[Website](https://farlongctx.github.io/)]
 * **Aether**: "Aether: Geometric-Aware Unified World Modeling", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.18945)] [[Website](https://aether-world.github.io/)]
 * **FUSDREAMER**: "FUSDREAMER: Label-efficient Remote Sensing World Model for Multimodal Data Classification", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.13814)] [[Website](https://github.com/Cimy-wang/FusDreamer)]
 * "Inter-environmental world modeling for continuous and compositional dynamics", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.09911)] 
