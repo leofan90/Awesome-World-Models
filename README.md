@@ -65,6 +65,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **WorldLLM**: "WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06725)]
+* "LLMs as World Models: Data-Driven and Human-Centered Pre-Event Simulation for Disaster Impact Assessment", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06355)]
+* "Bootstrapping World Models from Dynamics Models in Multimodal Foundation Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06006)]
 * "Video World Models with Long-term Spatial Memory", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.05284)] [[Website](https://spmem.github.io/)]
 * **DSG-World**: "DSG-World: Learning a 3D Gaussian World Model from Dual State Videos", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.05217)]
 * "Safe Planning and Policy Optimization via World Model Learning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.04828)]
@@ -198,6 +201,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **3DFlowAction**: "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06199)] 
 * **WoMAP**: "WoMAP: World Models For Embodied Open-Vocabulary Object Localization", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01600)] 
 * "Sparse Imagination for Efficient Visual World Model Planning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01392)]
 * **Humanoid World Models**: "Humanoid World Models: Open World Foundation Models for Humanoid Robotics", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01182)] 
