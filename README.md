@@ -23,6 +23,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Cosmos-Drive-Dreams`**, Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models. [[Paper](https://arxiv.org/abs/2506.09042)] [[Website](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams)] 
 * **`GAIA-2`**, GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving. [[Paper](https://arxiv.org/abs/2503.20523)] [[Website](https://wayve.ai/thinking/gaia-2)]
 * **`Cosmos`**, Cosmos World Foundation Model Platform for Physical AI. [[Paper](https://arxiv.org/abs/2501.03575)] [[Website](https://www.nvidia.com/en-us/ai/cosmos/)] [[Code](https://github.com/NVIDIA/Cosmos)]
 * **`1X Technologies`**, 1X World Model. [[Blog](https://www.1x.tech/discover/1x-world-model)]
@@ -65,6 +66,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Efficient Generation of Diverse Cooperative Agents with World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.07450)]
 * **WorldLLM**: "WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06725)]
 * "LLMs as World Models: Data-Driven and Human-Centered Pre-Event Simulation for Disaster Impact Assessment", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06355)]
 * "Bootstrapping World Models from Dynamics Models in Multimodal Foundation Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06006)]
@@ -201,7 +203,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Time-Aware World Model for Adaptive Prediction and Control", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2506.08441)] 
 * **3DFlowAction**: "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06199)] 
+* **ORV**: "ORV: 4D Occupancy-centric Robot Video Generation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.03079)] [[Code](https://github.com/OrangeSodahub/ORV)] [[Website](https://orangesodahub.github.io/ORV/)]
 * **WoMAP**: "WoMAP: World Models For Embodied Open-Vocabulary Object Localization", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01600)] 
 * "Sparse Imagination for Efficient Visual World Model Planning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01392)]
 * **Humanoid World Models**: "Humanoid World Models: Open World Foundation Models for Humanoid Robotics", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01182)] 
@@ -259,6 +263,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Ego-centric Learning of Communicative World Models for Autonomous Driving", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.08149)] 
+* **Dreamland**: "Dreamland: Controllable World Creation with Simulator and Generative Models", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.08006)] [[Project Page](https://metadriverse.github.io/dreamland/)] 
 * **LongDWM**: "LongDWM: Cross-Granularity Distillation for Building a Long-Term Driving World Model", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01546)] [[Project Page](https://wang-xiaodong1899.github.io/longdwm/)] 
 * **GeoDrive**: "GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.22421)] [[Code](https://github.com/antonioo-c/GeoDrive)] 
 * **Raw2Drive**: "Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16394)]
