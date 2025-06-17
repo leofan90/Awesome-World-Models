@@ -203,6 +203,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13761)] 
 * "Time-Aware World Model for Adaptive Prediction and Control", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2506.08441)] 
 * **3DFlowAction**: "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06199)] 
 * **ORV**: "ORV: 4D Occupancy-centric Robot Video Generation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.03079)] [[Code](https://github.com/OrangeSodahub/ORV)] [[Website](https://orangesodahub.github.io/ORV/)]
@@ -263,6 +264,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **COME**: "COME: Adding Scene-Centric Forecasting Control to Occupancy World Model", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13260)] [[Code](https://github.com/synsin0/COME)]
+* **STAGE**: "STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13138)] 
 * "Ego-centric Learning of Communicative World Models for Autonomous Driving", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.08149)] 
 * **Dreamland**: "Dreamland: Controllable World Creation with Simulator and Generative Models", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.08006)] [[Project Page](https://metadriverse.github.io/dreamland/)] 
 * **LongDWM**: "LongDWM: Cross-Granularity Distillation for Building a Long-Term Driving World Model", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01546)] [[Project Page](https://wang-xiaodong1899.github.io/longdwm/)] 
