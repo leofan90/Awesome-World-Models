@@ -203,7 +203,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
-* "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13761)] 
+* "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins", **`RSS 2025`**. [[Paper](https://arxiv.org/abs/2506.13761)] [[Website](https://prompting-with-the-future.github.io/)]
 * "Time-Aware World Model for Adaptive Prediction and Control", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2506.08441)] 
 * **3DFlowAction**: "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06199)] 
 * **ORV**: "ORV: 4D Occupancy-centric Robot Video Generation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.03079)] [[Code](https://github.com/OrangeSodahub/ORV)] [[Website](https://orangesodahub.github.io/ORV/)]
