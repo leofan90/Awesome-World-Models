@@ -32,6 +32,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "A Survey on World Models Grounded in Acoustic Physical Information", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13833)] 
 * "Exploring the Evolution of Physics Cognition in Video Generation: A Survey", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.21765)] [[Code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)]
 * "World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.15168)] 
 * "Simulating the Real World: A Unified Survey of Multimodal Generative Models", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.04641)] [[Code](https://github.com/ALEEEHU/World-Simulator)]
@@ -203,6 +204,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **GAF**: "GAF: Gaussian Action Field as a Dynamic World Model for Robotic Mlanipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.14135)] [[Website](http://chaiying1.github.io/GAF.github.io/project_page/)]
 * "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins", **`RSS 2025`**. [[Paper](https://arxiv.org/abs/2506.13761)] [[Website](https://prompting-with-the-future.github.io/)]
 * "Time-Aware World Model for Adaptive Prediction and Control", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2506.08441)] 
 * **3DFlowAction**: "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06199)] 
