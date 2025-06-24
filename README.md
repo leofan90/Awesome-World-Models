@@ -208,7 +208,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
-* **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] 
+* **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website]( https://manipulate-in-dream.github.io/)]
 * **ReOI**: "Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.16565)] 
 * **GAF**: "GAF: Gaussian Action Field as a Dynamic World Model for Robotic Mlanipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.14135)] [[Website](http://chaiying1.github.io/GAF.github.io/project_page/)]
 * "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins", **`RSS 2025`**. [[Paper](https://arxiv.org/abs/2506.13761)] [[Website](https://prompting-with-the-future.github.io/)]
