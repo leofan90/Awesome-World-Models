@@ -12,7 +12,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
   - [Foundation paper of World Model](#foundation-paper-of-world-model)
   - [Blog or Technical Report](#blog-or-technical-report)
   - [Surveys](#surveys)
-  - [Benchmarks & Evaluation](#benchmarks-evaluation)
+  - [Benchmarks & Evaluation](#benchmarks-&-evaluation)
   - [General World Models](#general-world-models)
   - [World Models for Embodied AI](#world-models-for-embodied-ai)
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
