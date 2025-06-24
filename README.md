@@ -12,7 +12,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
   - [Foundation paper of World Model](#foundation-paper-of-world-model)
   - [Blog or Technical Report](#blog-or-technical-report)
   - [Surveys](#surveys)
-  - [Benchmarks](#benchmarks)
+  - [Benchmarks & Evaluation](#benchmarks-evaluation)
   - [General World Models](#general-world-models)
   - [World Models for Embodied AI](#world-models-for-embodied-ai)
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
@@ -23,6 +23,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Matrix-Game`**, Matrix-Game: Interactive World Foundation Model. [[Paper](https://arxiv.org/abs/2506.18701)] [[Code](https://github.com/SkyworkAI/Matrix-Game)] 
 * **`Cosmos-Drive-Dreams`**, Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models. [[Paper](https://arxiv.org/abs/2506.09042)] [[Website](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams)] 
 * **`GAIA-2`**, GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving. [[Paper](https://arxiv.org/abs/2503.20523)] [[Website](https://wayve.ai/thinking/gaia-2)]
 * **`Cosmos`**, Cosmos World Foundation Model Platform for Physical AI. [[Paper](https://arxiv.org/abs/2501.03575)] [[Website](https://www.nvidia.com/en-us/ai/cosmos/)] [[Code](https://github.com/NVIDIA/Cosmos)]
@@ -49,7 +50,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * "A survey on multimodal large language models for autonomous driving", **`WACVW 2024`**. [[Paper](https://arxiv.org/abs/2311.12320)] [[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
 
 ---
-## Benchmarks
+## Benchmarks & Evaluation
+* **UNIVERSE**: "Adapting Vision-Language Models for Evaluating World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.17967)]
 * **WorldPrediction**: "WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.04363)]
 * "Toward Memory-Aided World Models: Benchmarking via Spatial Consistency", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.22976)] [[Datasets](https://huggingface.co/datasets/kevinLian/LoopNav)] [[Code](https://github.com/Kevin-lkw/LoopNav)]
 * **SimWorld**: "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene
@@ -67,6 +69,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **MATWM**: "Transformer World Model for Sample Efficient Multi-Agent Reinforcement Learning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18537)]
+* "Measuring (a Sufficient) World Model in LLMs: A Variance Decomposition Framework", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.16584)]
 * "Efficient Generation of Diverse Cooperative Agents with World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.07450)]
 * **WorldLLM**: "WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06725)]
 * "LLMs as World Models: Data-Driven and Human-Centered Pre-Event Simulation for Disaster Impact Assessment", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06355)]
@@ -204,6 +208,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] 
+* **ReOI**: "Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.16565)] 
 * **GAF**: "GAF: Gaussian Action Field as a Dynamic World Model for Robotic Mlanipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.14135)] [[Website](http://chaiying1.github.io/GAF.github.io/project_page/)]
 * "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins", **`RSS 2025`**. [[Paper](https://arxiv.org/abs/2506.13761)] [[Website](https://prompting-with-the-future.github.io/)]
 * "Time-Aware World Model for Adaptive Prediction and Control", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2506.08441)] 
