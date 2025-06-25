@@ -69,6 +69,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Xray2Xray**: "Xray2Xray: World Model from Chest X-rays with Volumetric Context", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19055)]
 * **MATWM**: "Transformer World Model for Sample Efficient Multi-Agent Reinforcement Learning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18537)]
 * "Measuring (a Sufficient) World Model in LLMs: A Variance Decomposition Framework", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.16584)]
 * "Efficient Generation of Diverse Cooperative Agents with World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.07450)]
@@ -208,7 +209,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
-* **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website]( https://manipulate-in-dream.github.io/)]
+* **ManiGaussian++**: "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
+* **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website](https://manipulate-in-dream.github.io/)]
 * **ReOI**: "Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.16565)] 
 * **GAF**: "GAF: Gaussian Action Field as a Dynamic World Model for Robotic Mlanipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.14135)] [[Website](http://chaiying1.github.io/GAF.github.io/project_page/)]
 * "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins", **`RSS 2025`**. [[Paper](https://arxiv.org/abs/2506.13761)] [[Website](https://prompting-with-the-future.github.io/)]
@@ -274,6 +276,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
 * **COME**: "COME: Adding Scene-Centric Forecasting Control to Occupancy World Model", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13260)] [[Code](https://github.com/synsin0/COME)]
 * **STAGE**: "STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13138)] 
+* **ReSim**: "ReSim: Reliable World Simulation for Autonomous Driving", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.09981)] [[Project Page](https://opendrivelab.com/ReSim)]
 * "Ego-centric Learning of Communicative World Models for Autonomous Driving", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.08149)] 
 * **Dreamland**: "Dreamland: Controllable World Creation with Simulator and Generative Models", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.08006)] [[Project Page](https://metadriverse.github.io/dreamland/)] 
 * **LongDWM**: "LongDWM: Cross-Granularity Distillation for Building a Long-Term Driving World Model", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01546)] [[Project Page](https://wang-xiaodong1899.github.io/longdwm/)] 
