@@ -276,7 +276,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
 * **COME**: "COME: Adding Scene-Centric Forecasting Control to Occupancy World Model", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13260)] [[Code](https://github.com/synsin0/COME)]
 * **STAGE**: "STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13138)] 
-* **ReSim**: "ReSim: Reliable World Simulation for Autonomous Driving", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.09981)] [[Project Page](https://opendrivelab.com/ReSim)]
+* **ReSim**: "ReSim: Reliable World Simulation for Autonomous Driving", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.09981)] [[Code](https://github.com/OpenDriveLab/ReSim)] [[Project Page](https://opendrivelab.com/ReSim)]
 * "Ego-centric Learning of Communicative World Models for Autonomous Driving", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.08149)] 
 * **Dreamland**: "Dreamland: Controllable World Creation with Simulator and Generative Models", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.08006)] [[Project Page](https://metadriverse.github.io/dreamland/)] 
 * **LongDWM**: "LongDWM: Cross-Granularity Distillation for Building a Long-Term Driving World Model", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.01546)] [[Project Page](https://wang-xiaodong1899.github.io/longdwm/)] 
