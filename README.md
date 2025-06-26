@@ -33,6 +33,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "From 2D to 3D Cognition: A Brief Survey of General World Models", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.20134)] 
 * "A Survey on World Models Grounded in Acoustic Physical Information", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13833)] 
 * "Exploring the Evolution of Physics Cognition in Video Generation: A Survey", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.21765)] [[Code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)]
 * "World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.15168)] 
@@ -209,12 +210,12 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
-* **V-JEPA 2 and V-JEPA 2-AC**: "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.09985)] [[Website](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)] [[Code](https://github.com/facebookresearch/vjepa2)]
 * **ManiGaussian++**: "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
 * **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website](https://manipulate-in-dream.github.io/)]
 * **ReOI**: "Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.16565)] 
 * **GAF**: "GAF: Gaussian Action Field as a Dynamic World Model for Robotic Mlanipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.14135)] [[Website](http://chaiying1.github.io/GAF.github.io/project_page/)]
 * "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins", **`RSS 2025`**. [[Paper](https://arxiv.org/abs/2506.13761)] [[Website](https://prompting-with-the-future.github.io/)]
+* **V-JEPA 2 and V-JEPA 2-AC**: "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.09985)] [[Website](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)] [[Code](https://github.com/facebookresearch/vjepa2)]
 * "Time-Aware World Model for Adaptive Prediction and Control", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2506.08441)] 
 * **3DFlowAction**: "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.06199)] 
 * **ORV**: "ORV: 4D Occupancy-centric Robot Video Generation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.03079)] [[Code](https://github.com/OrangeSodahub/ORV)] [[Website](https://orangesodahub.github.io/ORV/)]
