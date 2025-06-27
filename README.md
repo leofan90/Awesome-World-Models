@@ -210,6 +210,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **WorldVLA**: "WorldVLA: Towards Autoregressive Action World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.21539)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
 * **ManiGaussian++**: "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
 * **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website](https://manipulate-in-dream.github.io/)]
 * **ReOI**: "Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.16565)] 
