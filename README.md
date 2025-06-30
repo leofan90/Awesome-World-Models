@@ -33,6 +33,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Embodied AI Agents: Modeling the World", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.22355)] 
 * "From 2D to 3D Cognition: A Brief Survey of General World Models", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.20134)] 
 * "A Survey on World Models Grounded in Acoustic Physical Information", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13833)] 
 * "Exploring the Evolution of Physics Cognition in Video Generation: A Survey", **`arXiv 2025.03`**. [[Paper](https://arxiv.org/abs/2503.21765)] [[Code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)]
@@ -52,6 +53,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **WM-ABench**: "Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation", **`ACL 2025(Findings)`**. [[Paper](https://arxiv.org/abs/2506.21876)] [[Website](https://wm-abench.maitrix.org/)]
 * **UNIVERSE**: "Adapting Vision-Language Models for Evaluating World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.17967)]
 * **WorldPrediction**: "WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.04363)]
 * "Toward Memory-Aided World Models: Benchmarking via Spatial Consistency", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.22976)] [[Datasets](https://huggingface.co/datasets/kevinLian/LoopNav)] [[Code](https://github.com/Kevin-lkw/LoopNav)]
@@ -277,6 +279,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **SceneDiffuser++**: "SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2506.21976)]
 * **COME**: "COME: Adding Scene-Centric Forecasting Control to Occupancy World Model", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13260)] [[Code](https://github.com/synsin0/COME)]
 * **STAGE**: "STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13138)] 
 * **ReSim**: "ReSim: Reliable World Simulation for Autonomous Driving", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.09981)] [[Code](https://github.com/OpenDriveLab/ReSim)] [[Project Page](https://opendrivelab.com/ReSim)]
