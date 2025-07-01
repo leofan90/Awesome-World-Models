@@ -72,6 +72,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **NavMorph**: "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments", **`ICCV 2025`**. [[Paper](https://arxiv.org/abs/2506.19055)] [[Code](https://github.com/Feliciaxyao/NavMorph)]
+* "A “Good” Regulator May Provide a World Model for Intelligent Systems", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23032)]
 * **Xray2Xray**: "Xray2Xray: World Model from Chest X-rays with Volumetric Context", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19055)]
 * **MATWM**: "Transformer World Model for Sample Efficient Multi-Agent Reinforcement Learning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18537)]
 * "Measuring (a Sufficient) World Model in LLMs: A Variance Decomposition Framework", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.16584)]
@@ -212,6 +214,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **World4Omni**: "World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23919)] [[Website](https://world4omni.github.io/)]
+* **RoboScape**: "RoboScape: Physics-informed Embodied World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23135)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
+* **ParticleFormer**: "ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23126)] [[Website](https://particleformer.github.io/)]
 * **WorldVLA**: "WorldVLA: Towards Autoregressive Action World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.21539)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
 * **ManiGaussian++**: "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
 * **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website](https://manipulate-in-dream.github.io/)]
@@ -279,6 +284,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **Epona**: "Epona: Autoregressive Diffusion World Model for Autonomous Driving", **`ICCV2025`**. [[Paper](https://arxiv.org/abs/2506.24113)] [[Code](https://kevin-thu.github.io/Epona/)]
+* "Towards foundational LiDAR world models with efficient latent flow matching", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23434)]
 * **SceneDiffuser++**: "SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2506.21976)]
 * **COME**: "COME: Adding Scene-Centric Forecasting Control to Occupancy World Model", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13260)] [[Code](https://github.com/synsin0/COME)]
 * **STAGE**: "STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13138)] 
