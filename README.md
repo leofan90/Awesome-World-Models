@@ -33,6 +33,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "A Survey: Learning Embodied Intelligence from Physical Simulators and World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.00917)] [[Code](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)]
 * "Embodied AI Agents: Modeling the World", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.22355)] 
 * "From 2D to 3D Cognition: A Brief Survey of General World Models", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.20134)] 
 * "A Survey on World Models Grounded in Acoustic Physical Information", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.13833)] 
@@ -284,6 +285,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **World4Drive**: "World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model", **`ICCV2025`**. [[Paper](https://arxiv.org/abs/2507.00603)] [[Code](https://github.com/ucaszyp/World4Drive)]
 * **Epona**: "Epona: Autoregressive Diffusion World Model for Autonomous Driving", **`ICCV2025`**. [[Paper](https://arxiv.org/abs/2506.24113)] [[Code](https://kevin-thu.github.io/Epona/)]
 * "Towards foundational LiDAR world models with efficient latent flow matching", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23434)]
 * **SceneDiffuser++**: "SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model", **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2506.21976)]
