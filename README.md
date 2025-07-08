@@ -73,6 +73,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "When do World Models Successfully Learn Dynamical Systems?", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04898)]
+* **WebSynthesis**: "WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04370)]
+* "Accurate and Efficient World Modeling with Masked Latent Transformers", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04075)]
+* **Dyn-O**: "Dyn-O: Building Structured World Models with Object-Centric Representations", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.03298)]
 * **NavMorph**: "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments", **`ICCV 2025`**. [[Paper](https://arxiv.org/abs/2506.19055)] [[Code](https://github.com/Feliciaxyao/NavMorph)]
 * "A “Good” Regulator May Provide a World Model for Intelligent Systems", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23032)]
 * **Xray2Xray**: "Xray2Xray: World Model from Chest X-rays with Volumetric Context", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19055)]
@@ -285,6 +289,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **NRSeg**: "NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04002)] [[Code](https://github.com/lynn-yu/NRSeg)]
 * **World4Drive**: "World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model", **`ICCV2025`**. [[Paper](https://arxiv.org/abs/2507.00603)] [[Code](https://github.com/ucaszyp/World4Drive)]
 * **Epona**: "Epona: Autoregressive Diffusion World Model for Autonomous Driving", **`ICCV2025`**. [[Paper](https://arxiv.org/abs/2506.24113)] [[Code](https://kevin-thu.github.io/Epona/)]
 * "Towards foundational LiDAR world models with efficient latent flow matching", **`arXiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23434)]
