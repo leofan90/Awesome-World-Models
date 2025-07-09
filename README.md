@@ -73,6 +73,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Critiques of World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.05169)]
 * "When do World Models Successfully Learn Dynamical Systems?", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04898)]
 * **WebSynthesis**: "WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04370)]
 * "Accurate and Efficient World Modeling with Masked Latent Transformers", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04075)]
@@ -219,6 +220,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **EmbodieDreamer**: "EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/pdf/2507.05198)] [[Website](https://embodiedreamer.github.io/)]
 * **World4Omni**: "World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23919)] [[Website](https://world4omni.github.io/)]
 * **RoboScape**: "RoboScape: Physics-informed Embodied World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23135)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
 * **ParticleFormer**: "ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23126)] [[Website](https://particleformer.github.io/)]
