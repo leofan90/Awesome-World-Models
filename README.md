@@ -73,6 +73,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2507.06952)]
 * "Critiques of World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.05169)]
 * "When do World Models Successfully Learn Dynamical Systems?", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04898)]
 * **WebSynthesis**: "WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04370)]
