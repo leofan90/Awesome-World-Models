@@ -73,6 +73,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Graph World Model", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2507.10539)] [[Website](https://github.com/ulab-uiuc/GWM)]
+* **MobiWorld**: "MobiWorld: World Models for Mobile Wireless Network", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.09462)]
+* "Continual Reinforcement Learning by Planning with Online World Models", **`ICML 2025 Spotlight`**. [[Paper](https://arxiv.org/abs/2507.09177)]
+* **AirScape**: "AirScape: An Aerial Generative World Model with Motion Controllability", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.08885)] [[Website]( https://embodiedcity.github.io/AirScape/)]
 * **Geometry Forcing**: "Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.07982)] [[Website](https://GeometryForcing.github.io)]
 * **Martian World Models**: "Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.07978)] [[Website](https://marsgenai.github.io)]
 * "What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2507.06952)]
