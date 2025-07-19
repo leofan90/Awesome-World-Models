@@ -73,6 +73,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Assessing adaptive world models in machines with novel games", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.12821)]
 * "Graph World Model", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2507.10539)] [[Website](https://github.com/ulab-uiuc/GWM)]
 * **MobiWorld**: "MobiWorld: World Models for Mobile Wireless Network", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.09462)]
 * "Continual Reinforcement Learning by Planning with Online World Models", **`ICML 2025 Spotlight`**. [[Paper](https://arxiv.org/abs/2507.09177)]
@@ -227,6 +228,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Latent Policy Steering with Embodiment-Agnostic Pretrained World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13340)]
+* **MindJourney**: "MindJourney: Test-Time Scaling with World Models for Spatial Reasoning", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.12508)] [[Website](https://umass-embodied-agi.github.io/MindJourney)]
+* **FOUNDER**: "FOUNDER: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2507.12496)] [[Website](https://sites.google.com/view/founder-rl)]
 * **EmbodieDreamer**: "EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/pdf/2507.05198)] [[Website](https://embodiedreamer.github.io/)]
 * **World4Omni**: "World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23919)] [[Website](https://world4omni.github.io/)]
 * **RoboScape**: "RoboScape: Physics-informed Embodied World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23135)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
@@ -298,6 +302,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **Orbis**: "Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13162)] [[Code](hhttps://lmb-freiburg.github.io/orbis.github.io/)]
+* "World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.12762)]
 * **NRSeg**: "NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04002)] [[Code](https://github.com/lynn-yu/NRSeg)]
 * **World4Drive**: "World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model", **`ICCV2025`**. [[Paper](https://arxiv.org/abs/2507.00603)] [[Code](https://github.com/ucaszyp/World4Drive)]
 * **Epona**: "Epona: Autoregressive Diffusion World Model for Autonomous Driving", **`ICCV2025`**. [[Paper](https://arxiv.org/abs/2506.24113)] [[Code](https://kevin-thu.github.io/Epona/)]
