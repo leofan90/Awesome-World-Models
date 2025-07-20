@@ -15,6 +15,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
   - [Benchmarks & Evaluation](#benchmarks-&-evaluation)
   - [General World Models](#general-world-models)
   - [World Models for Embodied AI](#world-models-for-embodied-ai)
+  - [World Models for VLA](#world-models-for-VLA)  
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
   - [Citation](#citation)
 
@@ -235,9 +236,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **World4Omni**: "World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23919)] [[Website](https://world4omni.github.io/)]
 * **RoboScape**: "RoboScape: Physics-informed Embodied World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23135)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
 * **ParticleFormer**: "ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.23126)] [[Website](https://particleformer.github.io/)]
-* **WorldVLA**: "WorldVLA: Towards Autoregressive Action World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.21539)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
 * **ManiGaussian++**: "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
-* **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website](https://manipulate-in-dream.github.io/)]
 * **ReOI**: "Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.16565)] 
 * **GAF**: "GAF: Gaussian Action Field as a Dynamic World Model for Robotic Mlanipulation", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.14135)] [[Website](http://chaiying1.github.io/GAF.github.io/project_page/)]
 * "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins", **`RSS 2025`**. [[Paper](https://arxiv.org/abs/2506.13761)] [[Website](https://prompting-with-the-future.github.io/)]
@@ -295,9 +294,13 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **HRSSM**: "Learning Latent Dynamic Robust Representations for World Models", **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2405.06263)] [[Code](https://github.com/bit1029public/HRSSM)]
 * **RoboDreamer**: "RoboDreamer: Learning Compositional World Models for Robot Imagination", **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2404.12377)] [[Code](https://robovideo.github.io/)]
 * **COMBO**: "COMBO: Compositional World Models for Embodied Multi-Agent Cooperation", **`ECCV 2024`**. [[Paper](https://arxiv.org/abs/2404.10775)] [[Website](https://vis-www.cs.umass.edu/combo/)] [[Code](https://github.com/UMass-Foundation-Model/COMBO)]
-* **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model",  **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2403.09631)]
 * **ManiGaussian**: "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation", **`arXiv 2024.03`**.  [[Paper](https://arxiv.org/abs/2403.08321)] [[Code](https://guanxinglu.github.io/ManiGaussian/)]
 
+---
+## World Models for VLA
+* **WorldVLA**: "WorldVLA: Towards Autoregressive Action World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.21539)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
+* **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website](https://manipulate-in-dream.github.io/)]
+* **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model",  **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2403.09631)]
 
 ---
 ## World Models for Autonomous Driving
@@ -349,6 +352,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **InfinityDrive**: "InfinityDrive: Breaking Time Limits in Driving World Models", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.01522)] [[Project Page](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)]
 * **ReconDreamer**: "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.19548)] [[Project Page](https://recondreamer.github.io/)]
 * **Imagine-2-Drive**: "Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2411.10171)] [[Project Page](https://anantagrg.github.io/Imagine-2-Drive.github.io/)]
+* **DynamicCity**: "DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes", **`ICLR 2025 Spotlight`**. [[Paper](https://arxiv.org/abs/2410.18084)] [[Project Page](https://dynamic-city.github.io)] [[Code](https://github.com/3DTopia/DynamicCity)]
 * **DriveDreamer4D**: "World Models Are Effective Data Machines for 4D Driving Scene Representation", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.13571)] [[Project Page](https://drivedreamer4d.github.io/)]
 * **DOME**: "Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.10429)] [[Project Page](https://gusongen.github.io/DOME)]
 * **SSR**: "Does End-to-End Autonomous Driving Really Need Perception Tasks?", **`arXiv 2024.09`**. [[Paper](https://arxiv.org/abs/2409.18341)] [[Code](https://github.com/PeidongLi/SSR)]
