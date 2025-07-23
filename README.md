@@ -74,6 +74,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "LLM world models are mental: Output layer evidence of brittle world model use in LLM mechanical reasoning", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.15521)]
+* "Safety Certification in the Latent space using Control Barrier Functions and World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13871)]
 * "Assessing adaptive world models in machines with novel games", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.12821)]
 * "Graph World Model", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2507.10539)] [[Website](https://github.com/ulab-uiuc/GWM)]
 * **MobiWorld**: "MobiWorld: World Models for Mobile Wireless Network", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.09462)]
