@@ -74,6 +74,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Yume**: "Yume: An Interactive World Generation Model", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.17744)] [[Website](https://stdstu12.github.io/YUME-Project/)] [[Code](https://github.com/stdstu12/YUME)]
 * "LLM world models are mental: Output layer evidence of brittle world model use in LLM mechanical reasoning", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.15521)]
 * "Safety Certification in the Latent space using Control Barrier Functions and World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13871)]
 * "Assessing adaptive world models in machines with novel games", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.12821)]
