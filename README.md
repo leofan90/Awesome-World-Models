@@ -24,6 +24,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* What Does it Mean for a Neural Network to Learn a "World Model"?. [[Paper](https://arxiv.org/abs/2507.21513)]
 * **`Matrix-Game`**, Matrix-Game: Interactive World Foundation Model. [[Paper](https://arxiv.org/abs/2506.18701)] [[Code](https://github.com/SkyworkAI/Matrix-Game)] 
 * **`Cosmos-Drive-Dreams`**, Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models. [[Paper](https://arxiv.org/abs/2506.09042)] [[Website](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams)] 
 * **`GAIA-2`**, GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving. [[Paper](https://arxiv.org/abs/2503.20523)] [[Website](https://wayve.ai/thinking/gaia-2)]
