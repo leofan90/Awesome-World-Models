@@ -24,6 +24,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`HunyuanWorld 1.0`**, HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [[Paper](https://arxiv.org/abs/2507.21809)] [[Website](https://3d-models.hunyuan.tencent.com/world/)] [[Code](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)] 
 * What Does it Mean for a Neural Network to Learn a "World Model"?. [[Paper](https://arxiv.org/abs/2507.21513)]
 * **`Matrix-Game`**, Matrix-Game: Interactive World Foundation Model. [[Paper](https://arxiv.org/abs/2506.18701)] [[Code](https://github.com/SkyworkAI/Matrix-Game)] 
 * **`Cosmos-Drive-Dreams`**, Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models. [[Paper](https://arxiv.org/abs/2506.09042)] [[Website](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams)] 
@@ -234,6 +235,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **CoEx**: "CoEx -- Co-evolving World-model and Exploration", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.22281)]
 * "Latent Policy Steering with Embodiment-Agnostic Pretrained World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13340)]
 * **MindJourney**: "MindJourney: Test-Time Scaling with World Models for Spatial Reasoning", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.12508)] [[Website](https://umass-embodied-agi.github.io/MindJourney)]
 * **FOUNDER**: "FOUNDER: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2507.12496)] [[Website](https://sites.google.com/view/founder-rl)]
