@@ -76,6 +76,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **SimuRA**: "SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.23773)]
 * "Back to the Features: DINO as a Foundation for Video World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.19468)] 
 * **Yume**: "Yume: An Interactive World Generation Model", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.17744)] [[Website](https://stdstu12.github.io/YUME-Project/)] [[Code](https://github.com/stdstu12/YUME)]
 * "LLM world models are mental: Output layer evidence of brittle world model use in LLM mechanical reasoning", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.15521)]
@@ -312,7 +313,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
-* **Orbis**: "Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13162)] [[Code](hhttps://lmb-freiburg.github.io/orbis.github.io/)]
+* **FASTopoWM**: "FASTopoWM: Fast-Slow Lane Segment Topology Reasoning with Latent World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.23325)] [[Code](https://github.com/YimingYang23/FASTopoWM)]
+* **Orbis**: "Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13162)] [[Code](https://lmb-freiburg.github.io/orbis.github.io/)]
 * "World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.12762)]
 * **NRSeg**: "NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04002)] [[Code](https://github.com/lynn-yu/NRSeg)]
 * **World4Drive**: "World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model", **`ICCV2025`**. [[Paper](https://arxiv.org/abs/2507.00603)] [[Code](https://github.com/ucaszyp/World4Drive)]
