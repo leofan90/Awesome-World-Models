@@ -57,6 +57,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* "Beyond Simulation: Benchmarking World Models for Planning and Causality in Autonomous Driving", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2508.01922)] 
 * **WM-ABench**: "Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation", **`ACL 2025(Findings)`**. [[Paper](https://arxiv.org/abs/2506.21876)] [[Website](https://wm-abench.maitrix.org/)]
 * **UNIVERSE**: "Adapting Vision-Language Models for Evaluating World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.17967)]
 * **WorldPrediction**: "WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.04363)]
@@ -76,6 +77,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **PIGDreamer**: "PIGDreamer: Privileged Information Guided World Models for Safe Partially Observable Reinforcement Learning", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2508.02159)]
 * **SimuRA**: "SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.23773)]
 * "Back to the Features: DINO as a Foundation for Video World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.19468)] 
 * **Yume**: "Yume: An Interactive World Generation Model", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.17744)] [[Website](https://stdstu12.github.io/YUME-Project/)] [[Code](https://github.com/stdstu12/YUME)]
