@@ -34,7 +34,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Runway`**, Introducing General World Models. [[Blog](https://runwayml.com/research/introducing-general-world-models)]
 * **`Wayve`**, Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy. [[Paper](https://arxiv.org/pdf/2309.17080)] [[Blog](https://wayve.ai/thinking/introducing-gaia1/)] 
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
-* **`Yume`**, YUME: AN INTERACTIVE WORLD GENERATION MODEL. [[Paper](https://arxiv.org/pdf/2507.17744)] [[Code](https://github.com/leofan90/Awesome-World-Models)]
+* **`Yume`**, YUME: AN INTERACTIVE WORLD GENERATION MODEL. [[Paper](https://arxiv.org/pdf/2507.17744)] [[Code](https://github.com/stdstu12/YUME)]
 
 ## Surveys
 * "A Survey: Learning Embodied Intelligence from Physical Simulators and World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.00917)] [[Code](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)]
