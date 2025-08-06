@@ -34,7 +34,6 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Runway`**, Introducing General World Models. [[Blog](https://runwayml.com/research/introducing-general-world-models)]
 * **`Wayve`**, Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy. [[Paper](https://arxiv.org/pdf/2309.17080)] [[Blog](https://wayve.ai/thinking/introducing-gaia1/)] 
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
-* **`Yume`**, YUME: AN INTERACTIVE WORLD GENERATION MODEL. [[Paper](https://arxiv.org/pdf/2507.17744)] [[Code](https://github.com/stdstu12/YUME)]
 
 ## Surveys
 * "A Survey: Learning Embodied Intelligence from Physical Simulators and World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.00917)] [[Code](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)]
@@ -239,6 +238,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **DiWA**: "DiWA: Diffusion Policy Adaptation with World Models", **`CoRL 2025`**. [[Paper](https://arxiv.org/abs/2508.03645)] [[Code](https://diwa.cs.uni-freiburg.de)]
 * **CoEx**: "CoEx -- Co-evolving World-model and Exploration", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.22281)]
 * "Latent Policy Steering with Embodiment-Agnostic Pretrained World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13340)]
 * **MindJourney**: "MindJourney: Test-Time Scaling with World Models for Spatial Reasoning", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.12508)] [[Website](https://umass-embodied-agi.github.io/MindJourney)]
@@ -316,6 +316,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **LiDARCrafter**: "LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences", **`arXiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.03692)] [[Website](https://lidarcrafter.github.io)] [[Code](https://github.com/lidarcrafter/toolkit)]
 * **FASTopoWM**: "FASTopoWM: Fast-Slow Lane Segment Topology Reasoning with Latent World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.23325)] [[Code](https://github.com/YimingYang23/FASTopoWM)]
 * **Orbis**: "Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13162)] [[Code](https://lmb-freiburg.github.io/orbis.github.io/)]
 * "World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.12762)]
