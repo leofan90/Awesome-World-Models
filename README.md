@@ -238,6 +238,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **Genie Envisioner**: "Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.05635)] [[Website](https://genie-envisioner.github.io/)]
 * **DiWA**: "DiWA: Diffusion Policy Adaptation with World Models", **`CoRL 2025`**. [[Paper](https://arxiv.org/abs/2508.03645)] [[Code](https://diwa.cs.uni-freiburg.de)]
 * **CoEx**: "CoEx -- Co-evolving World-model and Exploration", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.22281)]
 * "Latent Policy Steering with Embodiment-Agnostic Pretrained World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13340)]
