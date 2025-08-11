@@ -238,6 +238,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Bounding Distributional Shifts in World Modeling through Novelty Detection", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06096)]
 * **Genie Envisioner**: "Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.05635)] [[Website](https://genie-envisioner.github.io/)]
 * **DiWA**: "DiWA: Diffusion Policy Adaptation with World Models", **`CoRL 2025`**. [[Paper](https://arxiv.org/abs/2508.03645)] [[Code](https://diwa.cs.uni-freiburg.de)]
 * **CoEx**: "CoEx -- Co-evolving World-model and Exploration", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.22281)]
@@ -310,8 +311,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for VLA
+* **DreamVLA**: "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04447)] [[Code](https://github.com/Zhangwenyao1/DreamVLA)] [[Website](https://zhangwenyao1.github.io/DreamVLA/)]
 * **WorldVLA**: "WorldVLA: Towards Autoregressive Action World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.21539)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
 * **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website](https://manipulate-in-dream.github.io/)]
+* **CoT-VLA**: "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",  **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2503.22020)]
 * **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model",  **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2403.09631)]
 
 ---
