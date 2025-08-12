@@ -24,6 +24,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Matrix-3D`**, Matrix-3D: Omnidirectional Explorable 3D World Generation. [[Paper](https://arxiv.org/abs/2508.08086)] [[Website](https://matrix-3d.github.io)]
 * **`HunyuanWorld 1.0`**, HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [[Paper](https://arxiv.org/abs/2507.21809)] [[Website](https://3d-models.hunyuan.tencent.com/world/)] [[Code](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)] 
 * What Does it Mean for a Neural Network to Learn a "World Model"?. [[Paper](https://arxiv.org/abs/2507.21513)]
 * **`Matrix-Game`**, Matrix-Game: Interactive World Foundation Model. [[Paper](https://arxiv.org/abs/2506.18701)] [[Code](https://github.com/SkyworkAI/Matrix-Game)] 
@@ -77,6 +78,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "In-Context Reinforcement Learning via Communicative World Models", **`arxiv 2025.08`**. [[Paper](hhttps://arxiv.org/abs/2508.06659)] [[Code](https://github.com/fernando-ml/CORAL )]
 * **PIGDreamer**: "PIGDreamer: Privileged Information Guided World Models for Safe Partially Observable Reinforcement Learning", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2508.02159)]
 * **SimuRA**: "SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.23773)]
 * "Back to the Features: DINO as a Foundation for Video World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.19468)] 
@@ -238,6 +240,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06990)]
 * "Bounding Distributional Shifts in World Modeling through Novelty Detection", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06096)]
 * **Genie Envisioner**: "Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.05635)] [[Website](https://genie-envisioner.github.io/)]
 * **DiWA**: "DiWA: Diffusion Policy Adaptation with World Models", **`CoRL 2025`**. [[Paper](https://arxiv.org/abs/2508.03645)] [[Code](https://diwa.cs.uni-freiburg.de)]
@@ -321,6 +324,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **IRL-VLA**: "IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model", **`arXiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06571)] [[Website](https://lidarcrafter.github.io)] [[Code](https://github.com/lidarcrafter/toolkit)]
 * **LiDARCrafter**: "LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences", **`arXiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.03692)] [[Website](https://lidarcrafter.github.io)] [[Code](https://github.com/lidarcrafter/toolkit)]
 * **FASTopoWM**: "FASTopoWM: Fast-Slow Lane Segment Topology Reasoning with Latent World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.23325)] [[Code](https://github.com/YimingYang23/FASTopoWM)]
 * **Orbis**: "Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.13162)] [[Code](https://lmb-freiburg.github.io/orbis.github.io/)]
