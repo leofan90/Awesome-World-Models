@@ -321,6 +321,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **CoT-VLA**: "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",  **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2501.18867)]
 * **UP-VLA**: "UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent",  **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2503.22020)] [[Code](https://github.com/CladernyJorn/UP-VLA)]
 * **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model",  **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2403.09631)]
+* **FLARE:** "Robot Learning with Implicit World Modeling" **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Code](https://github.com/NVIDIA/Isaac-GR00T)]
+* **UniVLA:** "Unified Vision-Language-Action Model" **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19850)] [[Code](https://robertwyq.github.io/univla.github.)]
+* 
 
 ---
 ## World Models for Autonomous Driving
