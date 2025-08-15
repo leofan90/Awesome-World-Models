@@ -320,10 +320,11 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website](https://manipulate-in-dream.github.io/)]
 * **CoT-VLA**: "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",  **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2501.18867)]
 * **UP-VLA**: "UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent",  **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2503.22020)] [[Code](https://github.com/CladernyJorn/UP-VLA)]
-* **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model",  **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2403.09631)]
-* **FLARE:** "Robot Learning with Implicit World Modeling" **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Code](https://github.com/NVIDIA/Isaac-GR00T)]
-* **UniVLA:** "Unified Vision-Language-Action Model" **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19850)] [[Code](https://robertwyq.github.io/univla.github.)]
-* 
+* **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model", **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2403.09631)]
+* **FLARE:** "Robot Learning with Implicit World Modeling",  **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Code](https://github.com/NVIDIA/Isaac-GR00T)]
+* **UniVLA:** "Unified Vision-Language-Action Model",  **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19850)] [[Code](https://robertwyq.github.io/univla.github.)]
+* **DREAMGEN**: Unlocking Generalization in Robot Learning through Video World Models,  **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2505.12705)] [[Code](https://github.com/nvidia/GR00T-dreams)]
+* **PAR**: Physical Autoregressive Model for Robotic Manipulation without Action Pretraining,  **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.09822)] [[Website](https://songzijian1999.github.io/PAR_ProjectPage/)]
 
 ---
 ## World Models for Autonomous Driving
