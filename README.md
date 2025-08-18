@@ -79,7 +79,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
-* "In-Context Reinforcement Learning via Communicative World Models", **`arxiv 2025.08`**. [[Paper](hhttps://arxiv.org/abs/2508.06659)] [[Code](https://github.com/fernando-ml/CORAL )]
+* "Visuomotor Grasping with World Models for Surgical Robots", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.11200)]
+* "In-Context Reinforcement Learning via Communicative World Models", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06659)] [[Code](https://github.com/fernando-ml/CORAL )]
 * **PIGDreamer**: "PIGDreamer: Privileged Information Guided World Models for Safe Partially Observable Reinforcement Learning", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2508.02159)]
 * **SimuRA**: "SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.23773)]
 * "Back to the Features: DINO as a Foundation for Video World Models", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.19468)] 
@@ -268,7 +269,6 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **OSVI-WM**: "OSVI-WM: One-Shot Visual Imitation for Unseen Tasks using World-Model-Guided Trajectory Generation", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.20425)] 
 * **WorldEval**: "WorldEval: World Model as Real-World Robot Policies Evaluator", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.19017)] [[Website](https://worldeval.github.io)]
 * "Consistent World Models via Foresight Diffusion", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.16474)] 
-* **FLARE**: "FLARE: Robot Learning with Implicit World Modeling", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Website](https://research.nvidia.com/labs/gear/flare)]
 * **Vid2World**: "Vid2World: Crafting Video Diffusion Models to Interactive World Models", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.14357)] [[Website](http://knightnemo.github.io/vid2world/)]
 * **RLVR-World**: "RLVR-World: Training World Models with Reinforcement Learning", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.13934)] [[Website]( https://thuml.github.io/RLVR-World/)] [[Code](https://github.com/thuml/RLVR-World)]
 * **LaDi-WM**: "LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation", **`arXiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.11528)]
@@ -315,16 +315,16 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for VLA
+* **PAR**: "Physical Autoregressive Model for Robotic Manipulation without Action Pretraining",  **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.09822)] [[Website](https://songzijian1999.github.io/PAR_ProjectPage/)]
 * **DreamVLA**: "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04447)] [[Code](https://github.com/Zhangwenyao1/DreamVLA)] [[Website](https://zhangwenyao1.github.io/DreamVLA/)]
 * **WorldVLA**: "WorldVLA: Towards Autoregressive Action World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.21539)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
+* **UniVLA**: "UniVLA: Unified Vision-Language-Action Model",  **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19850)] [[Code](https://robertwyq.github.io/univla.github.)]
 * **MinD**: "MinD: Unified Visual Imagination and Control via Hierarchical World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.18897)] [[Website](https://manipulate-in-dream.github.io/)]
+* **FLARE**: "FLARE: Robot Learning with Implicit World Modeling",  **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Code](https://github.com/NVIDIA/Isaac-GR00T)] [[Website](https://research.nvidia.com/labs/gear/flare)]
+* **DreamGen**: "DreamGen: Unlocking Generalization in Robot Learning through Video World Models",  **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2505.12705)] [[Code](https://github.com/nvidia/GR00T-dreams)]
 * **CoT-VLA**: "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",  **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2501.18867)]
 * **UP-VLA**: "UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent",  **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2503.22020)] [[Code](https://github.com/CladernyJorn/UP-VLA)]
-* **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model", **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2403.09631)]
-* **FLARE:** "Robot Learning with Implicit World Modeling",  **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2505.15659)] [[Code](https://github.com/NVIDIA/Isaac-GR00T)]
-* **UniVLA:** "Unified Vision-Language-Action Model",  **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.19850)] [[Code](https://robertwyq.github.io/univla.github.)]
-* **DREAMGEN**: Unlocking Generalization in Robot Learning through Video World Models,  **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2505.12705)] [[Code](https://github.com/nvidia/GR00T-dreams)]
-* **PAR**: Physical Autoregressive Model for Robotic Manipulation without Action Pretraining,  **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.09822)] [[Website](https://songzijian1999.github.io/PAR_ProjectPage/)]
+* **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model",  **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2403.09631)]
 
 ---
 ## World Models for Autonomous Driving
