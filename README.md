@@ -24,6 +24,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Matrix-Game 2.0`**, Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model. [[Paper](https://arxiv.org/abs/2508.13009)] [[Website](https://matrix-game-v2.github.io/)]
 * **`Matrix-3D`**, Matrix-3D: Omnidirectional Explorable 3D World Generation. [[Paper](https://arxiv.org/abs/2508.08086)] [[Website](https://matrix-3d.github.io)]
 * **`HunyuanWorld 1.0`**, HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [[Paper](https://arxiv.org/abs/2507.21809)] [[Website](https://3d-models.hunyuan.tencent.com/world/)] [[Code](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)] 
 * What Does it Mean for a Neural Network to Learn a "World Model"?. [[Paper](https://arxiv.org/abs/2507.21513)]
@@ -79,6 +80,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Scalable RF Simulation in Generative 4D Worlds", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.12176)]
+* "Finite Automata Extraction: Low-data World Model Learning as Programs from Gameplay Video", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.11836)]
 * "Visuomotor Grasping with World Models for Surgical Robots", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.11200)]
 * "In-Context Reinforcement Learning via Communicative World Models", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06659)] [[Code](https://github.com/fernando-ml/CORAL )]
 * **PIGDreamer**: "PIGDreamer: Privileged Information Guided World Models for Safe Partially Observable Reinforcement Learning", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2508.02159)]
