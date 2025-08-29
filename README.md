@@ -80,6 +80,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.20294)]
 * **HERO**: "HERO: Hierarchical Extrapolation and Refresh for Efficient World Models", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.17588)]
 * "Scalable RF Simulation in Generative 4D Worlds", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.12176)]
 * "Finite Automata Extraction: Low-data World Model Learning as Programs from Gameplay Video", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.11836)]
@@ -246,6 +247,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Learning Primitive Embodied World Models: Towards Scalable Robotic Learning", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/pdf/2508.20840)] [[Website](https://qiaosun22.github.io/PrimitiveWorld/)]
 * **GWM**: "GWM: Towards Scalable Gaussian World Models for Robotic Manipulation", **`ICCV 2025`**. [[Paper](https://arxiv.org/abs/2508.17600)] [[Website](https://gaussian-world-model.github.io/)]
 * "Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06990)]
 * "Bounding Distributional Shifts in World Modeling through Novelty Detection", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06096)]
