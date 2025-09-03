@@ -80,6 +80,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Social World Models", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.00559)]
 * "Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.20294)]
 * **HERO**: "HERO: Hierarchical Extrapolation and Refresh for Efficient World Models", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.17588)]
 * "Scalable RF Simulation in Generative 4D Worlds", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.12176)]
