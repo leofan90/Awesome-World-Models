@@ -80,6 +80,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Planning with Reasoning using Vision Language World Model", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.02722)]
 * "Social World Models", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.00559)]
 * "Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.20294)]
 * **HERO**: "HERO: Hierarchical Extrapolation and Refresh for Efficient World Models", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.17588)]
@@ -248,6 +249,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "World Model Implanting for Test-time Adaptation of Embodied Agents", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2509.03956)]
 * "Learning Primitive Embodied World Models: Towards Scalable Robotic Learning", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/pdf/2508.20840)] [[Website](https://qiaosun22.github.io/PrimitiveWorld/)]
 * **GWM**: "GWM: Towards Scalable Gaussian World Models for Robotic Manipulation", **`ICCV 2025`**. [[Paper](https://arxiv.org/abs/2508.17600)] [[Website](https://gaussian-world-model.github.io/)]
 * "Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06990)]
@@ -337,6 +339,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **OccTENS**: "OccTENS: 3D Occupancy World Model via Temporal Next-Scale Prediction", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.03887)]
 * **IRL-VLA**: "IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model", **`arXiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06571)] [[Website](https://lidarcrafter.github.io)] [[Code](https://github.com/lidarcrafter/toolkit)]
 * **LiDARCrafter**: "LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences", **`arXiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.03692)] [[Website](https://lidarcrafter.github.io)] [[Code](https://github.com/lidarcrafter/toolkit)]
 * **FASTopoWM**: "FASTopoWM: Fast-Slow Lane Segment Topology Reasoning with Latent World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.23325)] [[Code](https://github.com/YimingYang23/FASTopoWM)]
