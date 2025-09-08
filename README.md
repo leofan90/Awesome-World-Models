@@ -80,6 +80,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **LatticeWorld**: "LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.05263)]
 * "Planning with Reasoning using Vision Language World Model", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.02722)]
 * "Social World Models", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.00559)]
 * "Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.20294)]
