@@ -80,6 +80,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.07945)] [[Code](https://github.com/opendilab/LightZero)]
 * **LatticeWorld**: "LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.05263)]
 * "Planning with Reasoning using Vision Language World Model", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.02722)]
 * "Social World Models", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.00559)]
