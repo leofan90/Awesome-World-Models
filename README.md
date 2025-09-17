@@ -61,6 +61,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **OmniWorld**: "OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.12201)] [[Website](https://yangzhou24.github.io/OmniWorld/)]
 * "Beyond Simulation: Benchmarking World Models for Planning and Causality in Autonomous Driving", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2508.01922)] 
 * **WM-ABench**: "Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation", **`ACL 2025(Findings)`**. [[Paper](https://arxiv.org/abs/2506.21876)] [[Website](https://wm-abench.maitrix.org/)]
 * **UNIVERSE**: "Adapting Vision-Language Models for Evaluating World Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.17967)]
@@ -81,6 +82,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "World Modeling with Probabilistic Structure Integration", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.09737)]
 * "One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.07945)] [[Code](https://github.com/opendilab/LightZero)]
 * **LatticeWorld**: "LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.05263)]
 * "Planning with Reasoning using Vision Language World Model", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.02722)]
@@ -252,6 +254,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Empowering Multi-Robot Cooperation via Sequential World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.13095)]
 * "World Model Implanting for Test-time Adaptation of Embodied Agents", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2509.03956)]
 * "Learning Primitive Embodied World Models: Towards Scalable Robotic Learning", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/pdf/2508.20840)] [[Website](https://qiaosun22.github.io/PrimitiveWorld/)]
 * **GWM**: "GWM: Towards Scalable Gaussian World Models for Robotic Manipulation", **`ICCV 2025`**. [[Paper](https://arxiv.org/abs/2508.17600)] [[Website](https://gaussian-world-model.github.io/)]
@@ -342,6 +345,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **TeraSim-World**: "TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.13164)] [[Website](https://wjiawei.com/terasim-world-web/)] 
+* "Enhancing Physical Consistency in Lightweight World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.12437)]
 * **OccTENS**: "OccTENS: 3D Occupancy World Model via Temporal Next-Scale Prediction", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.03887)]
 * **IRL-VLA**: "IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model", **`arXiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.06571)] [[Website](https://lidarcrafter.github.io)] [[Code](https://github.com/lidarcrafter/toolkit)]
 * **LiDARCrafter**: "LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences", **`arXiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.03692)] [[Website](https://lidarcrafter.github.io)] [[Code](https://github.com/lidarcrafter/toolkit)]
