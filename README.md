@@ -254,6 +254,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **PhysicalAgent**: "PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.13903)]
 * "Empowering Multi-Robot Cooperation via Sequential World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.13095)]
 * "World Model Implanting for Test-time Adaptation of Embodied Agents", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2509.03956)]
 * "Learning Primitive Embodied World Models: Towards Scalable Robotic Learning", **`arxiv 2025.08`**. [[Paper](https://arxiv.org/pdf/2508.20840)] [[Website](https://qiaosun22.github.io/PrimitiveWorld/)]
