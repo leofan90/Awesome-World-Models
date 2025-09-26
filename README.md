@@ -38,6 +38,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Embodied AI: From LLMs to World Models", **`IEEE CASM`**. [[Paper](https://arxiv.org/abs/2509.20021)]
 * "3D and 4D World Modeling: A Survey", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.07996)]
 * "Edge General Intelligence Through World Models and Agentic AI: Fundamentals, Solutions, and Challenges", **`arXiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.09561)]
 * "A Survey: Learning Embodied Intelligence from Physical Simulators and World Models", **`arXiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.00917)] [[Code](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)]
@@ -82,6 +83,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Remote Sensing-Oriented World Model", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.17808)]
 * "World Modeling with Probabilistic Structure Integration", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.09737)]
 * "One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.07945)] [[Code](https://github.com/opendilab/LightZero)]
 * **LatticeWorld**: "LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.05263)]
@@ -254,6 +256,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **KeyWorld**: "KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21027)]
+* **DAWM**: "DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions", **`ICML 2025 Workshop`**. [[Paper](https://arxiv.org/abs/2509.19538)]
+* **World4RL**: "World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.19080)]
+* **SAMPO**: "SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.15536)]
 * **PhysicalAgent**: "PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.13903)]
 * "Empowering Multi-Robot Cooperation via Sequential World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.13095)]
 * "World Model Implanting for Test-time Adaptation of Embodied Agents", **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2509.03956)]
@@ -332,6 +338,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for VLA
+* "Latent Action Pretraining Through World Modeling",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.18428)] 
 * **PAR**: "Physical Autoregressive Model for Robotic Manipulation without Action Pretraining",  **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.09822)] [[Website](https://songzijian1999.github.io/PAR_ProjectPage/)]
 * **DreamVLA**: "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04447)] [[Code](https://github.com/Zhangwenyao1/DreamVLA)] [[Website](https://zhangwenyao1.github.io/DreamVLA/)]
 * **WorldVLA**: "WorldVLA: Towards Autoregressive Action World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.21539)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
