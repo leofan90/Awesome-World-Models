@@ -24,6 +24,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`WoW`**, WoW: Towards a World omniscient World model Through Embodied Interaction. [[Paper](https://arxiv.org/abs/2509.22642)] [[Website](https://wow-world-model.github.io/)]
 * **`Matrix-Game 2.0`**, Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model. [[Paper](https://arxiv.org/abs/2508.13009)] [[Website](https://matrix-game-v2.github.io/)]
 * **`Matrix-3D`**, Matrix-3D: Omnidirectional Explorable 3D World Generation. [[Paper](https://arxiv.org/abs/2508.08086)] [[Website](https://matrix-3d.github.io)]
 * **`HunyuanWorld 1.0`**, HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [[Paper](https://arxiv.org/abs/2507.21809)] [[Website](https://3d-models.hunyuan.tencent.com/world/)] [[Code](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)] 
@@ -83,6 +84,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Context and Diversity Matter: The Emergence of In-Context Learning in World Models", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.22353)]
+* **FantasyWorld**: "FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21657)]
 * "Remote Sensing-Oriented World Model", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.17808)]
 * "World Modeling with Probabilistic Structure Integration", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.09737)]
 * "One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.07945)] [[Code](https://github.com/opendilab/LightZero)]
@@ -256,6 +259,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **EMMA**: "EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.22407)]
+* **LongScape**: "LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21790)]
 * **KeyWorld**: "KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21027)]
 * **DAWM**: "DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions", **`ICML 2025 Workshop`**. [[Paper](https://arxiv.org/abs/2509.19538)]
 * **World4RL**: "World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.19080)]
@@ -338,6 +343,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for VLA
+* **MoWM**: "MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21797)] 
 * "Latent Action Pretraining Through World Modeling",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.18428)] 
 * **PAR**: "Physical Autoregressive Model for Robotic Manipulation without Action Pretraining",  **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.09822)] [[Website](https://songzijian1999.github.io/PAR_ProjectPage/)]
 * **DreamVLA**: "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04447)] [[Code](https://github.com/Zhangwenyao1/DreamVLA)] [[Website](https://zhangwenyao1.github.io/DreamVLA/)]
