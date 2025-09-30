@@ -84,6 +84,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **DyMoDreamer**: "DyMoDreamer: World Modeling with Dynamic Modulation", **`NeurIPS 2025`**. [[Paper](https://arxiv.org/abs/2509.24804)] [[Code](https://github.com/Ultraman-Tiga1/DyMoDreamer)]
+* **Dreamer4**: "Training Agents Inside of Scalable World Models", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.24527)] [[Website](https://danijar.com/dreamer4/)]
+* "Reinforcement Learning with Inverse Rewards for World Model Post-training", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.23958)]
 * "Context and Diversity Matter: The Emergence of In-Context Learning in World Models", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.22353)]
 * **FantasyWorld**: "FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21657)]
 * "Remote Sensing-Oriented World Model", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.17808)]
@@ -343,6 +346,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for VLA
+* **World-Env**: "World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.24948)] 
 * **MoWM**: "MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21797)] 
 * "Latent Action Pretraining Through World Modeling",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.18428)] 
 * **PAR**: "Physical Autoregressive Model for Robotic Manipulation without Action Pretraining",  **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.09822)] [[Website](https://songzijian1999.github.io/PAR_ProjectPage/)]
