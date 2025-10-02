@@ -14,6 +14,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
   - [Surveys](#surveys)
   - [Benchmarks & Evaluation](#benchmarks-&-evaluation)
   - [General World Models](#general-world-models)
+  - [World Models for Visual Understanding](#world-models-for-visual-understanding)
   - [World Models for Embodied AI](#world-models-for-embodied-ai)
   - [World Models for VLA](#world-models-for-VLA)  
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
@@ -259,6 +260,12 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **TD-MPC2**: "TD-MPC2: Scalable, Robust World Models for Continuous Control", **`ICLR 2024`**. [[Paper](https://arxiv.org/pdf/2310.16828)] [[Torch Code](https://github.com/nicklashansen/tdmpc2)]
 * **Hieros**: "Hieros: Hierarchical Imagination on Structured State Space Sequence World Models", **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2310.05167)]
 * **CoWorld**: "Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning", **`NeurIPS 2024`**. [[Paper](https://arxiv.org/abs/2305.15260)]
+
+---
+## World Models for Visual Understanding
+* **DyVA**: "Can World Models Benefit VLMs for World Dynamics?", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.00855)]
+* "Video models are zero-shot learners and reasoners", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.20328)]
+* "From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.07280)]
 
 ---
 ## World Models for Embodied AI
