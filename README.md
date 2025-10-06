@@ -14,9 +14,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
   - [Surveys](#surveys)
   - [Benchmarks & Evaluation](#benchmarks-&-evaluation)
   - [General World Models](#general-world-models)
-  - [World Models for Visual Understanding](#world-models-for-visual-understanding)
   - [World Models for Embodied AI](#world-models-for-embodied-ai)
   - [World Models for VLA](#world-models-for-VLA)  
+  - [World Models for Visual Understanding](#world-models-for-visual-understanding)
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
   - [Citation](#citation)
 
