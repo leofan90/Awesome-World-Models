@@ -25,6 +25,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`CWM`**, CWM: An Open-Weights LLM for Research on Code Generation with World Models. [[Paper](https://arxiv.org/abs/2510.02387)] [[Website](https://ai.meta.com/resources/models-and-libraries/cwm-downloads)] [[Code](https://github.com/facebookresearch/cwm)]
 * **`WoW`**, WoW: Towards a World omniscient World model Through Embodied Interaction. [[Paper](https://arxiv.org/abs/2509.22642)] [[Website](https://wow-world-model.github.io/)]
 * **`Matrix-Game 2.0`**, Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model. [[Paper](https://arxiv.org/abs/2508.13009)] [[Website](https://matrix-game-v2.github.io/)]
 * **`Matrix-3D`**, Matrix-3D: Omnidirectional Explorable 3D World Generation. [[Paper](https://arxiv.org/abs/2508.08086)] [[Website](https://matrix-3d.github.io)]
@@ -85,6 +86,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **EvoWorld**: "EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.01183)] [[Code](https://github.com/JiahaoPlus/EvoWorld)]
+* "World Model for AI Autonomous Navigation in Mechanical Thrombectomy", **`MICCAI 2025. Lecture Notes in Computer Science`**. [[Paper](https://arxiv.org/abs/2509.25518)] 
 * **DyMoDreamer**: "DyMoDreamer: World Modeling with Dynamic Modulation", **`NeurIPS 2025`**. [[Paper](https://arxiv.org/abs/2509.24804)] [[Code](https://github.com/Ultraman-Tiga1/DyMoDreamer)]
 * **Dreamer4**: "Training Agents Inside of Scalable World Models", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.24527)] [[Website](https://danijar.com/dreamer4/)]
 * "Reinforcement Learning with Inverse Rewards for World Model Post-training", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.23958)]
@@ -262,13 +265,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **CoWorld**: "Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning", **`NeurIPS 2024`**. [[Paper](https://arxiv.org/abs/2305.15260)]
 
 ---
-## World Models for Visual Understanding
-* **DyVA**: "Can World Models Benefit VLMs for World Dynamics?", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.00855)]
-* "Video models are zero-shot learners and reasoners", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.20328)]
-* "From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.07280)]
-
----
 ## World Models for Embodied AI
+* "A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.02538)]
+* "Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models", **`RSS 2025 Workshop on Resilient Off-road Autonomous Robotics (ROAR)`**. [[Paper](https://arxiv.org/abs/2509.26339)]
 * **EMMA**: "EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.22407)]
 * **LongScape**: "LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21790)]
 * **KeyWorld**: "KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21027)]
@@ -353,6 +352,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for VLA
+* **VLA-RFT**: "VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators",  **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.00406)] 
 * **World-Env**: "World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.24948)] 
 * **MoWM**: "MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21797)] 
 * "Latent Action Pretraining Through World Modeling",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.18428)] 
@@ -366,6 +366,12 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **CoT-VLA**: "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",  **`CVPR 2025`**. [[Paper](https://arxiv.org/abs/2501.18867)]
 * **UP-VLA**: "UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent",  **`ICML 2025`**. [[Paper](https://arxiv.org/abs/2503.22020)] [[Code](https://github.com/CladernyJorn/UP-VLA)]
 * **3D-VLA**: "3D-VLA: A 3D Vision-Language-Action Generative World Model",  **`ICML 2024`**. [[Paper](https://arxiv.org/abs/2403.09631)]
+
+---
+## World Models for Visual Understanding
+* **DyVA**: "Can World Models Benefit VLMs for World Dynamics?", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.00855)] [[Website](https://dyva-worldlm.github.io)] 
+* "Video models are zero-shot learners and reasoners", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.20328)]
+* "From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.07280)]
 
 ---
 ## World Models for Autonomous Driving
