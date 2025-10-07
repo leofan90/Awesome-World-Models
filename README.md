@@ -86,6 +86,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Code World Models for General Game Playing", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.04542)]
+* **MorphoSim**: "MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.04390)] [[code](https://github.com/eric-ai-lab/Morph4D)]
+* **ChronoEdit**: "ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.04290)] [[Website](https://research.nvidia.com/labs/toronto-ai/chronoedit)]
+* **SFP**: "Spatiotemporal Forecasting as Planning: A Model-Based Reinforcement Learning Approach with Generative World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.04020)]
 * **EvoWorld**: "EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.01183)] [[Code](https://github.com/JiahaoPlus/EvoWorld)]
 * "World Model for AI Autonomous Navigation in Mechanical Thrombectomy", **`MICCAI 2025. Lecture Notes in Computer Science`**. [[Paper](https://arxiv.org/abs/2509.25518)] 
 * **DyMoDreamer**: "DyMoDreamer: World Modeling with Dynamic Modulation", **`NeurIPS 2025`**. [[Paper](https://arxiv.org/abs/2509.24804)] [[Code](https://github.com/Ultraman-Tiga1/DyMoDreamer)]
