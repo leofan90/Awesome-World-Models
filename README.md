@@ -41,6 +41,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "The Safety Challenge of World Models for Embodied AI Agents: A Review", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.05865)]
 * "Embodied AI: From LLMs to World Models", **`IEEE CASM`**. [[Paper](https://arxiv.org/abs/2509.20021)]
 * "3D and 4D World Modeling: A Survey", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.07996)]
 * "Edge General Intelligence Through World Models and Agentic AI: Fundamentals, Solutions, and Challenges", **`arXiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.09561)]
