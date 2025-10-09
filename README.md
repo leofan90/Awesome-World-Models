@@ -271,6 +271,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **WristWorld**: "WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.07313)]
 * "A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.02538)]
 * "Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models", **`RSS 2025 Workshop on Resilient Off-road Autonomous Robotics (ROAR)`**. [[Paper](https://arxiv.org/abs/2509.26339)]
 * **EMMA**: "EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.22407)]
