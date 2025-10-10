@@ -66,6 +66,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **VideoVerse**: "VideoVerse: How Far is Your T2V Generator from a World Model?", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.08398)] 
 * **OmniWorld**: "OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.12201)] [[Website](https://yangzhou24.github.io/OmniWorld/)]
 * "Beyond Simulation: Benchmarking World Models for Planning and Causality in Autonomous Driving", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2508.01922)] 
 * **WM-ABench**: "Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation", **`ACL 2025(Findings)`**. [[Paper](https://arxiv.org/abs/2506.21876)] [[Website](https://wm-abench.maitrix.org/)]
