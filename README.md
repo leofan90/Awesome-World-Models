@@ -88,6 +88,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Unified World Models**: "Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.08713)] [[code](https://github.com/F1y1113/UniWM)]
 * "Code World Models for General Game Playing", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.04542)]
 * **MorphoSim**: "MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.04390)] [[code](https://github.com/eric-ai-lab/Morph4D)]
 * **ChronoEdit**: "ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.04290)] [[Website](https://research.nvidia.com/labs/toronto-ai/chronoedit)]
@@ -272,6 +273,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **iMoWM**: "iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.07313)] [[Website](https://xingyoujun.github.io/imowm/)]
 * **WristWorld**: "WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.07313)]
 * "A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.02538)]
 * "Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models", **`RSS 2025 Workshop on Resilient Off-road Autonomous Robotics (ROAR)`**. [[Paper](https://arxiv.org/abs/2509.26339)]
