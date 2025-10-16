@@ -88,6 +88,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Deep SPI**: "Deep SPI: Safe Policy Improvement via World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12312)] 
+* "One Life to Learn: Inferring Symbolic World Models for Stochastic Environments from Unguided Exploration", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12088)] [[Code](https://onelife-worldmodel.github.io/)]
+* **R-WoM**: "R-WoM: Retrieval-augmented World Model For Computer-use Agents", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.11892)] 
 * **WorldMirror**: "WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/pdf/2510.10726)] 
 * **Unified World Models**: "Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.08713)] [[code](https://github.com/F1y1113/UniWM)]
 * "Code World Models for General Game Playing", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.04542)]
@@ -388,6 +391,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **DriveVLA-W0**: "DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12560)] [[Code](https://github.com/BraveGroup/DriveVLA-W0)] 
+* **CoIRL-AD**: "CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in Latent World Models for Autonomous Driving", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12560)] [[Code](https://github.com/SEU-zxj/CoIRL-AD)] 
 * **TeraSim-World**: "TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.13164)] [[Website](https://wjiawei.com/terasim-world-web/)] 
 * "Enhancing Physical Consistency in Lightweight World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.12437)]
 * **OccTENS**: "OccTENS: 3D Occupancy World Model via Temporal Next-Scale Prediction", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.03887)]
