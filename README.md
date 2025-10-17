@@ -88,6 +88,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Terra**: "Terra: Explorable Native 3D World Model with Point Latents", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.14977)] [[Website](https://huang-yh.github.io/terra/)]
 * **Deep SPI**: "Deep SPI: Safe Policy Improvement via World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12312)] 
 * "One Life to Learn: Inferring Symbolic World Models for Stochastic Environments from Unguided Exploration", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12088)] [[Code](https://onelife-worldmodel.github.io/)]
 * **R-WoM**: "R-WoM: Retrieval-augmented World Model For Computer-use Agents", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.11892)] 
