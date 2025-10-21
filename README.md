@@ -41,6 +41,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "A Comprehensive Survey on World Models for Embodied AI", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/pdf/2510.16732)] [[Website](https://github.com/Li-Zn-H/AwesomeWorldModels)]
 * "The Safety Challenge of World Models for Embodied AI Agents: A Review", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.05865)]
 * "Embodied AI: From LLMs to World Models", **`IEEE CASM`**. [[Paper](https://arxiv.org/abs/2509.20021)]
 * "3D and 4D World Modeling: A Survey", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.07996)]
@@ -88,6 +89,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **VAGEN**: "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2510.16907)] [[Website](http://mll.lab.northwestern.edu/VAGEN/)] 
+* **Cosmos-Surg-dVRK**: "Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.16240)] 
+* "Zero-shot World Models via Search in Memory", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.16123)] 
+* "Vector Quantization in the Brain: Grid-like Codes in World Models", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2510.16039)] 
 * **Terra**: "Terra: Explorable Native 3D World Model with Point Latents", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.14977)] [[Website](https://huang-yh.github.io/terra/)]
 * **Deep SPI**: "Deep SPI: Safe Policy Improvement via World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12312)] 
 * "One Life to Learn: Inferring Symbolic World Models for Stochastic Environments from Unguided Exploration", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12088)] [[Code](https://onelife-worldmodel.github.io/)]
@@ -392,6 +397,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **SparseWorld**: "SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.17482)] [[Code](https://github.com/MSunDYY/SparseWorld)] 
+* "Vision-Centric 4D Occupancy Forecasting and Planning via Implicit Residual World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.16729)] 
 * **DriveVLA-W0**: "DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12560)] [[Code](https://github.com/BraveGroup/DriveVLA-W0)] 
 * **CoIRL-AD**: "CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in Latent World Models for Autonomous Driving", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12560)] [[Code](https://github.com/SEU-zxj/CoIRL-AD)] 
 * **TeraSim-World**: "TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.13164)] [[Website](https://wjiawei.com/terasim-world-web/)] 
