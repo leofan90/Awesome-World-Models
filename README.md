@@ -67,6 +67,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **World-in-World**: "World-in-World: World Models in a Closed-Loop World", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.18135)] [[Website](https://github.com/World-In-World/world-in-world)] 
 * **VideoVerse**: "VideoVerse: How Far is Your T2V Generator from a World Model?", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.08398)] 
 * **OmniWorld**: "OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.12201)] [[Website](https://yangzhou24.github.io/OmniWorld/)]
 * "Beyond Simulation: Benchmarking World Models for Planning and Causality in Autonomous Driving", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2508.01922)] 
@@ -397,6 +398,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **OmniNWM**: "OmniNWM: Omniscient Driving Navigation World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.18313)] [[Website](https://arlo0o.github.io/OmniNWM/)] 
 * **SparseWorld**: "SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.17482)] [[Code](https://github.com/MSunDYY/SparseWorld)] 
 * "Vision-Centric 4D Occupancy Forecasting and Planning via Implicit Residual World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.16729)] 
 * **DriveVLA-W0**: "DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.12560)] [[Code](https://github.com/BraveGroup/DriveVLA-W0)] 
