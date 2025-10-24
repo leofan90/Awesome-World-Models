@@ -42,6 +42,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "From Masks to Worlds: A Hitchhiker's Guide to World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.20668)] [[Website](https://github.com/M-E-AGI-Lab/Awesome-World-Models)]
 * "A Comprehensive Survey on World Models for Embodied AI", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/pdf/2510.16732)] [[Website](https://github.com/Li-Zn-H/AwesomeWorldModels)]
 * "The Safety Challenge of World Models for Embodied AI Agents: A Review", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.05865)]
 * "Embodied AI: From LLMs to World Models", **`IEEE CASM`**. [[Paper](https://arxiv.org/abs/2509.20021)]
