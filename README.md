@@ -25,6 +25,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`ODesign`**, ODesign: A World Model for Biomolecular Interaction Design. [[Paper](https://arxiv.org/pdf/2510.22304)] [[Website](https://odesign.lglab.ac.cn)]
 * **`GigaBrain-0`**, GigaBrain-0: A World Model-Powered Vision-Language-Action Model. [[Paper](https://arxiv.org/abs/2510.19430)] [[Website](https://gigabrain0.github.io/)]
 * **`CWM`**, CWM: An Open-Weights LLM for Research on Code Generation with World Models. [[Paper](https://arxiv.org/abs/2510.02387)] [[Website](https://ai.meta.com/resources/models-and-libraries/cwm-downloads)] [[Code](https://github.com/facebookresearch/cwm)]
 * **`WoW`**, WoW: Towards a World omniscient World model Through Embodied Interaction. [[Paper](https://arxiv.org/abs/2509.22642)] [[Website](https://wow-world-model.github.io/)]
@@ -42,6 +43,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "World Models Should Prioritize the Unification of Physical and Social Dynamics", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2510.21219)] [[Website](https://sites.google.com/view/world-model-position)]
 * "From Masks to Worlds: A Hitchhiker's Guide to World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.20668)] [[Website](https://github.com/M-E-AGI-Lab/Awesome-World-Models)]
 * "A Comprehensive Survey on World Models for Embodied AI", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/pdf/2510.16732)] [[Website](https://github.com/Li-Zn-H/AwesomeWorldModels)]
 * "The Safety Challenge of World Models for Embodied AI Agents: A Review", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.05865)]
@@ -93,6 +95,11 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Semantic Communications with World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.24785)]
+* **TRELLISWorld**: "TRELLISWorld: Training-Free World Generation from Object Generators", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.23880)]
+* **WorldGrow**: "WorldGrow: Generating Infinite 3D World", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.21682)] [[Code](https://github.com/world-grow/WorldGrow)] 
+* **PhysWorld**: "PhysWorld: From Real Videos to World Models of Deformable Objects via Physics-Aware Demonstration Synthesis", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.21447)] 
+* "How Hard is it to Confuse a World Model?", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.21232)]
 * "Social World Model-Augmented Mechanism Design Policy Learning", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2510.19270)]
 * **VAGEN**: "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2510.16907)] [[Website](http://mll.lab.northwestern.edu/VAGEN/)] 
 * **Cosmos-Surg-dVRK**: "Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.16240)] 
@@ -288,6 +295,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.23509)] [[Website](https://sites.google.com/view/NaviWM)] 
+* "Deep Active Inference with Diffusion Policy and Multiple Timescale World Model for Real-World Exploration and Navigation", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.23258)]
 * **ProTerrain**: "ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.19364)]
 * "Ego-Vision World Model for Humanoid Contact Planning", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.11682)] [[Website](https://ego-vcp.github.io/)] 
 * **Ctrl-World**: "Ctrl-World: A Controllable Generative World Model for Robot Manipulation", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/pdf/2510.10125)] [[Website](https://ctrl-world.github.io/)] [[Code](https://github.com/Robert-gyj/Ctrl-World)]
@@ -404,6 +413,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Dual-Mind World Models: A General Framework for Learning in Dynamic Wireless Networks", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.24546)]
+* "Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.21867)]
 * "From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2510.19654)] [[Code](https://github.com/6550Zhao/Policy-World-Model)] 
 * "Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.19195)] [[Website](https://wm-research.github.io/Dream4Drive/)] 
 * **OmniNWM**: "OmniNWM: Omniscient Driving Navigation World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.18313)] [[Website](https://arlo0o.github.io/OmniNWM/)] 
