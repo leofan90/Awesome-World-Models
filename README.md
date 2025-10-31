@@ -25,6 +25,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Emu3.5`**, Emu3.5: Native Multimodal Models are World Learners. [[Paper](https://arxiv.org/abs/2510.26583)] [[Website](https://emu.world)] [[Code](https://github.com/baaivision/Emu3.5)]
 * **`ODesign`**, ODesign: A World Model for Biomolecular Interaction Design. [[Paper](https://arxiv.org/pdf/2510.22304)] [[Website](https://odesign.lglab.ac.cn)]
 * **`GigaBrain-0`**, GigaBrain-0: A World Model-Powered Vision-Language-Action Model. [[Paper](https://arxiv.org/abs/2510.19430)] [[Website](https://gigabrain0.github.io/)]
 * **`CWM`**, CWM: An Open-Weights LLM for Research on Code Generation with World Models. [[Paper](https://arxiv.org/abs/2510.02387)] [[Website](https://ai.meta.com/resources/models-and-libraries/cwm-downloads)] [[Code](https://github.com/facebookresearch/cwm)]
@@ -95,6 +96,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Clone Deterministic 3D Worlds with Geometrically-Regularized World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.26782)]
 * "Semantic Communications with World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.24785)]
 * **TRELLISWorld**: "TRELLISWorld: Training-Free World Generation from Object Generators", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.23880)]
 * **WorldGrow**: "WorldGrow: Generating Infinite 3D World", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.21682)] [[Code](https://github.com/world-grow/WorldGrow)] 
@@ -295,6 +297,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Co-Evolving Latent Action World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.26433)]
 * "Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.23509)] [[Website](https://sites.google.com/view/NaviWM)] 
 * "Deep Active Inference with Diffusion Policy and Multiple Timescale World Model for Real-World Exploration and Navigation", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.23258)]
 * **ProTerrain**: "ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.19364)]
