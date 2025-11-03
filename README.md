@@ -391,6 +391,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for VLA
+* "Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model",  **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.27607)] 
 * **VLA-RFT**: "VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators",  **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.00406)] 
 * **World-Env**: "World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.24948)] 
 * **MoWM**: "MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21797)] 
