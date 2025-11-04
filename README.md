@@ -25,6 +25,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Cosmos-Predict2.5`**, World Simulation with Video Foundation Models for Physical AI. [[Paper](https://arxiv.org/abs/2511.00062)] [[Code](https://github.com/nvidia-cosmos/cosmos-predict2.5)]
 * **`Emu3.5`**, Emu3.5: Native Multimodal Models are World Learners. [[Paper](https://arxiv.org/abs/2510.26583)] [[Website](https://emu.world)] [[Code](https://github.com/baaivision/Emu3.5)]
 * **`ODesign`**, ODesign: A World Model for Biomolecular Interaction Design. [[Paper](https://arxiv.org/pdf/2510.22304)] [[Website](https://odesign.lglab.ac.cn)]
 * **`GigaBrain-0`**, GigaBrain-0: A World Model-Powered Vision-Language-Action Model. [[Paper](https://arxiv.org/abs/2510.19430)] [[Website](https://gigabrain0.github.io/)]
@@ -96,6 +97,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.01775)]
+* "From Pixels to Cooperation Multi Agent Reinforcement Learning based on Multimodal World Models", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.01310)]
+* "Bootstrap Off-policy with World Model", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2511.00423)]
 * "Clone Deterministic 3D Worlds with Geometrically-Regularized World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.26782)]
 * "Semantic Communications with World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.24785)]
 * **TRELLISWorld**: "TRELLISWorld: Training-Free World Generation from Object Generators", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.23880)]
@@ -297,6 +301,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Scaling Cross-Embodiment World Models for Dexterous Manipulation", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.01177)]
 * "Co-Evolving Latent Action World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.26433)]
 * "Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.23509)] [[Website](https://sites.google.com/view/NaviWM)] 
 * "Deep Active Inference with Diffusion Policy and Multiple Timescale World Model for Real-World Exploration and Navigation", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.23258)]
