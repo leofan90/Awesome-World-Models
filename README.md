@@ -45,6 +45,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "A Step Toward World Models: A Survey on Robotic Manipulation", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.02097)]
 * "World Models Should Prioritize the Unification of Physical and Social Dynamics", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2510.21219)] [[Website](https://sites.google.com/view/world-model-position)]
 * "From Masks to Worlds: A Hitchhiker's Guide to World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.20668)] [[Website](https://github.com/M-E-AGI-Lab/Awesome-World-Models)]
 * "A Comprehensive Survey on World Models for Embodied AI", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/pdf/2510.16732)] [[Website](https://github.com/Li-Zn-H/AwesomeWorldModels)]
@@ -301,6 +302,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* "Learning Interactive World Model for Object-Centric Reinforcement Learning", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2511.02225)]
 * "Scaling Cross-Embodiment World Models for Dexterous Manipulation", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.01177)]
 * "Co-Evolving Latent Action World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.26433)]
 * "Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.23509)] [[Website](https://sites.google.com/view/NaviWM)] 
