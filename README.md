@@ -74,6 +74,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* "Expert Evaluation of LLM World Models: A High-Tc Superconductivity Case Study", **`ICML 2025 workshop on Assessing World Models and the Explorations in AI Today`**. [[Paper](https://arxiv.org/abs/2511.03782)]
 * "Benchmarking World-Model Learning", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.19788)]
 * **World-in-World**: "World-in-World: World Models in a Closed-Loop World", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.18135)] [[Website](https://github.com/World-In-World/world-in-world)] 
 * **VideoVerse**: "VideoVerse: How Far is Your T2V Generator from a World Model?", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.08398)] 
@@ -98,6 +99,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **DR. WELL**: "DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration", **`NeurIPS 2025 Workshop: Bridging Language,
+Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://arxiv.org/abs/2511.04646)] [[Website](https://narjesno.github.io/DR.WELL/)]
 * "How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.01775)]
 * "From Pixels to Cooperation Multi Agent Reinforcement Learning based on Multimodal World Models", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.01310)]
 * "Bootstrap Off-policy with World Model", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2511.00423)]
@@ -302,6 +305,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## World Models for Embodied AI
+* **WorldPlanner**: "WorldPlanner: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.03077)]
 * "Learning Interactive World Model for Object-Centric Reinforcement Learning", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2511.02225)]
 * "Scaling Cross-Embodiment World Models for Dexterous Manipulation", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.01177)]
 * "Co-Evolving Latent Action World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.26433)]
