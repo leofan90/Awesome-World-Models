@@ -25,6 +25,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`PAN`**, PAN: A World Model for General, Interactable, and Long-Horizon World Simulation. [[Paper](https://arxiv.org/abs/2511.09057)] 
 * **`Cosmos-Predict2.5`**, World Simulation with Video Foundation Models for Physical AI. [[Paper](https://arxiv.org/abs/2511.00062)] [[Code](https://github.com/nvidia-cosmos/cosmos-predict2.5)]
 * **`Emu3.5`**, Emu3.5: Native Multimodal Models are World Learners. [[Paper](https://arxiv.org/abs/2510.26583)] [[Website](https://emu.world)] [[Code](https://github.com/baaivision/Emu3.5)]
 * **`ODesign`**, ODesign: A World Model for Biomolecular Interaction Design. [[Paper](https://arxiv.org/pdf/2510.22304)] [[Website](https://odesign.lglab.ac.cn)]
@@ -45,6 +46,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Simulating the Visual World with Artificial Intelligence: A Roadmap", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.08585)] [[Wesite](https://world-model-roadmap.github.io/)] [[Code](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model)]
 * "A Step Toward World Models: A Survey on Robotic Manipulation", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.02097)]
 * "World Models Should Prioritize the Unification of Physical and Social Dynamics", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2510.21219)] [[Website](https://sites.google.com/view/world-model-position)]
 * "From Masks to Worlds: A Hitchhiker's Guide to World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.20668)] [[Website](https://github.com/M-E-AGI-Lab/Awesome-World-Models)]
@@ -99,6 +101,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Dynamic Sparsity**:"Dynamic Sparsity: Challenging Common Sparsity Assumptions for Learning World Models in Robotic Reinforcement Learning Benchmarks", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.08086)]
+* **MrCoM**:"MrCoM: A Meta-Regularized World-Model Generalizing Across Multi-Scenarios", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.06252)]
+* "Next-Latent Prediction Transformers Learn Compact World Models", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.05963)]
 * **DR. WELL**: "DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration", **`NeurIPS 2025 Workshop: Bridging Language,
 Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://arxiv.org/abs/2511.04646)] [[Website](https://narjesno.github.io/DR.WELL/)]
 * "How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.01775)]
@@ -305,6 +310,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **WMPO**: "WMPO: World Model-based Policy Optimization for Vision-Language-Action Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.09515)] [[Website](https://wm-po.github.io)]
+* "Robot Learning from a Physical World Model", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.07416)] [[Website](https://pointscoder.github.io/PhysWorld_Web/)]
+* "When Object-Centric World Models Meet Policy Learning: From Pixels to Policies, and Where It Breaks", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.06136)]
 * **WorldPlanner**: "WorldPlanner: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.03077)]
 * "Learning Interactive World Model for Object-Centric Reinforcement Learning", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2511.02225)]
 * "Scaling Cross-Embodiment World Models for Dexterous Manipulation", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.01177)]
