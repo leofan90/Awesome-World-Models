@@ -76,6 +76,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* "Scalable Policy Evaluation with Video World Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.11520)]
 * "Expert Evaluation of LLM World Models: A High-Tc Superconductivity Case Study", **`ICML 2025 workshop on Assessing World Models and the Explorations in AI Today`**. [[Paper](https://arxiv.org/abs/2511.03782)]
 * "Benchmarking World-Model Learning", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.19788)]
 * **World-in-World**: "World-in-World: World Models in a Closed-Loop World", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.18135)] [[Website](https://github.com/World-In-World/world-in-world)] 
@@ -101,8 +102,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
-* **Dynamic Sparsity**:"Dynamic Sparsity: Challenging Common Sparsity Assumptions for Learning World Models in Robotic Reinforcement Learning Benchmarks", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.08086)]
-* **MrCoM**:"MrCoM: A Meta-Regularized World-Model Generalizing Across Multi-Scenarios", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.06252)]
+* "Latent-Space Autoregressive World Model for Efficient and Robust Image-Goal Navigation", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.11011)]
+* **Dynamic Sparsity**: "Dynamic Sparsity: Challenging Common Sparsity Assumptions for Learning World Models in Robotic Reinforcement Learning Benchmarks", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.08086)]
+* **MrCoM**: "MrCoM: A Meta-Regularized World-Model Generalizing Across Multi-Scenarios", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.06252)]
 * "Next-Latent Prediction Transformers Learn Compact World Models", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.05963)]
 * **DR. WELL**: "DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration", **`NeurIPS 2025 Workshop: Bridging Language,
 Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://arxiv.org/abs/2511.04646)] [[Website](https://narjesno.github.io/DR.WELL/)]
