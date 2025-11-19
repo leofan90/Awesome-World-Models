@@ -46,6 +46,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Beyond World Models: Rethinking Understanding in AI Models", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.12239)] 
 * "Simulating the Visual World with Artificial Intelligence: A Roadmap", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.08585)] [[Wesite](https://world-model-roadmap.github.io/)] [[Code](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model)]
 * "A Step Toward World Models: A Survey on Robotic Manipulation", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.02097)]
 * "World Models Should Prioritize the Unification of Physical and Social Dynamics", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2510.21219)] [[Website](https://sites.google.com/view/world-model-position)]
@@ -76,6 +77,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **PragWorld**: "PragWorld: A Benchmark Evaluating LLMs' Local World Model under Minimal Linguistic Alterations and Conversational Dynamics", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.13021)] 
+* "Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.13853)] [[Code](https://github.com/L-CodingSpace/GVR)]
 * "Scalable Policy Evaluation with Video World Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.11520)]
 * "Expert Evaluation of LLM World Models: A High-Tc Superconductivity Case Study", **`ICML 2025 workshop on Assessing World Models and the Explorations in AI Today`**. [[Paper](https://arxiv.org/abs/2511.03782)]
 * "Benchmarking World-Model Learning", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.19788)]
@@ -102,6 +105,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Object-Centric World Models for Causality-Aware Reinforcement Learning", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.14262)]
 * "Latent-Space Autoregressive World Model for Efficient and Robust Image-Goal Navigation", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.11011)]
 * **Dynamic Sparsity**: "Dynamic Sparsity: Challenging Common Sparsity Assumptions for Learning World Models in Robotic Reinforcement Learning Benchmarks", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.08086)]
 * **MrCoM**: "MrCoM: A Meta-Regularized World-Model Generalizing Across Multi-Scenarios", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.06252)]
@@ -312,6 +316,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Towards High-Consistency Embodied World Model with Multi-View Trajectory Videos", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.12882)]
 * **WMPO**: "WMPO: World Model-based Policy Optimization for Vision-Language-Action Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.09515)] [[Website](https://wm-po.github.io)]
 * "Robot Learning from a Physical World Model", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.07416)] [[Website](https://pointscoder.github.io/PhysWorld_Web/)]
 * "When Object-Centric World Models Meet Policy Learning: From Pixels to Policies, and Where It Breaks", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.06136)]
@@ -412,6 +417,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* **NORA-1.5**: "NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards",  **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.14659)] [[Website](https://declare-lab.github.io/nora-1.5)] 
 * "Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model",  **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.27607)] 
 * **VLA-RFT**: "VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators",  **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.00406)] 
 * **World-Env**: "World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.24948)] 
