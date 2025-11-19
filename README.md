@@ -316,6 +316,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Cultural Learning", **`NeurIPS 2025`**. [[Paper](https://arxiv.org/abs/2411.12977)]
 * "Towards High-Consistency Embodied World Model with Multi-View Trajectory Videos", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.12882)]
 * **WMPO**: "WMPO: World Model-based Policy Optimization for Vision-Language-Action Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.09515)] [[Website](https://wm-po.github.io)]
 * "Robot Learning from a Physical World Model", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.07416)] [[Website](https://pointscoder.github.io/PhysWorld_Web/)]
@@ -565,3 +566,4 @@ If you find this repository useful, please consider citing this list:
     year = {2024},
 }
 ```
+
