@@ -105,6 +105,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **X-WIN**: "X-WIN: Building Chest Radiograph World Model via Predictive Sensing", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.14918)]
 * "Object-Centric World Models for Causality-Aware Reinforcement Learning", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.14262)]
 * "Latent-Space Autoregressive World Model for Efficient and Robust Image-Goal Navigation", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.11011)]
 * **Dynamic Sparsity**: "Dynamic Sparsity: Challenging Common Sparsity Assumptions for Learning World Models in Robotic Reinforcement Learning Benchmarks", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.08086)]
