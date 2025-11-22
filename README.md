@@ -446,6 +446,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **LiSTAR**: "LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.16049)] [[Website](https://ocean-luna.github.io/LiSTAR.gitub.io)]
 * "Dual-Mind World Models: A General Framework for Learning in Dynamic Wireless Networks", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.24546)]
 * "Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.21867)]
 * "From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction", **`NIPS 2025`**. [[Paper](https://arxiv.org/abs/2510.19654)] [[Code](https://github.com/6550Zhao/Policy-World-Model)] 
