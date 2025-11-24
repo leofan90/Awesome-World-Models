@@ -105,6 +105,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Counterfactual World Models via Digital Twin-conditioned Video Diffusion", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.17481)] 
+* **WorldGen**: "WorldGen: From Text to Traversable and Interactive 3D Worlds", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.16825)] [[Website](https://www.meta.com/blog./worldgen-3d-world-generation-reality-1abs-generative-ai-research/)]
 * **X-WIN**: "X-WIN: Building Chest Radiograph World Model via Predictive Sensing", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.14918)]
 * "Object-Centric World Models for Causality-Aware Reinforcement Learning", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.14262)]
 * "Latent-Space Autoregressive World Model for Efficient and Robust Image-Goal Navigation", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.11011)]
@@ -419,6 +421,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* **RynnVLA-002**: "RynnVLA-002: A Unified Vision-Language-Action and World Model",  **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.17502)] [[Code](https://github.com/alibaba-damo-academy/RynnVLA-002)] 
 * **NORA-1.5**: "NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards",  **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.14659)] [[Website](https://declare-lab.github.io/nora-1.5)] [[Code](https://github.com/declare-lab/nora-1.5)] 
 * "Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model",  **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.27607)] 
 * **VLA-RFT**: "VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators",  **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.00406)] 
