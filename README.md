@@ -77,6 +77,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **Target-Bench**: "Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.17792)] 
 * **PragWorld**: "PragWorld: A Benchmark Evaluating LLMs' Local World Model under Minimal Linguistic Alterations and Conversational Dynamics", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.13021)] 
 * "Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.13853)] [[Code](https://github.com/L-CodingSpace/GVR)]
 * "Scalable Policy Evaluation with Video World Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.11520)]
