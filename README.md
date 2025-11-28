@@ -324,6 +324,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **TraceGen**: "TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.21690)] [[Website](https://tracegen.github.io/)]
 * **ENACT**: "ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.20937)] [[Website](https://enact-embodied-cognition.github.io/)] [[Code](https://github.com/mll-lab-nu/ENACT)]
 * "Learning Massively Multitask World Models for Continuous Control", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.19584)] [[Website](https://www.nicklashansen.com/NewtWM)]
 * **UNeMo**: "UNeMo: Collaborative Visual-Language Reasoning and Navigation via a Multimodal World Model", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.18845)]
