@@ -25,6 +25,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Hunyuan-GameCraft-2`**, Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model. [[Paper](https://arxiv.org/abs/2511.23429)] [[Website](https://hunyuan-gamecraft-2.github.io/)] 
 * **`GigaWorld-0`**, GigaWorld-0: World Models as Data Engine to Empower Embodied AI. [[Paper](https://arxiv.org/abs/2511.19861)] [[Website](https://gigaworld0.github.io/)] 
 * **`PAN`**, PAN: A World Model for General, Interactable, and Long-Horizon World Simulation. [[Paper](https://arxiv.org/abs/2511.09057)] 
 * **`Cosmos-Predict2.5`**, World Simulation with Video Foundation Models for Physical AI. [[Paper](https://arxiv.org/abs/2511.00062)] [[Code](https://github.com/nvidia-cosmos/cosmos-predict2.5)]
@@ -78,6 +79,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **SmallWorlds**: "SmallWorlds: Assessing Dynamics Understanding of World Models in Isolated Environments", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.23465)] 
 * **4DWorldBench**: "4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.19836)] 
 * **Target-Bench**: "Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.17792)] 
 * **PragWorld**: "PragWorld: A Benchmark Evaluating LLMs' Local World Model under Minimal Linguistic Alterations and Conversational Dynamics", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.13021)] 
@@ -108,6 +110,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Captain Safari**: "Captain Safari: A World Engine", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.22815)] [[Website](https://johnson111788.github.io/open-safari/)]
+* **WorldWander**: "WorldWander: Bridging Egocentric and Exocentric Worlds in Video Generation", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.22098)] [[Code](https://github.com/showlab/WorldWander)]
 * **Inferix**: "Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.20714)] [[Code](https://github.com/alibaba-damo-academy/Inferix)]
 * **MagicWorld**: "MagicWorld: Interactive Geometry-driven Video World Exploration", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.18886)] 
 * "Counterfactual World Models via Digital Twin-conditioned Video Diffusion", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.17481)] 
@@ -458,6 +462,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **SparseWorld-TC**: "SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.22039)]
 * **AD-R1**: "AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.20325)]
 * **Map-World**: "Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.20156)]
 * **WPT**: "WPT: World-to-Policy Transfer via Online World Model Distillation", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.20095)]
