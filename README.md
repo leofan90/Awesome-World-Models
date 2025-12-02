@@ -25,6 +25,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`SimWorld`**, SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds. [[Paper](https://arxiv.org/abs/2512.01078)] [[Website](https://simworld.org/)] 
 * **`Hunyuan-GameCraft-2`**, Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model. [[Paper](https://arxiv.org/abs/2511.23429)] [[Website](https://hunyuan-gamecraft-2.github.io/)] 
 * **`GigaWorld-0`**, GigaWorld-0: World Models as Data Engine to Empower Embodied AI. [[Paper](https://arxiv.org/abs/2511.19861)] [[Website](https://gigaworld0.github.io/)] 
 * **`PAN`**, PAN: A World Model for General, Interactable, and Long-Horizon World Simulation. [[Paper](https://arxiv.org/abs/2511.09057)] 
@@ -110,6 +111,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **AVWM**: "Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.00883)] 
+* **VCWorld**: "VCWorld: A Biological World Model for Virtual Cell Simulation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.00306)] [[Code](https://github.com/GENTEL-lab/VCWorld)]
+* **VISTAv2**: "VISTAv2: World Imagination for Indoor Vision-and-Language Navigation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.00041)] [[Website](https://taco-group.github.io/)]
 * **Captain Safari**: "Captain Safari: A World Engine", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.22815)] [[Website](https://johnson111788.github.io/open-safari/)]
 * **WorldWander**: "WorldWander: Bridging Egocentric and Exocentric Worlds in Video Generation", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.22098)] [[Code](https://github.com/showlab/WorldWander)]
 * **Inferix**: "Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.20714)] [[Code](https://github.com/alibaba-damo-academy/Inferix)]
