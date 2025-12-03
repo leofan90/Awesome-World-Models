@@ -453,7 +453,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 * **VLA-RFT**: "VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators",  **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.00406)] 
 * **World-Env**: "World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.24948)] 
 * **MoWM**: "MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21797)] 
-* "Latent Action Pretraining Through World Modeling",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.18428)] 
+* **LAWM**: "Latent Action Pretraining Through World Modeling",  **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.18428)] [[Code](https://github.com/baheytharwat/lawm)]
 * **PAR**: "Physical Autoregressive Model for Robotic Manipulation without Action Pretraining",  **`arxiv 2025.08`**. [[Paper](https://arxiv.org/abs/2508.09822)] [[Website](https://songzijian1999.github.io/PAR_ProjectPage/)]
 * **DreamVLA**: "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge", **`arxiv 2025.07`**. [[Paper](https://arxiv.org/abs/2507.04447)] [[Code](https://github.com/Zhangwenyao1/DreamVLA)] [[Website](https://zhangwenyao1.github.io/DreamVLA/)]
 * **WorldVLA**: "WorldVLA: Towards Autoregressive Action World Model", **`arxiv 2025.06`**. [[Paper](https://arxiv.org/abs/2506.21539)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
@@ -606,4 +606,5 @@ If you find this repository useful, please consider citing this list:
     year = {2024},
 }
 ```
+
 
