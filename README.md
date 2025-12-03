@@ -111,6 +111,11 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **DynamicVerse**: "DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03000)] 
+* **IC-World**: "IC-World: In-Context Generation for Shared World Modeling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.02793)] [[Code](https://github.com/wufan-cse/IC-World)]
+* **WorldPack**: "WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.02473)]
+* **GrndCtrl**: "GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.01952)]
+* **ChronosObserver**: "ChronosObserver: Taming 4D World with Hyperspace Diffusion Sampling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.01481)]
 * **AVWM**: "Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.00883)] 
 * **VCWorld**: "VCWorld: A Biological World Model for Virtual Cell Simulation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.00306)] [[Code](https://github.com/GENTEL-lab/VCWorld)]
 * **VISTAv2**: "VISTAv2: World Imagination for Indoor Vision-and-Language Navigation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.00041)] [[Website](https://taco-group.github.io/)]
@@ -332,6 +337,10 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Real-World Robot Control by Deep Active Inference With a Temporally Hierarchical World Model", **`IEEE Robotics and Automation Letters`**. [[Paper](https://arxiv.org/abs/2512.01924)]
+* "Seeing through Imagination: Learning Scene Geometry via Implicit Spatial World Modeling", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.01821)]
+* **IGen**: "IGen: Scalable Data Generation for Robot Learning from Open-World Images", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.01773)] [[Website](https://chenghaogu.github.io/IGen/)]
+* **NavForesee**: "NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.01550)] 
 * **TraceGen**: "TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.21690)] [[Website](https://tracegen.github.io/)]
 * **ENACT**: "ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.20937)] [[Website](https://enact-embodied-cognition.github.io/)] [[Code](https://github.com/mll-lab-nu/ENACT)]
 * "Learning Massively Multitask World Models for Continuous Control", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.19584)] [[Website](https://www.nicklashansen.com/NewtWM)]
@@ -466,6 +475,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **U4D**: "U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.02982)]
+* "Vehicle Dynamics Embedded World Models for Autonomous Driving", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.02417)]
+* "World Model Robustness via Surprise Recognition", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.01119)]
 * **SparseWorld-TC**: "SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.22039)]
 * **AD-R1**: "AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.20325)]
 * **Map-World**: "Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.20156)]
