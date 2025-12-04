@@ -111,6 +111,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **RELIC**: "RELIC: Interactive Video World Model with Long-Horizon Memory", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04040)] 
+* "Better World Models Can Lead to Better Post-Training Performance", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03400)] 
+* **SeeU**: "SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03350)] [[Website](https://yuyuanspace.com/SeeU/)]
 * **DynamicVerse**: "DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03000)] 
 * **IC-World**: "IC-World: In-Context Generation for Shared World Modeling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.02793)] [[Code](https://github.com/wufan-cse/IC-World)]
 * **WorldPack**: "WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.02473)]
@@ -447,6 +450,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* **RoboScape-R**: "RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL",  **`arxiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.03556)]
+* **AdaPower**: "AdaPower: Specializing World Foundation Models for Predictive Manipulation",  **`arxiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.03538)]
 * **RynnVLA-002**: "RynnVLA-002: A Unified Vision-Language-Action and World Model",  **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.17502)] [[Code](https://github.com/alibaba-damo-academy/RynnVLA-002)] 
 * **NORA-1.5**: "NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards",  **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.14659)] [[Website](https://declare-lab.github.io/nora-1.5)] [[Code](https://github.com/declare-lab/nora-1.5)] 
 * "Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model",  **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.27607)] 
@@ -475,6 +480,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Think Before You Drive: World Model-Inspired Multimodal Grounding for Autonomous Vehicles", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03454)]
 * **U4D**: "U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.02982)]
 * "Vehicle Dynamics Embedded World Models for Autonomous Driving", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.02417)]
 * "World Model Robustness via Surprise Recognition", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.01119)]
