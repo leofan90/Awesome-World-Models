@@ -25,6 +25,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`SIMA 2`**, SIMA 2: A Generalist Embodied Agent for Virtual Worlds. [[Paper](https://arxiv.org/abs/2512.04797)]
 * **`SimWorld`**, SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds. [[Paper](https://arxiv.org/abs/2512.01078)] [[Website](https://simworld.org/)] 
 * **`Hunyuan-GameCraft-2`**, Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model. [[Paper](https://arxiv.org/abs/2511.23429)] [[Website](https://hunyuan-gamecraft-2.github.io/)] 
 * **`GigaWorld-0`**, GigaWorld-0: World Models as Data Engine to Empower Embodied AI. [[Paper](https://arxiv.org/abs/2511.19861)] [[Website](https://gigaworld0.github.io/)] 
@@ -111,6 +112,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **BiTAgent**: "BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04513)] 
 * **RELIC**: "RELIC: Interactive Video World Model with Long-Horizon Memory", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04040)] 
 * "Better World Models Can Lead to Better Post-Training Performance", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03400)] 
 * **SeeU**: "SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03350)] [[Website](https://yuyuanspace.com/SeeU/)]
@@ -480,6 +482,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **MindDrive**: "MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04441)]
 * "Think Before You Drive: World Model-Inspired Multimodal Grounding for Autonomous Vehicles", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03454)]
 * **U4D**: "U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.02982)]
 * "Vehicle Dynamics Embedded World Models for Autonomous Driving", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.02417)]
