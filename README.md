@@ -112,6 +112,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.05933)]
+* "Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.05809)] [[Code](https://github.com/chandar-lab/visa-for-mindjourney)] 
+* **ProPhy**: "ProPhy: Progressive Physical Alignment for Dynamic World Simulation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.05564)] 
 * **BiTAgent**: "BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04513)] 
 * **RELIC**: "RELIC: Interactive Video World Model with Long-Horizon Memory", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04040)] 
 * "Better World Models Can Lead to Better Post-Training Performance", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03400)] 
@@ -342,6 +345,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.05927)]
 * "Real-World Robot Control by Deep Active Inference With a Temporally Hierarchical World Model", **`IEEE Robotics and Automation Letters`**. [[Paper](https://arxiv.org/abs/2512.01924)]
 * "Seeing through Imagination: Learning Scene Geometry via Implicit Spatial World Modeling", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.01821)]
 * **IGen**: "IGen: Scalable Data Generation for Robot Learning from Open-World Images", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.01773)] [[Website](https://chenghaogu.github.io/IGen/)]
