@@ -112,6 +112,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **UnityVideo**: "UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.07831)] [[Website](https://jackailab.github.io/Projects/UnityVideo)] [[Code](https://github.com/dvlab-research/UnityVideo)]
 * "Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.05933)]
 * "Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.05809)] [[Code](https://github.com/chandar-lab/visa-for-mindjourney)] 
 * **ProPhy**: "ProPhy: Progressive Physical Alignment for Dynamic World Simulation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.05564)] 
