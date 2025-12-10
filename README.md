@@ -112,6 +112,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Visionary**: "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.08478)] [[Website](https://visionary-laboratory.github.io/visionary)]
+* **CLARITY**: "CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.08029)]
 * **UnityVideo**: "UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.07831)] [[Website](https://jackailab.github.io/Projects/UnityVideo)] [[Code](https://github.com/dvlab-research/UnityVideo)]
 * "Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.05933)]
 * "Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.05809)] [[Code](https://github.com/chandar-lab/visa-for-mindjourney)] 
@@ -346,6 +348,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **PRISM-WM**: "Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.08411)]
+* "Learning Robot Manipulation from Audio World Models", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.08405)]
+* "Embodied Tree of Thoughts: Deliberate Manipulation Planning with Embodied World Model", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.08188)] [[Website](https://embodied-tree-of-thoughts.github.io)]
 * "World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.05927)]
 * "Real-World Robot Control by Deep Active Inference With a Temporally Hierarchical World Model", **`IEEE Robotics and Automation Letters`**. [[Paper](https://arxiv.org/abs/2512.01924)]
 * "Seeing through Imagination: Learning Scene Geometry via Implicit Spatial World Modeling", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.01821)]
