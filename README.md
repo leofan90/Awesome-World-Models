@@ -112,6 +112,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Closing the Train-Test Gap in World Models for Gradient-Based Planning", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.09929)]
+* **WonderZoom**: "WonderZoom: Multi-Scale 3D World Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.09164)] [[Website](https://wonderzoom.github.io/)]
+* **Astra**: "Astra: General Interactive World Model with Autoregressive Denoising", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.08931)] [[Website](https://eternalevan.github.io/Astra-project/)] [[Code](https://github.com/EternalEvan/Astra)]
 * **Visionary**: "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.08478)] [[Website](https://visionary-laboratory.github.io/visionary)]
 * **CLARITY**: "CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.08029)]
 * **UnityVideo**: "UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.07831)] [[Website](https://jackailab.github.io/Projects/UnityVideo)] [[Code](https://github.com/dvlab-research/UnityVideo)]
