@@ -9,15 +9,19 @@ If you find this repository useful, please consider [citing](#citation) and givi
 ---
 ## Overview
 
+- [Awesome World Models for Robotics ](#awesome-world-models-for-robotics-)
+      - [Contributions are welcome! Please feel free to submit pull requests or reach out via email to add papers! ](#contributions-are-welcome-please-feel-free-to-submit-pull-requests-or-reach-out-via-email-to-add-papers-)
+  - [Overview](#overview)
   - [Foundation paper of World Model](#foundation-paper-of-world-model)
   - [Blog or Technical Report](#blog-or-technical-report)
   - [Surveys](#surveys)
-  - [Benchmarks & Evaluation](#benchmarks-&-evaluation)
+  - [Benchmarks \& Evaluation](#benchmarks--evaluation)
   - [General World Models](#general-world-models)
   - [World Models for Embodied AI](#world-models-for-embodied-ai)
-  - [World Models for VLA](#world-models-for-VLA)  
+  - [World Models for VLA](#world-models-for-vla)
   - [World Models for Visual Understanding](#world-models-for-visual-understanding)
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
+    - [Refer to https://github.com/LMD0311/Awesome-World-Model](#refer-to-httpsgithubcomlmd0311awesome-world-model)
   - [Citation](#citation)
 
 ---
@@ -81,6 +85,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **On Memory: A comparison of memory mechanisms in world models**: "On Memory: A comparison of memory mechanisms in world models" **`World Modeling Workshop 2026`**. [[Paper](https://arxiv.org/abs/2512.06983)]
 * **SmallWorlds**: "SmallWorlds: Assessing Dynamics Understanding of World Models in Isolated Environments", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.23465)] 
 * **4DWorldBench**: "4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.19836)] 
 * **Target-Bench**: "Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.17792)] 
