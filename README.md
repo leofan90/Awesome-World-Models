@@ -85,7 +85,9 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
-* **On Memory: A comparison of memory mechanisms in world models**: "On Memory: A comparison of memory mechanisms in world models" **`World Modeling Workshop 2026`**. [[Paper](https://arxiv.org/abs/2512.06983)]
+* **WorldLens**: "WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.10958)] [[Website](https://worldbench.github.io/worldlens)]
+* "Evaluating Gemini Robotics Policies in a Veo World Simulator" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.10675)]
+* **On Memory**: "On Memory: A comparison of memory mechanisms in world models" **`World Modeling Workshop 2026`**. [[Paper](https://arxiv.org/abs/2512.06983)]
 * **SmallWorlds**: "SmallWorlds: Assessing Dynamics Understanding of World Models in Isolated Environments", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.23465)] 
 * **4DWorldBench**: "4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.19836)] 
 * **Target-Bench**: "Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.17792)] 
@@ -356,6 +358,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Latent Action World Models for Control with Unlabeled Trajectories", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.10016)]
 * **PRISM-WM**: "Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.08411)]
 * "Learning Robot Manipulation from Audio World Models", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.08405)]
 * "Embodied Tree of Thoughts: Deliberate Manipulation Planning with Embodied World Model", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.08188)] [[Website](https://embodied-tree-of-thoughts.github.io)]
@@ -500,6 +503,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Latent Chain-of-Thought World Modeling for End-to-End Driving", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.10226)]
 * **MindDrive**: "MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04441)]
 * "Think Before You Drive: World Model-Inspired Multimodal Grounding for Autonomous Vehicles", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03454)]
 * **U4D**: "U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.02982)]
