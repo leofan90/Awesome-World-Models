@@ -119,6 +119,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **VFMF**: "VFMF: World Modeling by Forecasting Vision Foundation Model Features", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.11225)] [[Website](https://vfmf.gabrijel-boduljak.com/)] [[Code](https://github.com/gboduljak/vfmf)]
+* **VDAWorld**: "VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.11061)] [[Website](https://felixomahony.github.io/vdaworld/)]
 * "Closing the Train-Test Gap in World Models for Gradient-Based Planning", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.09929)]
 * **WonderZoom**: "WonderZoom: Multi-Scale 3D World Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.09164)] [[Website](https://wonderzoom.github.io/)]
 * **Astra**: "Astra: General Interactive World Model with Autoregressive Denoising", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.08931)] [[Website](https://eternalevan.github.io/Astra-project/)] [[Code](https://github.com/EternalEvan/Astra)]
@@ -503,6 +505,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **FutureX**: "FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.11226)]
 * "Latent Chain-of-Thought World Modeling for End-to-End Driving", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.10226)]
 * **MindDrive**: "MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04441)]
 * "Think Before You Drive: World Model-Inspired Multimodal Grounding for Autonomous Vehicles", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03454)]
