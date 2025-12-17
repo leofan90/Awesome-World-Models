@@ -85,6 +85,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **MobileWorldBench**: "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.14014)] [[Code](https://github.com/jacklishufan/MobileWorld)]
 * **WorldLens**: "WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.10958)] [[Website](https://worldbench.github.io/worldlens)]
 * "Evaluating Gemini Robotics Policies in a Veo World Simulator" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.10675)]
 * **On Memory**: "On Memory: A comparison of memory mechanisms in world models" **`World Modeling Workshop 2026`**. [[Paper](https://arxiv.org/abs/2512.06983)]
@@ -119,6 +120,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **WorldPlay**: "WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.14614)] [[Website](https://3d-models.hunyuan.tencent.com/world/)]
+* "The Double Life of Code World Models: Provably Unmasking Malicious Behavior Through Execution Traces", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.13821)] 
+* **LongVie 2**: "LongVie 2: Multimodal Controllable Ultra-Long Video World Model", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.13604)] [[Website](https://vchitect.github.io/LongVie2-project/)]
 * **VFMF**: "VFMF: World Modeling by Forecasting Vision Foundation Model Features", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.11225)] [[Website](https://vfmf.gabrijel-boduljak.com/)] [[Code](https://github.com/gboduljak/vfmf)]
 * **VDAWorld**: "VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.11061)] [[Website](https://felixomahony.github.io/vdaworld/)]
 * "Closing the Train-Test Gap in World Models for Gradient-Based Planning", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.09929)]
@@ -360,6 +364,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "World Models Can Leverage Human Videos for Dexterous Manipulation", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/pdf/2512.13644)]
 * "Latent Action World Models for Control with Unlabeled Trajectories", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.10016)]
 * **PRISM-WM**: "Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.08411)]
 * "Learning Robot Manipulation from Audio World Models", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.08405)]
@@ -475,6 +480,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* **Motus**: "Motus: A Unified Latent Action World Model",  **`arxiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.13030)] [[Website](https://motus-robotics.github.io/motus)] [[Code](https://github.com/thu-ml/Motus)]
 * **RoboScape-R**: "RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL",  **`arxiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.03556)]
 * **AdaPower**: "AdaPower: Specializing World Foundation Models for Predictive Manipulation",  **`arxiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.03538)]
 * **RynnVLA-002**: "RynnVLA-002: A Unified Vision-Language-Action and World Model",  **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.17502)] [[Code](https://github.com/alibaba-damo-academy/RynnVLA-002)] 
@@ -505,6 +511,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **GenieDrive**: "GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.12751)] [[Website](https://huster-yzy.github.io/geniedrive_project_page/)]
 * **FutureX**: "FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.11226)]
 * "Latent Chain-of-Thought World Modeling for End-to-End Driving", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.10226)]
 * **MindDrive**: "MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04441)]
