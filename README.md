@@ -85,6 +85,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* "Active Intelligence in Video Avatars via Closed-loop World Modeling" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.20615)] [[Code](https://xuanhuahe.github.io/ORCA/)]
 * **MobileWorldBench**: "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.14014)] [[Code](https://github.com/jacklishufan/MobileWorld)]
 * **WorldLens**: "WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.10958)] [[Website](https://worldbench.github.io/worldlens)]
 * "Evaluating Gemini Robotics Policies in a Veo World Simulator" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.10675)]
@@ -120,6 +121,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "From Word to World: Can Large Language Models be Implicit Text-based World Models?", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.18832)] 
+* "Dexterous World Models", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.17907)] [[Website](https://snuvclab.github.io/dwm)]
+* **PhysFire-WM**: "PhysFire-WM: A Physics-Informed World Model for Emulating Fire Spread Dynamics", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.17152)] 
 * **WorldPlay**: "WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.14614)] [[Website](https://3d-models.hunyuan.tencent.com/world/)]
 * "The Double Life of Code World Models: Provably Unmasking Malicious Behavior Through Execution Traces", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.13821)] 
 * **LongVie 2**: "LongVie 2: Multimodal Controllable Ultra-Long Video World Model", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.13604)] [[Website](https://vchitect.github.io/LongVie2-project/)]
@@ -364,6 +368,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **ChronoDreamer**: "ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.18619)]
+* **STORM**: "STORM: Search-Guided Generative World Models for Robotic Manipulation", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.18477)]
 * "World Models Can Leverage Human Videos for Dexterous Manipulation", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/pdf/2512.13644)]
 * "Latent Action World Models for Control with Unlabeled Trajectories", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.10016)]
 * **PRISM-WM**: "Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.08411)]
@@ -511,6 +517,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **WorldRFT**: "WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving", **`AAAI 2026**. [[Paper](https://arxiv.org/abs/2512.19133)] 
+* **InDRiVE**: "InDRiVE: Reward-Free World-Model Pretraining for Autonomous Driving via Latent Disagreement", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.18850)] 
 * **GenieDrive**: "GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.12751)] [[Website](https://huster-yzy.github.io/geniedrive_project_page/)]
 * **FutureX**: "FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.11226)]
 * "Latent Chain-of-Thought World Modeling for End-to-End Driving", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.10226)]
