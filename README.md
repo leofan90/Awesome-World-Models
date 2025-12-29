@@ -85,6 +85,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* "A Unified Definition of Hallucination, Or: It's the World Model, Stupid" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.21577)] 
 * "Active Intelligence in Video Avatars via Closed-loop World Modeling" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.20615)] [[Code](https://xuanhuahe.github.io/ORCA/)]
 * **MobileWorldBench**: "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.14014)] [[Code](https://github.com/jacklishufan/MobileWorld)]
 * **WorldLens**: "WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.10958)] [[Website](https://worldbench.github.io/worldlens)]
@@ -121,6 +122,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Yume-1.5**: "Yume-1.5: A Text-Controlled Interactive World Generation Model", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.22096)] [[Website](https://stdstu12.github.io/YUME-Project)] [[Code](https://github.com/stdstu12/YUME)] 
+* "Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.21887)] 
 * "From Word to World: Can Large Language Models be Implicit Text-based World Models?", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.18832)] 
 * "Dexterous World Models", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.17907)] [[Website](https://snuvclab.github.io/dwm)]
 * **PhysFire-WM**: "PhysFire-WM: A Physics-Informed World Model for Emulating Fire Spread Dynamics", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.17152)] 
@@ -368,6 +371,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **AstraNav-World**: "AstraNav-World: World Model for Foresight Control and Consistency", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.21714)]
 * **ChronoDreamer**: "ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.18619)]
 * **STORM**: "STORM: Search-Guided Generative World Models for Robotic Manipulation", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.18477)]
 * "World Models Can Leverage Human Videos for Dexterous Manipulation", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/pdf/2512.13644)]
