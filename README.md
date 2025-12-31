@@ -122,6 +122,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **WWM**: "Web World Models", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.23676)] [[Website](https://github.com/Princeton-AI2-Lab/Web-World-Models)] 
+* **SurgWorld**: "SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.23162)] 
+* **Agent2World**: "Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.22336)] [[Website](https://agent2world.github.io)] 
 * **Yume-1.5**: "Yume-1.5: A Text-Controlled Interactive World Generation Model", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.22096)] [[Website](https://stdstu12.github.io/YUME-Project)] [[Code](https://github.com/stdstu12/YUME)] 
 * "Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.21887)] 
 * "From Word to World: Can Large Language Models be Implicit Text-based World Models?", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.18832)] 
@@ -371,6 +374,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **Act2Goal**: "Act2Goal: From World Model To General Goal-conditioned Policy", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.23541)] [[Website](https://act2goal.github.io/)]
 * **AstraNav-World**: "AstraNav-World: World Model for Foresight Control and Consistency", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.21714)]
 * **ChronoDreamer**: "ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.18619)]
 * **STORM**: "STORM: Search-Guided Generative World Models for Robotic Manipulation", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.18477)]
@@ -521,6 +525,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **DriveLaW**: "DriveLaW:Unifying Planning and Video Generation in a Latent Driving World", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.23421)] 
+* **GaussianDWM**: "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.23180)] [[Code](https://github.com/dtc111111/GaussianDWM)]
 * **WorldRFT**: "WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving", **`AAAI 2026**. [[Paper](https://arxiv.org/abs/2512.19133)] 
 * **InDRiVE**: "InDRiVE: Reward-Free World-Model Pretraining for Autonomous Driving via Latent Disagreement", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.18850)] 
 * **GenieDrive**: "GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.12751)] [[Website](https://huster-yzy.github.io/geniedrive_project_page/)]
