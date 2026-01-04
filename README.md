@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`TARS`**, World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild. [[Paper](https://arxiv.org/abs/2512.24310)] [[Website](https://wiyh.tars-ai.com/)] 
 * **`SIMA 2`**, SIMA 2: A Generalist Embodied Agent for Virtual Worlds. [[Paper](https://arxiv.org/abs/2512.04797)]
 * **`SimWorld`**, SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds. [[Paper](https://arxiv.org/abs/2512.01078)] [[Website](https://simworld.org/)] 
 * **`Hunyuan-GameCraft-2`**, Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model. [[Paper](https://arxiv.org/abs/2511.23429)] [[Website](https://hunyuan-gamecraft-2.github.io/)] 
@@ -122,6 +123,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "World model inspired sarcasm reasoning with large language model agents", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24329)]
+* **LEWM**: "Large Emotional World Model", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24149)]
 * **WWM**: "Web World Models", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.23676)] [[Website](https://github.com/Princeton-AI2-Lab/Web-World-Models)] 
 * **SurgWorld**: "SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.23162)] 
 * **Agent2World**: "Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.22336)] [[Website](https://agent2world.github.io)] 
@@ -374,6 +377,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **Dream2Flow**: "Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24766)] [[Website](https://dream2flow.github.io/)]
+* "What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24497)] [[Code](https://github.com/facebookresearch/jepa-wms)]
 * **Act2Goal**: "Act2Goal: From World Model To General Goal-conditioned Policy", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.23541)] [[Website](https://act2goal.github.io/)]
 * **AstraNav-World**: "AstraNav-World: World Model for Foresight Control and Consistency", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.21714)]
 * **ChronoDreamer**: "ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.18619)]
