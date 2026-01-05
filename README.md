@@ -123,6 +123,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **NeoVerse**: "NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.00393)] [[Website](https://neoverse-4d.github.io)]
+* **TeleWorld**: "TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.00051)]
 * "World model inspired sarcasm reasoning with large language model agents", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24329)]
 * **LEWM**: "Large Emotional World Model", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24149)]
 * **WWM**: "Web World Models", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.23676)] [[Website](https://github.com/Princeton-AI2-Lab/Web-World-Models)] 
