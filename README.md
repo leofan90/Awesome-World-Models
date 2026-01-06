@@ -55,6 +55,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.01321)] 
 * "Beyond World Models: Rethinking Understanding in AI Models", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.12239)] 
 * "Simulating the Visual World with Artificial Intelligence: A Roadmap", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.08585)] [[Wesite](https://world-model-roadmap.github.io/)] [[Code](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model)]
 * "A Step Toward World Models: A Survey on Robotic Manipulation", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.02097)]
@@ -86,6 +87,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **DrivingGen**: "DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.01528)] [[Website](https://drivinggen-bench.github.io/)]
 * "A Unified Definition of Hallucination, Or: It's the World Model, Stupid" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.21577)] 
 * "Active Intelligence in Video Avatars via Closed-loop World Modeling" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.20615)] [[Code](https://xuanhuahe.github.io/ORCA/)]
 * **MobileWorldBench**: "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.14014)] [[Code](https://github.com/jacklishufan/MobileWorld)]
@@ -123,6 +125,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.01075)] [[Website](https://flowequivariantworldmodels.github.io)]
+* "Value-guided action planning with JEPA world models", **`ICLR 2026 World Modeling Workshop`**. [[Paper](https://arxiv.org/abs/2601.00844)]
 * **NeoVerse**: "NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.00393)] [[Website](https://neoverse-4d.github.io)]
 * **TeleWorld**: "TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.00051)]
 * "World model inspired sarcasm reasoning with large language model agents", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24329)]
