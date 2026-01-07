@@ -55,6 +55,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Modeling the Mental World for Embodied AI: A Comprehensive Review", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.02378)] 
 * "Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.01321)] 
 * "Beyond World Models: Rethinking Understanding in AI Models", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.12239)] 
 * "Simulating the Visual World with Artificial Intelligence: A Roadmap", **`arXiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.08585)] [[Wesite](https://world-model-roadmap.github.io/)] [[Code](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model)]
