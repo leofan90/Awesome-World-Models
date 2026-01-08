@@ -88,6 +88,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **Wow, wo, val!**: "Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.04137)] 
 * **DrivingGen**: "DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.01528)] [[Website](https://drivinggen-bench.github.io/)]
 * "A Unified Definition of Hallucination, Or: It's the World Model, Stupid" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.21577)] 
 * "Active Intelligence in Video Avatars via Closed-loop World Modeling" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.20615)] [[Code](https://xuanhuahe.github.io/ORCA/)]
@@ -126,6 +127,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Choreographing a World of Dynamic Objects", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.04194)] [[Website](https://yanzhelyu.github.io/chord)] 
+* **MobileDreamer**: "MobileDreamer: Generative Sketch World Model for GUI Agent", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.04035)] 
+* "Current Agents Fail to Leverage World Model as Tool for Foresight", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.03905)] 
 * "Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.01075)] [[Website](https://flowequivariantworldmodels.github.io)]
 * "Value-guided action planning with JEPA world models", **`ICLR 2026 World Modeling Workshop`**. [[Paper](https://arxiv.org/abs/2601.00844)]
 * **NeoVerse**: "NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.00393)] [[Website](https://neoverse-4d.github.io)]
@@ -384,6 +388,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **PointWorld**: "PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.03782)] [[Website](https://point-world.github.io/)]
 * **Dream2Flow**: "Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24766)] [[Website](https://dream2flow.github.io/)]
 * "What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24497)] [[Code](https://github.com/facebookresearch/jepa-wms)]
 * **Act2Goal**: "Act2Goal: From World Model To General Goal-conditioned Policy", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.23541)] [[Website](https://act2goal.github.io/)]
