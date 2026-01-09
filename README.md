@@ -127,6 +127,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Learning Latent Action World Models In The Wild", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.05230)] 
+* **VerseCrafter**: "VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.05138)] [[Website](https://sixiaozheng.github.io/VerseCrafter_page/)] 
 * "Choreographing a World of Dynamic Objects", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.04194)] [[Website](https://yanzhelyu.github.io/chord)] 
 * **MobileDreamer**: "MobileDreamer: Generative Sketch World Model for GUI Agent", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.04035)] 
 * "Current Agents Fail to Leverage World Model as Tool for Foresight", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.03905)] 
@@ -542,6 +544,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **UniDrive-WM**: "UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving", **`arxiv 2026.01**. [[Paper](https://arxiv.org/abs/2601.04453)] [[Website](https://unidrive-wm.github.io/UniDrive-WM)] 
 * **DriveLaW**: "DriveLaW:Unifying Planning and Video Generation in a Latent Driving World", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.23421)] 
 * **GaussianDWM**: "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.23180)] [[Code](https://github.com/dtc111111/GaussianDWM)]
 * **WorldRFT**: "WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving", **`AAAI 2026**. [[Paper](https://arxiv.org/abs/2512.19133)] 
