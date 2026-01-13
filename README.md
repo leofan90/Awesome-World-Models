@@ -127,6 +127,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Puzzle it Out**: "Puzzle it Out: Local-to-Global World Model for Offline Multi-Agent Reinforcement Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.07463)] 
+* "Object-Centric World Models Meet Monte Carlo Tree Search", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.06604)] 
 * "Learning Latent Action World Models In The Wild", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.05230)] 
 * **VerseCrafter**: "VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.05138)] [[Website](https://sixiaozheng.github.io/VerseCrafter_page/)] 
 * "Choreographing a World of Dynamic Objects", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.04194)] [[Website](https://yanzhelyu.github.io/chord)] 
