@@ -127,6 +127,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Imagine-then-Plan**: "Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.08955)] 
 * **Puzzle it Out**: "Puzzle it Out: Local-to-Global World Model for Offline Multi-Agent Reinforcement Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.07463)] 
 * "Object-Centric World Models Meet Monte Carlo Tree Search", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.06604)] 
 * "Learning Latent Action World Models In The Wild", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.05230)] 
@@ -546,6 +547,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **MAD**: "MAD: Motion Appearance Decoupling for efficient Driving World Models", **`arxiv 2026.01**. [[Paper](https://arxiv.org/abs/2601.09452)] [[Website](https://vita-epfl.github.io/MAD-World-Model/)] 
 * **UniDrive-WM**: "UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving", **`arxiv 2026.01**. [[Paper](https://arxiv.org/abs/2601.04453)] [[Website](https://unidrive-wm.github.io/UniDrive-WM)] 
 * **DriveLaW**: "DriveLaW:Unifying Planning and Video Generation in a Latent Driving World", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.23421)] 
 * **GaussianDWM**: "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.23180)] [[Code](https://github.com/dtc111111/GaussianDWM)]
