@@ -395,6 +395,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Aligning Agentic World Models via Knowledgeable Experience Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.13247)] 
+* **ReWorld**: "ReWorld: Multi-Dimensional Reward Modeling for Embodied World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.12428)] 
+* "An Efficient and Multi-Modal Navigation System with One-Step World Model", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.12277)] 
 * **PointWorld**: "PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.03782)] [[Website](https://point-world.github.io/)]
 * **Dream2Flow**: "Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24766)] [[Website](https://dream2flow.github.io/)]
 * "What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?", **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.24497)] [[Code](https://github.com/facebookresearch/jepa-wms)]
