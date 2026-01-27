@@ -55,6 +55,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "A Mechanistic View on Video Generation as World Models: State and Dynamics", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.17067)] 
+* "From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.15533)] 
 * "Modeling the Mental World for Embodied AI: A Comprehensive Review", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.02378)] 
 * "Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.01321)] 
 * "Beyond World Models: Rethinking Understanding in AI Models", **`AAAI 2026`**. [[Paper](https://arxiv.org/abs/2511.12239)] 
@@ -88,6 +90,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **PhysicsMind**: "PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction in Foundational VLMs and World Models" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.16007)] 
+* **RBench**: "Rethinking Video Generation Model for the Embodied World" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.15282)] [[Website](https://dagroup-pku.github.io/ReVidgen.github.io/)] [[Code](https://github.com/DAGroup-PKU/ReVidgen/)] 
 * **Wow, wo, val!**: "Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.04137)] 
 * **DrivingGen**: "DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.01528)] [[Website](https://drivinggen-bench.github.io/)]
 * "A Unified Definition of Hallucination, Or: It's the World Model, Stupid" **`arXiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.21577)] 
@@ -127,6 +131,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* ""Just in Time" World Modeling Supports Human Planning and Reasoning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.14514)] 
 * **Action Shapley**: "Action Shapley: A Training Data Selection Metric for World Model in Reinforcement Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.10905)] 
 * "Inference-time Physics Alignment of Video Generative Models with Latent World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.10553)] 
 * **Imagine-then-Plan**: "Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.08955)] 
@@ -395,6 +400,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **MetaWorld**: "MetaWorld: Skill Transfer and Composition in a Hierarchical World Model for Grounding High-Level Instructions", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.17507)] [[Code](https://anonymous.4open.science/r/metaworld-2BF4/)]
+* "Walk through Paintings: Egocentric World Models from Internet Priors", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.15284)] 
 * "Aligning Agentic World Models via Knowledgeable Experience Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.13247)] 
 * **ReWorld**: "ReWorld: Multi-Dimensional Reward Modeling for Embodied World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.12428)] 
 * "An Efficient and Multi-Modal Navigation System with One-Step World Model", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.12277)] 
