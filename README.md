@@ -171,7 +171,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * "Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.05809)] [[Code](https://github.com/chandar-lab/visa-for-mindjourney)] 
 * **ProPhy**: "ProPhy: Progressive Physical Alignment for Dynamic World Simulation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.05564)] 
 * **BiTAgent**: "BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04513)] 
-* **RELIC**: "RELIC: Interactive Video World Model with Long-Horizon Memory", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04040)] 
+* **RELIC**: "RELIC: Interactive Video World Model with Long-Horizon Memory", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.04040)] [[Website](https://relic-worldmodel.github.io/)] 
 * "Better World Models Can Lead to Better Post-Training Performance", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03400)] 
 * **SeeU**: "SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03350)] [[Website](https://yuyuanspace.com/SeeU/)]
 * **DynamicVerse**: "DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.03000)] 
@@ -701,5 +701,6 @@ If you find this repository useful, please consider citing this list:
     year = {2024},
 }
 ```
+
 
 
