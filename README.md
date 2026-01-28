@@ -131,6 +131,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "From Observations to Events: Event-Aware World Model for Reinforcement Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19336)] 
+* **NuiWorld**: "NuiWorld: Exploring a Scalable Framework for End-to-End Controllable World Generation", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19048)] 
 * ""Just in Time" World Modeling Supports Human Planning and Reasoning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.14514)] 
 * **Action Shapley**: "Action Shapley: A Training Data Selection Metric for World Model in Reinforcement Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.10905)] 
 * "Inference-time Physics Alignment of Video Generative Models with Latent World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.10553)] 
