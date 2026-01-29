@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`lingbot-world`**, Advancing Open-source World Models. [[Paper](https://arxiv.org/abs/2601.20540)] [[Website](https://technology.robbyant.com/lingbot-world)] [[Code](https://github.com/robbyant/lingbot-world)]
 * **`TARS`**, World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild. [[Paper](https://arxiv.org/abs/2512.24310)] [[Website](https://wiyh.tars-ai.com/)] 
 * **`SIMA 2`**, SIMA 2: A Generalist Embodied Agent for Virtual Worlds. [[Paper](https://arxiv.org/abs/2512.04797)]
 * **`SimWorld`**, SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds. [[Paper](https://arxiv.org/abs/2512.01078)] [[Website](https://simworld.org/)] 
@@ -131,6 +132,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **PathWise**: "PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.20539)] 
 * "From Observations to Events: Event-Aware World Model for Reinforcement Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19336)] 
 * **NuiWorld**: "NuiWorld: Exploring a Scalable Framework for End-to-End Controllable World Generation", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19048)] 
 * ""Just in Time" World Modeling Supports Human Planning and Reasoning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.14514)] 
@@ -553,6 +555,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Visual Understanding
+* "Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models", **`arxiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19834)] [[Website](https://thuml.github.io/Reasoning-Visual-World)] 
 * "Semantic World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.19818)] [[Website](https://weirdlabuw.github.io/swm)] 
 * **DyVA**: "Can World Models Benefit VLMs for World Dynamics?", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.00855)] [[Website](https://dyva-worldlm.github.io)] 
 * "Video models are zero-shot learners and reasoners", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.20328)]
