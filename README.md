@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`lingbot-va`**, Causal World Modeling for Robot Control. [[Paper](https://arxiv.org/abs/2601.21998)] [[Website](https://technology.robbyant.com/lingbot-va)] [[Code](https://github.com/robbyant/lingbot-va)]
 * **`lingbot-world`**, Advancing Open-source World Models. [[Paper](https://arxiv.org/abs/2601.20540)] [[Website](https://technology.robbyant.com/lingbot-world)] [[Code](https://github.com/robbyant/lingbot-world)]
 * **`TARS`**, World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild. [[Paper](https://arxiv.org/abs/2512.24310)] [[Website](https://wiyh.tars-ai.com/)] 
 * **`SIMA 2`**, SIMA 2: A Generalist Embodied Agent for Virtual Worlds. [[Paper](https://arxiv.org/abs/2512.04797)]
@@ -91,6 +92,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **WoW-bench**: "World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.22130)]
+* **WorldBench**: "WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.21282)] [[Website](https://world-bench.github.io/)] 
 * **PhysicsMind**: "PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction in Foundational VLMs and World Models" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.16007)] 
 * **RBench**: "Rethinking Video Generation Model for the Embodied World" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.15282)] [[Website](https://dagroup-pku.github.io/ReVidgen.github.io/)] [[Code](https://github.com/DAGroup-PKU/ReVidgen/)] 
 * **Wow, wo, val!**: "Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.04137)] 
@@ -132,6 +135,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.22128)] 
 * **PathWise**: "PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.20539)] 
 * "From Observations to Events: Event-Aware World Model for Reinforcement Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19336)] 
 * **NuiWorld**: "NuiWorld: Exploring a Scalable Framework for End-to-End Controllable World Generation", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19048)] 
