@@ -135,6 +135,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2601.22647)] [[Code](https://github.com/doldam0/tmow)] 
 * "The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.22128)] 
 * **PathWise**: "PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.20539)] 
 * "From Observations to Events: Event-Aware World Model for Reinforcement Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19336)] 
