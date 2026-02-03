@@ -409,6 +409,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **World-Gymnast**: "World-Gymnast: Training Robots with Reinforcement Learning in a World Model", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.02454)] [[Website](https://world-gymnast.github.io/)]
 * **MetaWorld**: "MetaWorld: Skill Transfer and Composition in a Hierarchical World Model for Grounding High-Level Instructions", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.17507)] [[Code](https://anonymous.4open.science/r/metaworld-2BF4/)]
 * "Walk through Paintings: Egocentric World Models from Internet Priors", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.15284)] 
 * "Aligning Agentic World Models via Knowledgeable Experience Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.13247)] 
