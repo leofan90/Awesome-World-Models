@@ -135,6 +135,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Joint Learning of Hierarchical Neural Options and Abstract World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.02799)] 
 * "Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2601.22647)] [[Code](https://github.com/doldam0/tmow)] 
 * "The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.22128)] 
 * **PathWise**: "PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.20539)] 
@@ -570,6 +571,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **InstaDrive**: "InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.03242)] [[Website](https://shanpoyang654.github.io/InstaDrive/page.html)] 
+* **ConsisDrive**: "ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.03213)] [[Website](https://shanpoyang654.github.io/ConsisDrive/page.html)] 
 * **MAD**: "MAD: Motion Appearance Decoupling for efficient Driving World Models", **`arxiv 2026.01**. [[Paper](https://arxiv.org/abs/2601.09452)] [[Website](https://vita-epfl.github.io/MAD-World-Model/)] 
 * **UniDrive-WM**: "UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving", **`arxiv 2026.01**. [[Paper](https://arxiv.org/abs/2601.04453)] [[Website](https://unidrive-wm.github.io/UniDrive-WM)] 
 * **DriveLaW**: "DriveLaW:Unifying Planning and Video Generation in a Latent Driving World", **`arxiv 2025.12**. [[Paper](https://arxiv.org/abs/2512.23421)] 
