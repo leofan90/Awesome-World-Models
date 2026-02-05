@@ -135,6 +135,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **LIVE**: "LIVE: Long-horizon Interactive Video World Modeling", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.03747)] [[Website](https://junchao-cs.github.io/LIVE-demo/)]
+* **EHRWorld**: "EHRWorld: A Patient-Centric Medical World Model for Long-Horizon Clinical Trajectories", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.03569)] 
 * "Joint Learning of Hierarchical Neural Options and Abstract World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.02799)] 
 * "Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2601.22647)] [[Code](https://github.com/doldam0/tmow)] 
 * "The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.22128)] 
@@ -410,6 +412,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **BridgeV2W**: "BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.03793)] [[Website](https://BridgeV2W.github.io)]
 * **World-Gymnast**: "World-Gymnast: Training Robots with Reinforcement Learning in a World Model", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.02454)] [[Website](https://world-gymnast.github.io/)]
 * **MetaWorld**: "MetaWorld: Skill Transfer and Composition in a Hierarchical World Model for Grounding High-Level Instructions", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.17507)] [[Code](https://anonymous.4open.science/r/metaworld-2BF4/)]
 * "Walk through Paintings: Egocentric World Models from Internet Priors", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.15284)] 
@@ -571,6 +574,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.04821)]
 * **InstaDrive**: "InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.03242)] [[Website](https://shanpoyang654.github.io/InstaDrive/page.html)] 
 * **ConsisDrive**: "ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.03213)] [[Website](https://shanpoyang654.github.io/ConsisDrive/page.html)] 
 * **MAD**: "MAD: Motion Appearance Decoupling for efficient Driving World Models", **`arxiv 2026.01**. [[Paper](https://arxiv.org/abs/2601.09452)] [[Website](https://vita-epfl.github.io/MAD-World-Model/)] 
