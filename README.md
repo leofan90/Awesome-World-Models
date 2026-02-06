@@ -135,6 +135,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Reinforcement World Model Learning for LLM-based Agents", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.05842)]
 * **LIVE**: "LIVE: Long-horizon Interactive Video World Modeling", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.03747)] [[Website](https://junchao-cs.github.io/LIVE-demo/)]
 * **EHRWorld**: "EHRWorld: A Patient-Centric Medical World Model for Long-Horizon Clinical Trajectories", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.03569)] 
 * "Joint Learning of Hierarchical Neural Options and Abstract World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.02799)] 
