@@ -413,6 +413,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Visuo-Tactile World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.06001)]
 * **BridgeV2W**: "BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.03793)] [[Website](https://BridgeV2W.github.io)]
 * **World-Gymnast**: "World-Gymnast: Training Robots with Reinforcement Learning in a World Model", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.02454)] [[Website](https://world-gymnast.github.io/)]
 * **MetaWorld**: "MetaWorld: Skill Transfer and Composition in a Hierarchical World Model for Grounding High-Level Instructions", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.17507)] [[Code](https://anonymous.4open.science/r/metaworld-2BF4/)]
