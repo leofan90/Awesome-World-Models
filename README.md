@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`DreamDojo`**, DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos. [[Paper](https://arxiv.org/abs/2602.06949)] [[Website](https://dreamdojo-world.github.io/)] 
 * **`lingbot-va`**, Causal World Modeling for Robot Control. [[Paper](https://arxiv.org/abs/2601.21998)] [[Website](https://technology.robbyant.com/lingbot-va)] [[Code](https://github.com/robbyant/lingbot-va)]
 * **`lingbot-world`**, Advancing Open-source World Models. [[Paper](https://arxiv.org/abs/2601.20540)] [[Website](https://technology.robbyant.com/lingbot-world)] [[Code](https://github.com/robbyant/lingbot-world)]
 * **`TARS`**, World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild. [[Paper](https://arxiv.org/abs/2512.24310)] [[Website](https://wiyh.tars-ai.com/)] 
@@ -135,6 +136,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.06923)]
+* "Self-Improving World Modelling with Latent Actions", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.06130)]
 * "Reinforcement World Model Learning for LLM-based Agents", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.05842)]
 * **LIVE**: "LIVE: Long-horizon Interactive Video World Modeling", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.03747)] [[Website](https://junchao-cs.github.io/LIVE-demo/)]
 * **EHRWorld**: "EHRWorld: A Patient-Centric Medical World Model for Long-Horizon Clinical Trajectories", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.03569)] 
@@ -413,6 +416,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **World-VLA-Loop**: "World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.06508)] [[Website](https://showlab.github.io/World-VLA-Loop/)]
+* "Coupled Local and Global World Models for Efficient First Order RL", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.06219)]
 * "Visuo-Tactile World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.06001)]
 * **BridgeV2W**: "BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.03793)] [[Website](https://BridgeV2W.github.io)]
 * **World-Gymnast**: "World-Gymnast: Training Robots with Reinforcement Learning in a World Model", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.02454)] [[Website](https://world-gymnast.github.io/)]
@@ -576,6 +581,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **DriveWorld-VLA**: "DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.06521)] [[Code](https://github.com/liulin815/DriveWorld-VLA.git)]
 * "Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.04821)]
 * **InstaDrive**: "InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.03242)] [[Website](https://shanpoyang654.github.io/InstaDrive/page.html)] 
 * **ConsisDrive**: "ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.03213)] [[Website](https://shanpoyang654.github.io/ConsisDrive/page.html)] 
