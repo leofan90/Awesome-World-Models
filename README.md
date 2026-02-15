@@ -29,6 +29,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`GigaBrain-0.5M*`**, GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning. [[Paper](https://arxiv.org/abs/2602.12099)] [[Website](https://gigabrain05m.github.io/)] 
+* **`ALIVE`**, ALIVE: Animate Your World with Lifelike Audio-Video Generation. [[Paper](https://arxiv.org/abs/2602.08682)] [[Website](https://foundationvision.github.io/Alive/)] 
 * **`DreamDojo`**, DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos. [[Paper](https://arxiv.org/abs/2602.06949)] [[Website](https://dreamdojo-world.github.io/)] 
 * **`lingbot-va`**, Causal World Modeling for Robot Control. [[Paper](https://arxiv.org/abs/2601.21998)] [[Website](https://technology.robbyant.com/lingbot-va)] [[Code](https://github.com/robbyant/lingbot-va)]
 * **`lingbot-world`**, Advancing Open-source World Models. [[Paper](https://arxiv.org/abs/2601.20540)] [[Website](https://technology.robbyant.com/lingbot-world)] [[Code](https://github.com/robbyant/lingbot-world)]
@@ -93,6 +95,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **WorldArena**: "WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.08971)] [[Code]( https://world-arena.ai)]
+* **MIND**: "MIND: Benchmarking Memory Consistency and Action Control in World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.08025)] [[Code](https://github.com/CSU-JPG/MIND)]
 * **WoW-bench**: "World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.22130)]
 * **WorldBench**: "WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.21282)] [[Website](https://world-bench.github.io/)] 
 * **PhysicsMind**: "PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction in Foundational VLMs and World Models" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.16007)] 
@@ -136,6 +140,16 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Causal-JEPA**: "Causal-JEPA: Learning World Models through Object-Level Latent Interventions", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.11389)] [[Website](https://hazel-heejeong-nam.github.io/cjepa/)] [[Code](https://github.com/galilai-group/cjepa)]
+* **Olaf-World**: "Olaf-World: Orienting Latent Actions for Video World Modeling", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.10104)] [[Website](https://showlab.github.io/Olaf-World/)] [[Code](https://github.com/showlab/Olaf-World)]
+* **Agent World Model**: "Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.10090)] [[Code](https://github.com/Snowflake-Labs/agent-world-model)]
+* **WorldCompass**: "WorldCompass: Reinforcement Learning for Long-Horizon World Models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.09022)] [[Website](https://3d-models.hunyuan.tencent.com/world/)]
+* "Horizon Imagination: Efficient On-Policy Training in Diffusion World Models", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2602.08032)] [[Code](https://github.com/leor-c/horizon-imagination)]
+* "Geometry-Aware Rotary Position Embedding for Consistent Video World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.07854)]
+* "Debugging code world models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.07672)]
+* "Cross-View World Models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.07277)]
+* "Interpreting Physics in Video World Models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.07050)]
+* "Neural Sabermetrics with World Model: Play-by-play Predictive Modeling with Large Language Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.07030)]
 * "From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.06923)]
 * "Self-Improving World Modelling with Latent Actions", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.06130)]
 * "Reinforcement World Model Learning for LLM-based Agents", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.05842)]
@@ -416,11 +430,21 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
-* **World-VLA-Loop**: "World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.06508)] [[Website](https://showlab.github.io/World-VLA-Loop/)]
-* "Coupled Local and Global World Models for Efficient First Order RL", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.06219)]
-* "Visuo-Tactile World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.06001)]
-* **BridgeV2W**: "BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.03793)] [[Website](https://BridgeV2W.github.io)]
-* **World-Gymnast**: "World-Gymnast: Training Robots with Reinforcement Learning in a World Model", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.02454)] [[Website](https://world-gymnast.github.io/)]
+* **VLAW**: "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.12063)] [[Website](https://sites.google.com/view/vla-w)]
+* **HAIC**: "HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.11758)] [[Website](https://haic-humanoid.github.io/)]
+* **H-WM**: "H-WM: Robotic Task and Motion Planning Guided by Hierarchical World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.11291)]
+* **RISE**: "RISE: Self-Improving Robot Policy with Compositional World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.11075)] [[Website](https://opendrivelab.com/kai0-rl/)] 
+* "ContactGaussian-WM: Learning Physics-Grounded World Model from Videos", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.11021)] 
+* "Scaling World Model for Hierarchical Manipulation Policies", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.10983)] [[Website](https://vista-wm.github.io)]
+* **Say, Dream, and Act**: "Say, Dream, and Act: Learning Video World Models for Instruction-Driven Robot Manipulation", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.10717)]
+* "Affordances Enable Partial World Modeling with LLMs", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.10390)]
+* **VLA-JEPA**: "VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.10098)]
+* **MVISTA-4D**: "MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.09878)] 
+* **World-VLA-Loop**: "World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.06508)] [[Website](https://showlab.github.io/World-VLA-Loop/)]
+* "Coupled Local and Global World Models for Efficient First Order RL", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.06219)]
+* "Visuo-Tactile World Models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.06001)]
+* **BridgeV2W**: "BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.03793)] [[Website](https://BridgeV2W.github.io)]
+* **World-Gymnast**: "World-Gymnast: Training Robots with Reinforcement Learning in a World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.02454)] [[Website](https://world-gymnast.github.io/)]
 * **MetaWorld**: "MetaWorld: Skill Transfer and Composition in a Hierarchical World Model for Grounding High-Level Instructions", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.17507)] [[Code](https://anonymous.4open.science/r/metaworld-2BF4/)]
 * "Walk through Paintings: Egocentric World Models from Internet Priors", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.15284)] 
 * "Aligning Agentic World Models via Knowledgeable Experience Learning", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.13247)] 
@@ -572,6 +596,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Visual Understanding
+* "When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning", **`arxiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.08236)] [[Website](https://adaptive-visual-tts.github.io/)] 
 * "Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models", **`arxiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19834)] [[Website](https://thuml.github.io/Reasoning-Visual-World)] 
 * "Semantic World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.19818)] [[Website](https://weirdlabuw.github.io/swm)] 
 * **DyVA**: "Can World Models Benefit VLMs for World Dynamics?", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.00855)] [[Website](https://dyva-worldlm.github.io)] 
@@ -581,6 +606,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **ResWorld**: "ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.10884)] [[Code](https://github.com/mengtan00/ResWorld.git)]
 * **DriveWorld-VLA**: "DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.06521)] [[Code](https://github.com/liulin815/DriveWorld-VLA.git)]
 * "Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.04821)]
 * **InstaDrive**: "InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.03242)] [[Website](https://shanpoyang654.github.io/InstaDrive/page.html)] 
