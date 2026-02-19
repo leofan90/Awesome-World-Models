@@ -140,6 +140,12 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **VLM-DEWM**: "VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.15549)] 
+* "World-Model-Augmented Web Agents with Action Correction", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.15384)] 
+* "Cold-Start Personalization via Training-Free Priors from Structured World Models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.15012)] [[Code](https://github.com/Avinandan22/PEP)]
+* "World Models for Policy Refinement in StarCraft II", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.14857)]
+* **WebWorld**: "WebWorld: A Large-Scale World Model for Web Agent Training", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.14721)]
+* **WIMLE**: "WIMLE: Uncertainty-Aware World Models with IMLE for Sample-Efficient Continuous Control", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2602.14351)]
 * **Causal-JEPA**: "Causal-JEPA: Learning World Models through Object-Level Latent Interventions", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.11389)] [[Website](https://hazel-heejeong-nam.github.io/cjepa/)] [[Code](https://github.com/galilai-group/cjepa)]
 * **Olaf-World**: "Olaf-World: Orienting Latent Actions for Video World Modeling", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.10104)] [[Website](https://showlab.github.io/Olaf-World/)] [[Code](https://github.com/showlab/Olaf-World)]
 * **Agent World Model**: "Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.10090)] [[Code](https://github.com/Snowflake-Labs/agent-world-model)]
@@ -430,6 +436,11 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Learning to unfold cloth: Scaling up world models to deformable object manipulation", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.16675)] 
+* "World Model Failure Classification and Anomaly Detection for Autonomous Inspection", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.16182)] [[Website](https://autoinspection-classification.github.io)] 
+* **DreamZero**: "World Action Models are Zero-shot Policies", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.15922)] [[Website](https://dreamzero0.github.io/)] 
+* **WoVR**: "WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.13977)] 
+* "Visual Foresight for Robotic Stow: A Diffusion-Based World Model from Sparse Snapshots", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.13347)] 
 * **VLAW**: "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.12063)] [[Website](https://sites.google.com/view/vla-w)]
 * **HAIC**: "HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.11758)] [[Website](https://haic-humanoid.github.io/)]
 * **H-WM**: "H-WM: Robotic Task and Motion Planning Guided by Hierarchical World Model", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.11291)]
@@ -606,6 +617,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Factored Latent Action World Models", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.16229)] 
 * **ResWorld**: "ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.10884)] [[Code](https://github.com/mengtan00/ResWorld.git)]
 * **DriveWorld-VLA**: "DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.06521)] [[Code](https://github.com/liulin815/DriveWorld-VLA.git)]
 * "Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.04821)]
