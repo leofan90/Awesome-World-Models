@@ -436,6 +436,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **FRAPPE**: "FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.17259)] [[Website](https://h-zhao1997.github.io/frappe)]
 * "Learning to unfold cloth: Scaling up world models to deformable object manipulation", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.16675)] 
 * "World Model Failure Classification and Anomaly Detection for Autonomous Inspection", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.16182)] [[Website](https://autoinspection-classification.github.io)] 
 * **DreamZero**: "World Action Models are Zero-shot Policies", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.15922)] [[Website](https://dreamzero0.github.io/)] 
