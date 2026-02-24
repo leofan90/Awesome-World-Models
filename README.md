@@ -140,6 +140,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "MRI Contrast Enhancement Kinetics World Model", **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2602.19285)] 
+* "Neural Fields as World Models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.18690)] 
+* "Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.18639)] 
+* **Generated Reality**: "Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.18422)] 
 * **VLM-DEWM**: "VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.15549)] 
 * "World-Model-Augmented Web Agents with Action Correction", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.15384)] 
 * "Cold-Start Personalization via Training-Free Priors from Structured World Models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.15012)] [[Code](https://github.com/Avinandan22/PEP)]
@@ -618,6 +622,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "When World Models Dream Wrong: Physical-Conditioned Adversarial Attacks against World Models", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.18739)] 
 * "Factored Latent Action World Models", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.16229)] 
 * **ResWorld**: "ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.10884)] [[Code](https://github.com/mengtan00/ResWorld.git)]
 * **DriveWorld-VLA**: "DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.06521)] [[Code](https://github.com/liulin815/DriveWorld-VLA.git)]
