@@ -60,6 +60,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "The Trinity of Consistency as a Defining Principle for General World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.23152)] [[Code]( https://github.com/openraiser/awesome-world-model-evolution)]
 * "A Mechanistic View on Video Generation as World Models: State and Dynamics", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.17067)] 
 * "From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.15533)] 
 * "Modeling the Mental World for Embodied AI: A Comprehensive Review", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.02378)] 
@@ -140,6 +141,11 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **MetaOthello**: "MetaOthello: A Controlled Study of Multiple World Models in Transformers", **`arxiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.23164)] 
+* **GeoWorld**: "GeoWorld: Geometric World Models", **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2602.23058)] [[Website](https://steve-zeyu-zhang.github.io/GeoWorld)]
+* **UCM**: "UCM: Unifying Camera Control and Memory with Time-aware Positional Encoding Warping for World Models", **`arxiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.22960)] [[Website](https://humanaigc.github.io/ucm-webpage/)]
+* "Code World Models for Parameter Control in Evolutionary Algorithms", **`arxiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.22260)]
+* **Solaris**: "Solaris: Building a Multiplayer Video World Model in Minecraft", **`arxiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.22208)] [[Website](https://solaris-wm.github.io/)]
 * "MRI Contrast Enhancement Kinetics World Model", **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2602.19285)] 
 * "Neural Fields as World Models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.18690)] 
 * "Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.18639)] 
@@ -440,6 +446,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **AdaWorldPolicy**: "AdaWorldPolicy: World-Model-Driven Diffusion Policy with Online Adaptive Learning for Robotic Manipulation", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.20057)] [[Website](https://AdaWorldPolicy.github.io)]
 * **FRAPPE**: "FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.17259)] [[Website](https://h-zhao1997.github.io/frappe)]
 * "Learning to unfold cloth: Scaling up world models to deformable object manipulation", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.16675)] 
 * "World Model Failure Classification and Anomaly Detection for Autonomous Inspection", **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.16182)] [[Website](https://autoinspection-classification.github.io)] 
@@ -589,6 +596,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* **World Guidance**: "World Guidance: World Modeling in Condition Space for Action Generation",  **`arxiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.22010)] [[Website](https://selen-suyue.github.io/WoGNet/)] 
 * **Motus**: "Motus: A Unified Latent Action World Model",  **`arxiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.13030)] [[Website](https://motus-robotics.github.io/motus)] [[Code](https://github.com/thu-ml/Motus)]
 * **RoboScape-R**: "RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL",  **`arxiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.03556)]
 * **AdaPower**: "AdaPower: Specializing World Foundation Models for Predictive Manipulation",  **`arxiv 2025.12`**. [[Paper](https://arxiv.org/abs/2512.03538)]
@@ -622,6 +630,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.23259)]
+* **RAYNOVA**: "RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space", **`CVPR 2026**. [[Paper](https://arxiv.org/abs/2602.20685)] [[Website](https://raynova-ai.github.io/)]
 * "When World Models Dream Wrong: Physical-Conditioned Adversarial Attacks against World Models", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.18739)] 
 * "Factored Latent Action World Models", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.16229)] 
 * **ResWorld**: "ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving", **`arxiv 2026.02**. [[Paper](https://arxiv.org/abs/2602.10884)] [[Code](https://github.com/mengtan00/ResWorld.git)]
