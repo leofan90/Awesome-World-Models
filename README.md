@@ -96,6 +96,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **MicroVerse**: "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2603.00585)] [[Code](https://github.com/FreedomIntelligence/MicroVerse)]
 * **WorldArena**: "WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.08971)] [[Code]( https://world-arena.ai)]
 * **MIND**: "MIND: Benchmarking Memory Consistency and Action Control in World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.08025)] [[Code](https://github.com/CSU-JPG/MIND)]
 * **WoW-bench**: "World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems" **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.22130)]
@@ -809,6 +810,7 @@ If you find this repository useful, please consider citing this list:
     year = {2024},
 }
 ```
+
 
 
 
