@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`GigaWorld-Policy`**, GigaWorld-Policy: An Efficient Action-Centered World--Action Model. [[Paper](https://arxiv.org/abs/2603.17240)]
 * **`GigaBrain-0.5M*`**, GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning. [[Paper](https://arxiv.org/abs/2602.12099)] [[Website](https://gigabrain05m.github.io/)] 
 * **`ALIVE`**, ALIVE: Animate Your World with Lifelike Audio-Video Generation. [[Paper](https://arxiv.org/abs/2602.08682)] [[Website](https://foundationvision.github.io/Alive/)] 
 * **`DreamDojo`**, DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos. [[Paper](https://arxiv.org/abs/2602.06949)] [[Website](https://dreamdojo-world.github.io/)] 
@@ -96,6 +97,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* "Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.13215)] [[Website](https://glab-caltech.github.io/STEVOBench/)]
 * **MicroVerse**: "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2603.00585)] [[Code](https://github.com/FreedomIntelligence/MicroVerse)]
 * **WorldArena**: "WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.08971)] [[Code]( https://world-arena.ai)]
 * **MIND**: "MIND: Benchmarking Memory Consistency and Action Control in World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.08025)] [[Code](https://github.com/CSU-JPG/MIND)]
@@ -142,6 +144,16 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **MosaicMem**: "MosaicMem: Hybrid Spatial Memory for Controllable Video World Models
+", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17117)] [[Website](https://mosaicmem.github.io/mosaicmem/)] 
+* **WorldCam**: "WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16871)] [[Website](https://cvlab-kaist.github.io/WorldCam/)] 
+* **SWM**: "Grounding World Simulation Models in a Real-World Metropolis", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.15583)] [[Website](https://seoul-world-model.github.io/)] 
+* **NavThinker**: "NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.15359)] [[Website](https://hutslib.github.io/NavThinker)] 
+* **EyeWorld**: "EyeWorld: A Generative World Model of Ocular State and Dynamics", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.14039)] 
+* **CtrlAttack**: "CtrlAttack: A Unified Attack on World-Model Control in Diffusion Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.13435)] 
+* **SAW**: "SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.13024)] 
+* **VGGT-World**: "VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.12655)] 
+* **ARROW**: "ARROW: Augmented Replay for RObust World models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.11395)] 
 * **RAE-NWM**: "RAE-NWM: Navigation World Model in Dense Visual Representation Space", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.09241)] [[Code](https://github.com/20robo/raenwm)]
 * **SPIRAL**: "SPIRAL: A Closed-Loop Framework for Self-Improving Action World Models via Reflective Planning Agents", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.08403)]
 * **MWM**: "MWM: Mobile World Models for Action-Conditioned Consistent Prediction", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.07799)] [[Website](https://aigeeksgroup.github.io/MWM)] [[Code](https://github.com/AIGeeksGroup/MWM)]
@@ -461,6 +473,14 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **DreamPlan**: "DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16860)] [[Website](https://psi-lab.ai/DreamPlan/)]
+* **Kinema4D**: "Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16669)] [[Website](https://mutianxu.github.io/Kinema4D-project-page/)]
+* "Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.15759)] [[Website](https://sim-dist.github.io/)]
+* **WestWorld**: "WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.14392)] [[Website](https://westworldrobot.github.io/)]
+* "Building Explicit World Model for Zero-Shot Open-World Object Manipulation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.13825)] [[Website](https://bojack-bj.github.io/projects/thesis/)]
+* "Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.13615)] [[Website](https://egohoi.github.io/)]
+* **RoboStereo**: "RoboStereo: Dual-Tower 4D Embodied World Models for Unified Policy Optimization", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.12639)]
+* **ResWM**: "ResWM: Residual-Action World Model for Visual RL", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.11110)]
 * **PlayWorld**: "PlayWorld: Learning Robot World Models from Autonomous Play", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.09030)] [[Website](https://robot-playworld.github.io/)]
 * **MetaWorld-X**: "MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.08572)] [[Website](https://syt2004.github.io/metaworldX/)]
 * "Interactive World Simulator for Robot Policy Training and Evaluation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.08546)] [[Website](https://yixuanwang.me/interactive_world_sim)]
@@ -617,6 +637,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* **Fast-WAM**: "Fast-WAM: Do World Action Models Need Test-time Future Imagination?",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16666)] [[Website](https://yuantianyuan01.github.io/FastWAM/)] 
+* **StructVLA**: "Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.12553)]
 * **World2Act**: "World2Act: Latent Action Post-Training via Skill-Compositional World Models",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.10422)] [[Website](https://wm2act.github.io/)]
 * **AtomVLA**: "AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.08519)] 
 * **Chain of World**: "Chain of World: World Model Thinking in Latent Motion",  **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2603.03195)] [[Website](https://fx-hit.github.io/cowvla-io/)] 
@@ -646,6 +668,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Visual Understanding
+* **WorldVLM**: "WorldVLM: Combining World Model Forecasting and Vision-Language Reasoning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.14497)] 
 * "When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning", **`arxiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.08236)] [[Website](https://adaptive-visual-tts.github.io/)] 
 * "Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models", **`arxiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19834)] [[Website](https://thuml.github.io/Reasoning-Visual-World)] 
 * "Semantic World Models", **`arxiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.19818)] [[Website](https://weirdlabuw.github.io/swm)] 
@@ -656,6 +679,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.14948)] [[Code](https://github.com/TabGuigui/WorldDrive)]
 * "Latent World Models for Automated Driving: A Unified Taxonomy, Evaluation Framework, and Open Challenges", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.09086)]
 * "Kinematics-Aware Latent World Models for Data-Efficient Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.07264)]
 * **ShareVerse**: "ShareVerse: Multi-Agent Consistent Video Generation for Shared World Modeling", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.02697)]
