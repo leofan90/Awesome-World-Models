@@ -61,6 +61,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "From Digital Twins to World Models:Opportunities, Challenges, and Applications for Mobile Edge General Intelligence" **`arXiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17420)]
 * "The Trinity of Consistency as a Defining Principle for General World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.23152)] [[Code]( https://github.com/openraiser/awesome-world-model-evolution)]
 * "A Mechanistic View on Video Generation as World Models: State and Dynamics", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.17067)] 
 * "From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.15533)] 
@@ -144,8 +145,12 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
-* **MosaicMem**: "MosaicMem: Hybrid Spatial Memory for Controllable Video World Models
-", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17117)] [[Website](https://mosaicmem.github.io/mosaicmem/)] 
+* **EgoForge**: "EgoForge: Goal-Directed Egocentric World Simulator", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.20169]
+* "Structured Latent Dynamics in Wireless CSI via Homomorphic World Models", **`IEEE ICC`**. [[Paper](https://arxiv.org/abs/2603.20048)]
+* **WorldAgents**: "WorldAgents: Can Foundation Image Models be Agents for 3D World Models?", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.19708)] [[Website]( https://ziyaerkoc.com/worldagents/)] 
+* **R2-Dreamer**: "R2-Dreamer: Redundancy-Reduced World Models without Decoders or Augmentation", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2603.18202)] [[Code]( https://github.com/NM512/r2dreamer)] 
+* **StereoWorld**: "Stereo World Model: Camera-Guided Stereo Video Generation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17375)] [[Website]( https://sunyangtian.github.io/StereoWorld-web/)] 
+* **MosaicMem**: "MosaicMem: Hybrid Spatial Memory for Controllable Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17117)] [[Website](https://mosaicmem.github.io/mosaicmem/)] 
 * **WorldCam**: "WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16871)] [[Website](https://cvlab-kaist.github.io/WorldCam/)] 
 * **SWM**: "Grounding World Simulation Models in a Real-World Metropolis", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.15583)] [[Website](https://seoul-world-model.github.io/)] 
 * **NavThinker**: "NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.15359)] [[Website](https://hutslib.github.io/NavThinker)] 
@@ -473,6 +478,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **OmniVTA**: "OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.19201)] [[Website](https://mrsecant.github.io/OmniVTA)]
+* **EVA**: "EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17808)] [[Website](https://eva-project-page.github.io/)]
 * **DreamPlan**: "DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16860)] [[Website](https://psi-lab.ai/DreamPlan/)]
 * **Kinema4D**: "Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16669)] [[Website](https://mutianxu.github.io/Kinema4D-project-page/)]
 * "Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.15759)] [[Website](https://sim-dist.github.io/)]
@@ -637,6 +644,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* "Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.18532)]
 * **Fast-WAM**: "Fast-WAM: Do World Action Models Need Test-time Future Imagination?",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16666)] [[Website](https://yuantianyuan01.github.io/FastWAM/)] 
 * **StructVLA**: "Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.12553)]
 * **World2Act**: "World2Act: Latent Action Post-Training via Skill-Compositional World Models",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.10422)] [[Website](https://wm2act.github.io/)]
@@ -679,6 +687,10 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **X-World**: "X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.19979)]
+* **DynFlowDrive**: "DynFlowDrive: Flow-Based Dynamic World Modeling for Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.19675)] [[Code](https://github.com/xiaolul2/DynFlowDrive)]
+* **Enactor**: "Enactor: From Traffic Simulators to Surrogate World Models", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.18266)]
+* **VectorWorld**: "VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.17652)] [[Code](https://github.com/jiangchaokang/VectorWorld)]
 * "Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.14948)] [[Code](https://github.com/TabGuigui/WorldDrive)]
 * "Latent World Models for Automated Driving: A Unified Taxonomy, Evaluation Framework, and Open Challenges", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.09086)]
 * "Kinematics-Aware Latent World Models for Data-Efficient Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.07264)]
