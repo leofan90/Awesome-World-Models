@@ -145,6 +145,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "From Part to Whole: 3D Generative World Model with an Adaptive Structural Hierarchy", **`ICME 2026`**. [[Paper](https://arxiv.org/abs/2603.21557]
 * **EgoForge**: "EgoForge: Goal-Directed Egocentric World Simulator", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.20169]
 * "Structured Latent Dynamics in Wireless CSI via Homomorphic World Models", **`IEEE ICC`**. [[Paper](https://arxiv.org/abs/2603.20048)]
 * **WorldAgents**: "WorldAgents: Can Foundation Image Models be Agents for 3D World Models?", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.19708)] [[Website]( https://ziyaerkoc.com/worldagents/)] 
@@ -478,6 +479,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **DDP**: "Dreaming the Unseen: World Model-regularized Diffusion Policy for Out-of-Distribution Robustness", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.21017)]
 * **OmniVTA**: "OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.19201)] [[Website](https://mrsecant.github.io/OmniVTA)]
 * **EVA**: "EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17808)] [[Website](https://eva-project-page.github.io/)]
 * **DreamPlan**: "DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16860)] [[Website](https://psi-lab.ai/DreamPlan/)]
@@ -644,6 +646,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* "Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.20607)]
 * "Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.18532)]
 * **Fast-WAM**: "Fast-WAM: Do World Action Models Need Test-time Future Imagination?",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16666)] [[Website](https://yuantianyuan01.github.io/FastWAM/)] 
 * **StructVLA**: "Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.12553)]
@@ -687,6 +690,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **CounterScene**: "CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.21104)]
 * **X-World**: "X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.19979)]
 * **DynFlowDrive**: "DynFlowDrive: Flow-Based Dynamic World Modeling for Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.19675)] [[Code](https://github.com/xiaolul2/DynFlowDrive)]
 * **Enactor**: "Enactor: From Traffic Simulators to Surrogate World Models", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.18266)]
