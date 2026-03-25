@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`ABot-PhysWorld`**, ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment. [[Paper](https://arxiv.org/abs/2603.23376)]
 * **`GigaWorld-Policy`**, GigaWorld-Policy: An Efficient Action-Centered World--Action Model. [[Paper](https://arxiv.org/abs/2603.17240)]
 * **`GigaBrain-0.5M*`**, GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning. [[Paper](https://arxiv.org/abs/2602.12099)] [[Website](https://gigabrain05m.github.io/)] 
 * **`ALIVE`**, ALIVE: Animate Your World with Lifelike Audio-Video Generation. [[Paper](https://arxiv.org/abs/2602.08682)] [[Website](https://foundationvision.github.io/Alive/)] 
@@ -98,6 +99,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* **Omni-WorldBench**: "Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22212)] 
 * "Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.13215)] [[Website](https://glab-caltech.github.io/STEVOBench/)]
 * **MicroVerse**: "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2603.00585)] [[Code](https://github.com/FreedomIntelligence/MicroVerse)]
 * **WorldArena**: "WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.08971)] [[Code]( https://world-arena.ai)]
@@ -145,8 +147,11 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
-* "From Part to Whole: 3D Generative World Model with an Adaptive Structural Hierarchy", **`ICME 2026`**. [[Paper](https://arxiv.org/abs/2603.21557]
-* **EgoForge**: "EgoForge: Goal-Directed Egocentric World Simulator", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.20169]
+* **WildWorld**: "WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.23497)] [[Website](https://shandaai.github.io/wildworld-project/)] [[Code](https://github.com/ShandaAI/WildWorld)]
+* "Model Predictive Control with Differentiable World Models for Offline Reinforcement Learning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22430)]
+* **WorldCache**: "WorldCache: Content-Aware Caching for Accelerated Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22286)] [[Website](https://umair1221.github.io/World-Cache/)]
+* "From Part to Whole: 3D Generative World Model with an Adaptive Structural Hierarchy", **`ICME 2026`**. [[Paper](https://arxiv.org/abs/2603.21557)]
+* **EgoForge**: "EgoForge: Goal-Directed Egocentric World Simulator", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.20169)]
 * "Structured Latent Dynamics in Wireless CSI via Homomorphic World Models", **`IEEE ICC`**. [[Paper](https://arxiv.org/abs/2603.20048)]
 * **WorldAgents**: "WorldAgents: Can Foundation Image Models be Agents for 3D World Models?", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.19708)] [[Website]( https://ziyaerkoc.com/worldagents/)] 
 * **R2-Dreamer**: "R2-Dreamer: Redundancy-Reduced World Models without Decoders or Augmentation", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2603.18202)] [[Code]( https://github.com/NM512/r2dreamer)] 
@@ -479,6 +484,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **ThinkJEPA**: "ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22281)]
+* "Do World Action Models Generalize Better than VLAs? A Robustness Study", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22078)]
 * **DDP**: "Dreaming the Unseen: World Model-regularized Diffusion Policy for Out-of-Distribution Robustness", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.21017)]
 * **OmniVTA**: "OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.19201)] [[Website](https://mrsecant.github.io/OmniVTA)]
 * **EVA**: "EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17808)] [[Website](https://eva-project-page.github.io/)]
@@ -679,6 +686,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Visual Understanding
+* **DILLO**: "Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.23149)] 
 * **WorldVLM**: "WorldVLM: Combining World Model Forecasting and Vision-Language Reasoning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.14497)] 
 * "When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning", **`arxiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.08236)] [[Website](https://adaptive-visual-tts.github.io/)] 
 * "Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models", **`arxiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.19834)] [[Website](https://thuml.github.io/Reasoning-Visual-World)] 
