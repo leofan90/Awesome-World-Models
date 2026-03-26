@@ -147,6 +147,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **AI-Supervisor**: "AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.24402)]
 * **WildWorld**: "WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.23497)] [[Website](https://shandaai.github.io/wildworld-project/)] [[Code](https://github.com/ShandaAI/WildWorld)]
 * "Model Predictive Control with Differentiable World Models for Offline Reinforcement Learning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22430)]
 * **WorldCache**: "WorldCache: Content-Aware Caching for Accelerated Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22286)] [[Website](https://umair1221.github.io/World-Cache/)]
@@ -698,6 +699,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **DreamerAD**: "DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.24587)] 
+* **Latent-WAM**: "Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.24581)] 
+* "Toward Physically Consistent Driving Video World Models under Challenging Trajectories", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.24506)] [[Website](https://wm-research.github.io/PhyGenesis/)]
 * **CounterScene**: "CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.21104)]
 * **X-World**: "X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.19979)]
 * **DynFlowDrive**: "DynFlowDrive: Flow-Based Dynamic World Modeling for Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.19675)] [[Code](https://github.com/xiaolul2/DynFlowDrive)]
