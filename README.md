@@ -147,6 +147,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25716)]
+* **Lingshu-Cell**: "Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25240)]
 * **AI-Supervisor**: "AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.24402)]
 * **WildWorld**: "WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.23497)] [[Website](https://shandaai.github.io/wildworld-project/)] [[Code](https://github.com/ShandaAI/WildWorld)]
 * "Model Predictive Control with Differentiable World Models for Offline Reinforcement Learning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22430)]
@@ -485,6 +487,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25685)]
 * **ThinkJEPA**: "ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22281)]
 * "Do World Action Models Generalize Better than VLAs? A Robustness Study", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22078)]
 * **DDP**: "Dreaming the Unseen: World Model-regularized Diffusion Policy for Out-of-Distribution Robustness", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.21017)]
