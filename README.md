@@ -59,7 +59,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`1X Technologies`**, 1X World Model. [[Blog](https://www.1x.tech/discover/1x-world-model)]
 * **`Runway`**, Introducing General World Models. [[Blog](https://runwayml.com/research/introducing-general-world-models)]
 * **`Wayve`**, Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy. [[Paper](https://arxiv.org/pdf/2309.17080)] [[Blog](https://wayve.ai/thinking/introducing-gaia1/)] 
-* **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]]
+* **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
 * "From Digital Twins to World Models:Opportunities, Challenges, and Applications for Mobile Edge General Intelligence" **`arXiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17420)]
