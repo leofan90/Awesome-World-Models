@@ -61,7 +61,6 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Wayve`**, Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy. [[Paper](https://arxiv.org/pdf/2309.17080)] [[Blog](https://wayve.ai/thinking/introducing-gaia1/)] 
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]]
 
-
 ## Surveys
 * "From Digital Twins to World Models:Opportunities, Challenges, and Applications for Mobile Edge General Intelligence" **`arXiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17420)]
 * "The Trinity of Consistency as a Defining Principle for General World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.23152)] [[Code]( https://github.com/openraiser/awesome-world-model-evolution)]
@@ -276,7 +275,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **Captain Safari**: "Captain Safari: A World Engine", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.22815)] [[Website](https://johnson111788.github.io/open-safari/)]
 * **WorldWander**: "WorldWander: Bridging Egocentric and Exocentric Worlds in Video Generation", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.22098)] [[Code](https://github.com/showlab/WorldWander)]
 * **Inferix**: "Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.20714)] [[Code](https://github.com/alibaba-damo-academy/Inferix)]
-* **MagicWorld**, MagicWorld: Towards Long-Horizon Stability for Interactive Video World Exploration. [[Paper](https://arxiv.org/html/2511.18886v2)][[Website](https://vivocameraresearch.github.io/magicworld/)]
+* **MagicWorld**, MagicWorld: Towards Long-Horizon Stability for Interactive Video World Exploration. [[Paper](https://arxiv.org/html/2511.18886v2)][[Website](https://vivocameraresearch.github.io/magicworld/)] [[Code](https://github.com/vivoCameraResearch/Magic-World)]
 * "Counterfactual World Models via Digital Twin-conditioned Video Diffusion", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.17481)] 
 * **WorldGen**: "WorldGen: From Text to Traversable and Interactive 3D Worlds", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.16825)] [[Website](https://www.meta.com/blog./worldgen-3d-world-generation-reality-1abs-generative-ai-research/)]
 * **X-WIN**: "X-WIN: Building Chest Radiograph World Model via Predictive Sensing", **`arxiv 2025.11`**. [[Paper](https://arxiv.org/abs/2511.14918)]
