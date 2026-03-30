@@ -99,6 +99,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Benchmarks & Evaluation
+* "World Reasoning Arena", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25887)] [[Code](https://github.com/MBZUAI-IFM/WR-Arena)] 
 * **Omni-WorldBench**: "Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22212)] 
 * "Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.13215)] [[Website](https://glab-caltech.github.io/STEVOBench/)]
 * **MicroVerse**: "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2603.00585)] [[Code](https://github.com/FreedomIntelligence/MicroVerse)]
@@ -147,6 +148,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **VGGRPO**: "VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.26599)] [[Website](https://zhaochongan.github.io/projects/VGGRPO)]
+* **PiJEPA**: "Policy-Guided World Model Planning for Language-Conditioned Visual Navigation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25981)]
 * "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25716)]
 * **Lingshu-Cell**: "Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25240)]
 * **AI-Supervisor**: "AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.24402)]
