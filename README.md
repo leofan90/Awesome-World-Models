@@ -62,6 +62,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms" **`arXiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.28489)]
 * "From Digital Twins to World Models:Opportunities, Challenges, and Applications for Mobile Edge General Intelligence" **`arXiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17420)]
 * "The Trinity of Consistency as a Defining Principle for General World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.23152)] [[Code]( https://github.com/openraiser/awesome-world-model-evolution)]
 * "A Mechanistic View on Video Generation as World Models: State and Dynamics", **`arXiv 2026.01`**. [[Paper](https://arxiv.org/abs/2601.17067)] 
@@ -148,6 +149,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Learn2Fold**: "Learn2Fold: Structured Origami Generation with World Model Planning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29585)] 
+* **WorldFlow3D**: "WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29089)] [[Website](https://light.princeton.edu/worldflow3d)] 
+* **LOME**: "LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.27449)] 
 * **VGGRPO**: "VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.26599)] [[Website](https://zhaochongan.github.io/projects/VGGRPO)]
 * **PiJEPA**: "Policy-Guided World Model Planning for Language-Conditioned Visual Navigation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25981)]
 * "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25716)]
@@ -490,6 +494,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Enhancing Policy Learning with World-Action Model",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.28955)]
 * "Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25685)]
 * **ThinkJEPA**: "ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22281)]
 * "Do World Action Models Generalize Better than VLAs? A Robustness Study", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22078)]
@@ -660,6 +665,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* **DIAL**: "DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29844)] [[Website](https://xpeng-robotics.github.io/dial)]
 * "Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.20607)]
 * "Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.18532)]
 * **Fast-WAM**: "Fast-WAM: Do World Action Models Need Test-time Future Imagination?",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.16666)] [[Website](https://yuantianyuan01.github.io/FastWAM/)] 
@@ -705,6 +711,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **AutoWorld**: "AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.28963)] 
+* **OccSim**: "OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.28887)] 
+* **Uni-World VLA**: "Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.27287)] 
 * **DreamerAD**: "DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.24587)] 
 * **Latent-WAM**: "Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.24581)] 
 * "Toward Physically Consistent Driving Video World Models under Challenging Trajectories", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.24506)] [[Website](https://wm-research.github.io/PhyGenesis/)]
