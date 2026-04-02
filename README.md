@@ -494,6 +494,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **EgoSim**: "EgoSim: Egocentric World Simulator for Embodied Interaction Generation",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01001)] [[Website](http://egosimulator.github.io/)]
 * "Enhancing Policy Learning with World-Action Model",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.28955)]
 * "Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25685)]
 * **ThinkJEPA**: "ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.22281)]
@@ -711,6 +712,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **DLWM**: "DLWM: Dual Latent World Models enable Holistic Gaussian-centric Pre-training in Autonomous Driving", **`CVPR 2026**. [[Paper](https://arxiv.org/abs/2604.00969)] 
 * **AutoWorld**: "AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.28963)] 
 * **OccSim**: "OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.28887)] 
 * **Uni-World VLA**: "Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.27287)] 
