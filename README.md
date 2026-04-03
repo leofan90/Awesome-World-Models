@@ -494,6 +494,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01985)] [[Website](https://world-action-verifier.github.io)]
 * **EgoSim**: "EgoSim: Egocentric World Simulator for Embodied Interaction Generation",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01001)] [[Website](http://egosimulator.github.io/)]
 * "Enhancing Policy Learning with World-Action Model",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.28955)]
 * "Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25685)]
@@ -712,6 +713,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **DriveDreamer-Policy**: "DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning", **`arxiv 2026.04**. [[Paper](https://arxiv.org/abs/2604.01765)] [[Website](https://drivedreamer-policy.github.io/)] 
 * **DLWM**: "DLWM: Dual Latent World Models enable Holistic Gaussian-centric Pre-training in Autonomous Driving", **`CVPR 2026**. [[Paper](https://arxiv.org/abs/2604.00969)] 
 * **AutoWorld**: "AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.28963)] 
 * **OccSim**: "OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.28887)] 
