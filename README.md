@@ -150,6 +150,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **InCoder-32B-Thinking**: "InCoder-32B-Thinking: Industrial Code World Model for Thinking", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.03144)] 
 * **Learn2Fold**: "Learn2Fold: Structured Origami Generation with World Model Planning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29585)] 
 * **WorldFlow3D**: "WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29089)] [[Website](https://light.princeton.edu/worldflow3d)] 
 * **LOME**: "LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.27449)] 
@@ -495,7 +496,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
-* World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01985)] [[Website](https://world-action-verifier.github.io)]
+* "Hierarchical Planning with Latent World Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.03208)]
+* "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01985)] [[Website](https://world-action-verifier.github.io)]
 * **EgoSim**: "EgoSim: Egocentric World Simulator for Embodied Interaction Generation",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01001)] [[Website](http://egosimulator.github.io/)]
 * "Enhancing Policy Learning with World-Action Model",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.28955)]
 * "Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25685)]
