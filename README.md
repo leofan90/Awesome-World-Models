@@ -2,6 +2,7 @@
 
 This repository provides a curated list of **papers for World Models for General Video Generation, Embodied AI, and Autonomous Driving**. Template from [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) and [Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model)<br>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 multi-agent world model orchestration prompts for Claude Code. Task registry, quality gates, and automated delegation patterns. MIT licensed.
 #### Contributions are welcome! Please feel free to submit [pull requests](https://github.com/leofan90/Awesome-World-Models/blob/main/how-to-PR.md) or reach out via [email](mailto:chunkaifan-changetoat-stu-changetodot-pku--changetodot-changetoedu-changetocn) to add papers! <br>
 
 If you find this repository useful, please consider [citing](#citation) and giving this list a star ⭐. Feel free to share it with others!
