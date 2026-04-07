@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`OpenWorldLib`**, OpenWorldLib: A Unified Codebase and Definition of Advanced World Models. [[Paper](https://arxiv.org/abs/2604.04707)]
 * **`ABot-PhysWorld`**, ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment. [[Paper](https://arxiv.org/abs/2603.23376)]
 * **`GigaWorld-Policy`**, GigaWorld-Policy: An Efficient Action-Centered World--Action Model. [[Paper](https://arxiv.org/abs/2603.17240)]
 * **`GigaBrain-0.5M*`**, GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning. [[Paper](https://arxiv.org/abs/2602.12099)] [[Website](https://gigabrain05m.github.io/)] 
@@ -150,6 +151,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens", **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2604.04913)] [[Code](https://deltatok.github.io)] 
 * **InCoder-32B-Thinking**: "InCoder-32B-Thinking: Industrial Code World Model for Thinking", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.03144)] 
 * **Learn2Fold**: "Learn2Fold: Structured Origami Generation with World Model Planning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29585)] 
 * **WorldFlow3D**: "WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29089)] [[Website](https://light.princeton.edu/worldflow3d)] 
