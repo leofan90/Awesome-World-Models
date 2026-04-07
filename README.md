@@ -151,7 +151,6 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
-* "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens", **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2604.04913)] [[Code](https://deltatok.github.io)] 
 * **InCoder-32B-Thinking**: "InCoder-32B-Thinking: Industrial Code World Model for Thinking", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.03144)] 
 * **Learn2Fold**: "Learn2Fold: Structured Origami Generation with World Model Planning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29585)] 
 * **WorldFlow3D**: "WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29089)] [[Website](https://light.princeton.edu/worldflow3d)] 
@@ -718,6 +717,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **DeltaWorld**: "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens", **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2604.04913)] [[Code](https://deltatok.github.io)] 
 * **DriveDreamer-Policy**: "DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning", **`arxiv 2026.04**. [[Paper](https://arxiv.org/abs/2604.01765)] [[Website](https://drivedreamer-policy.github.io/)] 
 * **DLWM**: "DLWM: Dual Latent World Models enable Holistic Gaussian-centric Pre-training in Autonomous Driving", **`CVPR 2026**. [[Paper](https://arxiv.org/abs/2604.00969)] 
 * **AutoWorld**: "AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models", **`arxiv 2026.03**. [[Paper](https://arxiv.org/abs/2603.28963)] 
