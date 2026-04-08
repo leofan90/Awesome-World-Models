@@ -497,6 +497,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **JailWAM**: "JailWAM: Jailbreaking World Action Models in Robot Control",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.05498)]
 * "Hierarchical Planning with Latent World Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.03208)]
 * "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01985)] [[Website](https://world-action-verifier.github.io)]
 * **EgoSim**: "EgoSim: Egocentric World Simulator for Embodied Interaction Generation",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01001)] [[Website](http://egosimulator.github.io/)]
