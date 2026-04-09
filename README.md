@@ -151,6 +151,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **INSPATIO-WORLD**: "INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07209)] 
+* **Telecom World Models**: "Telecom World Models: Unifying Digital Twins, Foundation Models, and Predictive Planning for 6G", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.06882)] 
 * **InCoder-32B-Thinking**: "InCoder-32B-Thinking: Industrial Code World Model for Thinking", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.03144)] 
 * **Learn2Fold**: "Learn2Fold: Structured Origami Generation with World Model Planning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29585)] 
 * **WorldFlow3D**: "WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29089)] [[Website](https://light.princeton.edu/worldflow3d)] 
