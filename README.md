@@ -29,7 +29,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
-* **`HY-Embodied-0.5`**, HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents. [[Paper](https://arxiv.org/abs/2604.07430)] [[Website](hhttps://github.com/Tencent-Hunyuan/HY-Embodied)]
+* **`Matrix-Game 3.0`**, Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory. [[Paper](https://arxiv.org/abs/2604.08995)] [[Website](https://matrix-game-v3.github.io/)]
+* **`HY-Embodied-0.5`**, HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents. [[Paper](https://arxiv.org/abs/2604.07430)] [[Website](https://github.com/Tencent-Hunyuan/HY-Embodied)]
 * **`OpenWorldLib`**, OpenWorldLib: A Unified Codebase and Definition of Advanced World Models. [[Paper](https://arxiv.org/abs/2604.04707)]
 * **`ABot-PhysWorld`**, ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment. [[Paper](https://arxiv.org/abs/2603.23376)]
 * **`GigaWorld-Policy`**, GigaWorld-Policy: An Efficient Action-Centered World--Action Model. [[Paper](https://arxiv.org/abs/2603.17240)]
@@ -504,6 +505,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Toward Hardware-Agnostic Quadrupedal World Models via Morphology Conditioning",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.08780)]
 * **JailWAM**: "JailWAM: Jailbreaking World Action Models in Robot Control",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.05498)]
 * "Hierarchical Planning with Latent World Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.03208)]
 * "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01985)] [[Website](https://world-action-verifier.github.io)]
@@ -725,6 +727,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Learning Vision-Language-Action World Models for Autonomous Driving", **`CVPR 2026 Findings`**. [[Paper](https://arxiv.org/abs/2604.09059)] 
+* **LMGenDrive**: "LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.08719)] 
 * "Beyond Static Forecasting: Unleashing the Power of World Models for Mobile Traffic Extrapolation", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.08199)] 
 * **DeltaWorld**: "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens", **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2604.04913)] [[Code](https://deltatok.github.io)] 
 * **DriveDreamer-Policy**: "DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01765)] [[Website](https://drivedreamer-policy.github.io/)] 
