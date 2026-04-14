@@ -155,6 +155,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Zero-shot World Models Are Developmentally Efficient Learners", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.10333)] 
 * **WorldMAP**: "WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07957)] 
 * "CausalVAE as a Plug-in for World Models: Towards Reliable Counterfactual Dynamics", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07712)] 
 * **INSPATIO-WORLD**: "INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07209)] 
