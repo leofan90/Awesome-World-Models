@@ -155,6 +155,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Do LLMs Build Spatial World Models? Evidence from Grid-World Maze Tasks", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.10690)] 
 * "Zero-shot World Models Are Developmentally Efficient Learners", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.10333)] 
 * **WorldMAP**: "WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07957)] 
 * "CausalVAE as a Plug-in for World Models: Towards Reliable Counterfactual Dynamics", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07712)] 
@@ -506,6 +507,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Grounded World Model for Semantically Generalizable Planning",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.11751)]
+* **WM-DAgger**: "WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.11351)]
+* **AIM**: "AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.11135)]
 * "Toward Hardware-Agnostic Quadrupedal World Models via Morphology Conditioning",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.08780)]
 * **JailWAM**: "JailWAM: Jailbreaking World Action Models in Robot Control",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.05498)]
 * "Hierarchical Planning with Latent World Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.03208)]
