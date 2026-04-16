@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Seedance 2.0`**, Seedance 2.0: Advancing Video Generation for World Complexity. [[Paper](https://arxiv.org/abs/2604.14148)] [[Website](https://www.volcengine.com/experience/ark?mode=vision&modelId=doubao-seedance-2-0-260128&tab=GenVideo)]
 * **`Matrix-Game 3.0`**, Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory. [[Paper](https://arxiv.org/abs/2604.08995)] [[Website](https://matrix-game-v3.github.io/)]
 * **`HY-Embodied-0.5`**, HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents. [[Paper](https://arxiv.org/abs/2604.07430)] [[Website](https://github.com/Tencent-Hunyuan/HY-Embodied)]
 * **`OpenWorldLib`**, OpenWorldLib: A Unified Codebase and Definition of Advanced World Models. [[Paper](https://arxiv.org/abs/2604.04707)]
