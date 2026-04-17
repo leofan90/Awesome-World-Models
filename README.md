@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`HY-World 2.0`**, HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D World. [[Paper](https://arxiv.org/abs/2604.14268)] [[Website](https://3d-models.hunyuan.tencent.com/world/)] [[Code](https://github.com/Tencent-Hunyuan/HY-World-2.0)]
 * **`Seedance 2.0`**, Seedance 2.0: Advancing Video Generation for World Complexity. [[Paper](https://arxiv.org/abs/2604.14148)] [[Website](https://www.volcengine.com/experience/ark?mode=vision&modelId=doubao-seedance-2-0-260128&tab=GenVideo)]
 * **`Matrix-Game 3.0`**, Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory. [[Paper](https://arxiv.org/abs/2604.08995)] [[Website](https://matrix-game-v3.github.io/)]
 * **`HY-Embodied-0.5`**, HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents. [[Paper](https://arxiv.org/abs/2604.07430)] [[Website](https://github.com/Tencent-Hunyuan/HY-Embodied)]
@@ -156,6 +157,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Learning Ad Hoc Network Dynamics via Graph-Structured World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.14811)] 
 * "Do LLMs Build Spatial World Models? Evidence from Grid-World Maze Tasks", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.10690)] 
 * "Zero-shot World Models Are Developmentally Efficient Learners", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.10333)] 
 * **WorldMAP**: "WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07957)] 
@@ -508,6 +510,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **World-Value-Action Model**: "World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.14732)]
 * "Grounded World Model for Semantically Generalizable Planning",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.11751)]
 * **WM-DAgger**: "WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.11351)]
 * **AIM**: "AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.11135)]
