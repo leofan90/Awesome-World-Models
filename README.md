@@ -67,6 +67,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Infrastructure-Centric World Models: Bridging Temporal Depth and Spatial Breadth for Roadside Perception" **`arXiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.17651)]
+* "Human Cognition in Machines: A Unified Perspective of World Models" **`arXiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16592)]
 * "Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms" **`arXiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.28489)]
 * "From Digital Twins to World Models:Opportunities, Challenges, and Applications for Mobile Edge General Intelligence" **`arXiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.17420)]
 * "The Trinity of Consistency as a Defining Principle for General World Models" **`arXiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.23152)] [[Code]( https://github.com/openraiser/awesome-world-model-evolution)]
@@ -510,6 +512,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **SafeDream**: "SafeDream: Safety World Model for Proactive Early Jailbreak Detection",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16824)]
+* **DexWorldModel**: "DexWorldModel: Causal Latent World Modeling towards Automated Learning of Embodied Tasks",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16484)]
+* **ICAT**: "ICAT: Incident-Case-Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16405)]
 * **World-Value-Action Model**: "World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.14732)]
 * "Grounded World Model for Semantically Generalizable Planning",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.11751)]
 * **WM-DAgger**: "WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.11351)]
@@ -736,6 +741,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* "Active World-Model with 4D-informed Retrieval for Exploration and Awareness
+", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16733)] 
 * "Learning Vision-Language-Action World Models for Autonomous Driving", **`CVPR 2026 Findings`**. [[Paper](https://arxiv.org/abs/2604.09059)] 
 * **LMGenDrive**: "LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.08719)] 
 * "Beyond Static Forecasting: Unleashing the Power of World Models for Mobile Traffic Extrapolation", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.08199)] 
