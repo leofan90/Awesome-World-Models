@@ -107,6 +107,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **RoboWM-Bench**: "RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.19092)] [[Code](https://robowm-bench.github.io/RoboWM-Bench/)] 
 * **MotionScape**: "MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07991)] [[Code](https://github.com/Thelegendzz/MotionScape)] 
 * **EgoVerse**: "EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07607)] [[Website](https://egoverse.ai/)] 
 * "World Reasoning Arena", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.25887)] [[Code](https://github.com/MBZUAI-IFM/WR-Arena)] 
@@ -159,6 +160,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **MultiWorld**: "MultiWorld: Scalable Multi-Agent Multi-View Video World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.18564)] [[Website](https://multi-world.github.io/)] 
 * "Learning Ad Hoc Network Dynamics via Graph-Structured World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.14811)] 
 * "Do LLMs Build Spatial World Models? Evidence from Grid-World Maze Tasks", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.10690)] 
 * "Zero-shot World Models Are Developmentally Efficient Learners", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.10333)] 
@@ -512,6 +514,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **UniT**: "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.19734)] [[Website](https://xpeng-robotics.github.io/unit/)]
+* **Mask World Model**: "Mask World Model: Predicting What Matters for Robust Robot Policy Learning",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.19683)]
 * **SafeDream**: "SafeDream: Safety World Model for Proactive Early Jailbreak Detection",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16824)]
 * **DexWorldModel**: "DexWorldModel: Causal Latent World Modeling towards Automated Learning of Embodied Tasks",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16484)]
 * **ICAT**: "ICAT: Incident-Case-Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16405)]
