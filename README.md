@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Cortex 2.0`**, Cortex 2.0: Grounding World Models in Real-World Industrial Deployment. [[Paper](https://arxiv.org/abs/2604.20246)]
 * **`HY-World 2.0`**, HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D World. [[Paper](https://arxiv.org/abs/2604.14268)] [[Website](https://3d-models.hunyuan.tencent.com/world/)] [[Code](https://github.com/Tencent-Hunyuan/HY-World-2.0)]
 * **`Seedance 2.0`**, Seedance 2.0: Advancing Video Generation for World Complexity. [[Paper](https://arxiv.org/abs/2604.14148)] [[Website](https://www.volcengine.com/experience/ark?mode=vision&modelId=doubao-seedance-2-0-260128&tab=GenVideo)]
 * **`Matrix-Game 3.0`**, Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory. [[Paper](https://arxiv.org/abs/2604.08995)] [[Website](https://matrix-game-v3.github.io/)]
@@ -745,8 +746,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
-* "Active World-Model with 4D-informed Retrieval for Exploration and Awareness
-", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16733)] 
+* **X-Cache**: "X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.20289)] 
+* "Active World-Model with 4D-informed Retrieval for Exploration and Awareness", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16733)] 
 * "Learning Vision-Language-Action World Models for Autonomous Driving", **`CVPR 2026 Findings`**. [[Paper](https://arxiv.org/abs/2604.09059)] 
 * **LMGenDrive**: "LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.08719)] 
 * "Beyond Static Forecasting: Unleashing the Power of World Models for Mobile Traffic Extrapolation", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.08199)] 
