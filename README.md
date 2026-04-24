@@ -108,6 +108,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **WorldMark**: "WorldMark: A Unified Benchmark Suite for Interactive Video World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.21686)]
 * **RoboWM-Bench**: "RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.19092)] [[Code](https://robowm-bench.github.io/RoboWM-Bench/)] 
 * **MotionScape**: "MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07991)] [[Code](https://github.com/Thelegendzz/MotionScape)] 
 * **EgoVerse**: "EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.07607)] [[Website](https://egoverse.ai/)] 
@@ -515,6 +516,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **Hi-WM**: "Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.21741)] [[Website](https://hi-wm.github.io/)]
 * **UniT**: "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.19734)] [[Website](https://xpeng-robotics.github.io/unit/)]
 * **Mask World Model**: "Mask World Model: Predicting What Matters for Robust Robot Policy Learning",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.19683)]
 * **SafeDream**: "SafeDream: Safety World Model for Proactive Early Jailbreak Detection",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16824)]
