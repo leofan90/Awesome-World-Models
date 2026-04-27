@@ -68,6 +68,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond" **`arXiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.22748)]
 * "Infrastructure-Centric World Models: Bridging Temporal Depth and Spatial Breadth for Roadside Perception" **`arXiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.17651)]
 * "Human Cognition in Machines: A Unified Perspective of World Models" **`arXiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16592)]
 * "Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms" **`arXiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.28489)]
@@ -516,6 +517,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **dWorldEval**: "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.22152)] 
 * **Hi-WM**: "Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.21741)] [[Website](https://hi-wm.github.io/)]
 * **UniT**: "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.19734)] [[Website](https://xpeng-robotics.github.io/unit/)]
 * **Mask World Model**: "Mask World Model: Predicting What Matters for Robust Robot Policy Learning",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.19683)]
