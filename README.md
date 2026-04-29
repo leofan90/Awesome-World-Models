@@ -517,6 +517,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Privileged Foresight Distillation: Zero-Cost Future Correction for World Action Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.25859)] 
 * **dWorldEval**: "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.22152)] 
 * **Hi-WM**: "Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.21741)] [[Website](https://hi-wm.github.io/)]
 * **UniT**: "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.19734)] [[Website](https://xpeng-robotics.github.io/unit/)]
