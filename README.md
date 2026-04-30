@@ -517,6 +517,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **STARRY**: "STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.26848)] 
+* "Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.26694)] [[Website](https://sharinka0715.github.io/X-WAM/)] 
+* "Lifting Embodied World Models for Planning and Control",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.26182)] 
 * "Privileged Foresight Distillation: Zero-Cost Future Correction for World Action Models",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.25859)] 
 * **dWorldEval**: "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.22152)] 
 * **Hi-WM**: "Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training",  **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.21741)] [[Website](https://hi-wm.github.io/)]
@@ -739,6 +742,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Visual Understanding
+* **World2VLM**: "World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2604.26934)] [[Website](https://huggingface.co/datasets/WanyueZhang/World2VLM)] [[Code](https://github.com/WanyueZhang-ai/World2VLM)] 
 * **DILLO**: "Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.23149)] 
 * **WorldVLM**: "WorldVLM: Combining World Model Forecasting and Vision-Language Reasoning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.14497)] 
 * "When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning", **`arxiv 2026.01`**. [[Paper](https://arxiv.org/abs/2602.08236)] [[Website](https://adaptive-visual-tts.github.io/)] 
