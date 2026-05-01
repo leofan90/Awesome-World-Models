@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`MotuBrain`**, MotuBrain: An Advanced World Action Model for Robot Control. [[Paper](https://arxiv.org/abs/2604.27792)]
 * **`Cortex 2.0`**, Cortex 2.0: Grounding World Models in Real-World Industrial Deployment. [[Paper](https://arxiv.org/abs/2604.20246)]
 * **`HY-World 2.0`**, HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D World. [[Paper](https://arxiv.org/abs/2604.14268)] [[Website](https://3d-models.hunyuan.tencent.com/world/)] [[Code](https://github.com/Tencent-Hunyuan/HY-World-2.0)]
 * **`Seedance 2.0`**, Seedance 2.0: Advancing Video Generation for World Complexity. [[Paper](https://arxiv.org/abs/2604.14148)] [[Website](https://www.volcengine.com/experience/ark?mode=vision&modelId=doubao-seedance-2-0-260128&tab=GenVideo)]
@@ -68,6 +69,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling" **`arXiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.28185)] [[Code](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation)]
 * "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond" **`arXiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.22748)]
 * "Infrastructure-Centric World Models: Bridging Temporal Depth and Spatial Breadth for Roadside Perception" **`arXiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.17651)]
 * "Human Cognition in Machines: A Unified Perspective of World Models" **`arXiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16592)]
@@ -163,6 +165,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **GWMs**: "Graph World Models: Concepts, Taxonomy, and Future Directions", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.27895)]
 * **MultiWorld**: "MultiWorld: Scalable Multi-Agent Multi-View Video World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.18564)] [[Website](https://multi-world.github.io/)] 
 * "Learning Ad Hoc Network Dynamics via Graph-Structured World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.14811)] 
 * "Do LLMs Build Spatial World Models? Evidence from Grid-World Maze Tasks", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.10690)] 
@@ -755,6 +758,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **HERMES++**: "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.28196)] [[Website](https://h-embodvis.github.io/HERMESV2/)] [[Code](https://github.com/H-EmbodVis/HERMESV2)] 
 * **X-Cache**: "X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.20289)] 
 * "Active World-Model with 4D-informed Retrieval for Exploration and Awareness", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16733)] 
 * "Learning Vision-Language-Action World Models for Autonomous Driving", **`CVPR 2026 Findings`**. [[Paper](https://arxiv.org/abs/2604.09059)] 
