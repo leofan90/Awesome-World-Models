@@ -32,6 +32,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`MotuBrain`**, MotuBrain: An Advanced World Action Model for Robot Control. [[Paper](https://arxiv.org/abs/2604.27792)]
 * **`Cortex 2.0`**, Cortex 2.0: Grounding World Models in Real-World Industrial Deployment. [[Paper](https://arxiv.org/abs/2604.20246)]
 * **`HY-World 2.0`**, HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D World. [[Paper](https://arxiv.org/abs/2604.14268)] [[Website](https://3d-models.hunyuan.tencent.com/world/)] [[Code](https://github.com/Tencent-Hunyuan/HY-World-2.0)]
+* **`Helios`**, Real Real-Time Long Video Generation Model. [[Paper](https://arxiv.org/abs/2603.04379)] [[Website](https://pku-yuangroup.github.io/Helios-Page/)] [[Code](https://github.com/PKU-YuanGroup/Helios)]
 * **`Seedance 2.0`**, Seedance 2.0: Advancing Video Generation for World Complexity. [[Paper](https://arxiv.org/abs/2604.14148)] [[Website](https://www.volcengine.com/experience/ark?mode=vision&modelId=doubao-seedance-2-0-260128&tab=GenVideo)]
 * **`Matrix-Game 3.0`**, Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory. [[Paper](https://arxiv.org/abs/2604.08995)] [[Website](https://matrix-game-v3.github.io/)]
 * **`HY-Embodied-0.5`**, HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents. [[Paper](https://arxiv.org/abs/2604.07430)] [[Website](https://github.com/Tencent-Hunyuan/HY-Embodied)]
