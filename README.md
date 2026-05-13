@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`Coowa`**, The DAWN of World-Action Interactive Models. [[Paper](https://arxiv.org/abs/2605.11550)]
 * **`Being-H0.7`**, Being-H0.7: A Latent World-Action Model from Egocentric Videos. [[Paper](https://arxiv.org/abs/2605.00078)]
 * **`MotuBrain`**, MotuBrain: An Advanced World Action Model for Robot Control. [[Paper](https://arxiv.org/abs/2604.27792)]
 * **`Cortex 2.0`**, Cortex 2.0: Grounding World Models in Real-World Industrial Deployment. [[Paper](https://arxiv.org/abs/2604.20246)]
@@ -71,6 +72,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Surveys
+* "World Action Models: The Next Frontier in Embodied AI" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.12090)] 
 * "Latent State Design for World Models under Sufficiency Constraints" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.01694)] 
 * "World Model for Robot Learning: A Comprehensive Survey" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.00080)] [[Website](https://ntumars.github.io/wm-robot-survey/)] [[Code](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)]
 * "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling" **`arXiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.28185)] [[Code](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation)]
@@ -115,6 +117,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* "Is Your Driving World Model an All-Around Player?", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.10858)] [[Website](https://worldbench.github.io/worldlens)] [[Code](https://github.com/worldbench/WorldLens)]
+* **PhyGround**: "PhyGround: Benchmarking Physical Reasoning in Generative World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.10806)] [[Website](https://phyground.github.io/)]
 * **iWorld-Bench**: "iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework", **`ICML 2026`**. [[Paper](https://arxiv.org/abs/2605.03941)]
 * **WorldMark**: "WorldMark: A Unified Benchmark Suite for Interactive Video World Models", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.21686)]
 * **RoboWM-Bench**: "RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.19092)] [[Code](https://robowm-bench.github.io/RoboWM-Bench/)] 
@@ -170,6 +174,14 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **3D-Belief**: "3D-Belief: Embodied Belief Inference via Generative 3D World Modeling", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.11367)] 
+* "How Mobile World Model Guides GUI Agents?", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.10347)] 
+* **Sub-JEPA**: "Sub-JEPA: Subspace Gaussian Regularization for Stable End-to-End World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.09241)] [[Code](https://github.com/intcomp/Sub-JEPA)]
+* **MCP-Cosmos**: "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.09131)]
+* **MolWorld**: "MolWorld: Molecule World Models for Actionable Molecular Optimization", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.08954)]
+* **LaWM**: "LaWM: Least Action World Models for Long-Horizon Physical Consistency from Visual Observations", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.08279)]
+* **ST-Gen4D**: "ST-Gen4D: Embedding 4D Spatiotemporal Cognition into World Model for 4D Generation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.07390)]
+* **AGWM**: "AGWM: Affordance-Grounded World Models for Environments with Compositional Prerequisites", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.06841)]
 * **Earth-o1**: "Earth-o1: A Grid-free Observation-native Atmospheric World Model", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.06337)]
 * "Render, Don't Decode: Weight-Space World Models with Latent Structural Disentanglement", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.06298)]
 * **HaM-World**: "HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.05951)] [[Code](https://github.com/HaoyunT/HaM_World)] 
@@ -531,6 +543,16 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **HarmoWAM**: "HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.10942)]
+* **DeformMaster**: "DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.09586)]
+* **GC-IDM**: "Latent Geometry Beyond Search: Amortizing Planning in World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.08732)]
+* **ACWM-Phys**: "ACWM-Phys: Investigating Generalized Physical Interaction in Action-Conditioned Video World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.08567)] [[Website](https://xavihart.github.io/ACWM-Phys)] [[Code](https://github.com/xavihart/ACWM-Phys-dev)]
+* "One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.07931)]
+* **NoiseGate**: "NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.07794)]
+* "Is the Future Compatible? Diagnosing Dynamic Consistency in World Action Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.07514)]
+* **Sword**: "Sword: Style-Robust World Models as Simulators via Dynamic Latent Bootstrapping for VLA Policy Post-Training", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.07288)]
+* "Predictive but Not Plannable: RC-aux for Latent World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.07278)] [[Website](https://github.com/Guang000/RC-aux)]
+* "Learning Visual Feature-Based World Models via Residual Latent Action", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.07079)] [[Website](https://mlzxy.github.io/rla-wm)]
 * **OA-WAM**: "OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.06481)] 
 * "Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.06388)] 
 * **CKT-WAM**: "CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.06247)] [[Code](https://github.com/YuhuaJiang2002/CKT-WAM)] 
@@ -730,6 +752,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* "Reinforcing VLAs in Task-Agnostic World Models",  **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.12334)] 
 * **DIAL**: "DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29844)] [[Website](https://xpeng-robotics.github.io/dial)]
 * "Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.20607)]
 * "Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.18532)]
@@ -777,7 +800,12 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
-* **Driver-WM**: "Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2605.05092)] 
+* **HorizonDrive**: "HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.11596)] 
+* **DeepSight**: "DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving", **`ICML 2026`**. [[Paper](https://arxiv.org/abs/2605.10564)] [[Code](https://github.com/hotdogcheesewhite/DeepSight)] 
+* **CoWorld-VLA**: "CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.10426)] [[Code](https://github.com/potatochip1211/CoWorld-VLA)] 
+* **DriveFuture**: "DriveFuture: Future-Aware Latent World Models for Autonomous Driving", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.09701)] [[Website](https://huggingface.co/spaces/AGC2024-P/e2e-driving-navtest)] 
+* **GEM**: "GEM: Generating LiDAR World Model via Deformable Mamba", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.07326)] [[Website](https://github.com/wuyang98/GEM)] 
+* **Driver-WM**: "Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.05092)] 
 * **HERMES++**: "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.28196)] [[Website](https://h-embodvis.github.io/HERMESV2/)] [[Code](https://github.com/H-EmbodVis/HERMESV2)] 
 * **X-Cache**: "X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.20289)] 
 * "Active World-Model with 4D-informed Retrieval for Exploration and Awareness", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.16733)] 
