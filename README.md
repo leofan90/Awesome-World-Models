@@ -174,6 +174,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Learning POMDP World Models from Observations with Language-Model Priors", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.13740)] [[Code](https://github.com/atomresearch/pinductor)] 
+* **PanoWorld**: "PanoWorld: Towards Spatial Supersensing in 360 Panorama World", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.13169)] 
+* **JEDI**: "JEDI: Joint Embedding Diffusion World Model for Online Model-Based Reinforcement Learning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.13013)] 
+* **GTA**: "GTA: Advancing Image-to-3D World Generation via Geometry Then Appearance Video Diffusion", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.12957)] 
 * **3D-Belief**: "3D-Belief: Embodied Belief Inference via Generative 3D World Modeling", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.11367)] 
 * "How Mobile World Model Guides GUI Agents?", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.10347)] 
 * **Sub-JEPA**: "Sub-JEPA: Subspace Gaussian Regularization for Stable End-to-End World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.09241)] [[Code](https://github.com/intcomp/Sub-JEPA)]
