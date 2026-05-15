@@ -117,6 +117,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* "Quantitative Video World Model Evaluation for Geometric-Consistency", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15185)] [[Website](https://pdi-bench.github.io/)]
 * "Is Your Driving World Model an All-Around Player?", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.10858)] [[Website](https://worldbench.github.io/worldlens)] [[Code](https://github.com/worldbench/WorldLens)]
 * **PhyGround**: "PhyGround: Benchmarking Physical Reasoning in Generative World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.10806)] [[Website](https://phyground.github.io/)]
 * **iWorld-Bench**: "iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework", **`ICML 2026`**. [[Paper](https://arxiv.org/abs/2605.03941)]
@@ -174,6 +175,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **SANA-WM**: "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15178)] [[Website](https://nvlabs.github.io/Sana/WM/)] 
+* "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.14723)] 
+* "Coding Agent Is Good As World Simulator", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.14398)] 
 * "Learning POMDP World Models from Observations with Language-Model Priors", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.13740)] [[Code](https://github.com/atomresearch/pinductor)] 
 * **PanoWorld**: "PanoWorld: Towards Spatial Supersensing in 360 Panorama World", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.13169)] 
 * **JEDI**: "JEDI: Joint Embedding Diffusion World Model for Online Model-Based Reinforcement Learning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.13013)] 
@@ -804,6 +808,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **EponaV2**: "EponaV2: Driving World Model with Comprehensive Future Reasoning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.14696)] 
 * **HorizonDrive**: "HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.11596)] 
 * **DeepSight**: "DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving", **`ICML 2026`**. [[Paper](https://arxiv.org/abs/2605.10564)] [[Code](https://github.com/hotdogcheesewhite/DeepSight)] 
 * **CoWorld-VLA**: "CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.10426)] [[Code](https://github.com/potatochip1211/CoWorld-VLA)] 
