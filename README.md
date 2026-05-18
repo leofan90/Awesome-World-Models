@@ -175,6 +175,16 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **WorldVLN**: "WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15964)] [[Website](https://embodiedcity.github.io/WorldVLN/)]
+* "Imperfect World Models are Exploitable", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15960)]
+* "Structure Abstraction and Generalization in a Hippocampal-Entorhinal Inspired World Model", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15733)] [[Website](https://hpc-mec-worldmodel.github.io/)]
+* **DiLA**: "DiLA: Disentangled Latent Action World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15725)] [[Website](http://disentangled-latent-action-world-models.github.io)]
+* "Latent Video Prediction Learns Better World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15618)]
+* **EgoExo-WM**: "EgoExo-WM: Unlocking Exo Video for Ego World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15477)]
+* "Entity-Centric World Models: Interaction-Aware Masking for Causal Video Prediction", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15466)]
+* "Toward World Modeling of Physiological Signals with Chaos-Theoretic Balancing and Latent Dynamics", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15465)] [[Website](https://huggingface.co/collections/mosaic-laboratory/normwear)] 
+* **PanoWorld**: "PanoWorld: Geometry-Consistent Panoramic Video World Modeling", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15391)] [[Code](https://github.com/ostadabbas/PanoWorld)] 
+* **ReactiveGWM**: "ReactiveGWM: Steering NPC in Reactive Game World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15256)] [[Website](https://inv-wzq.github.io/ReactiveGWM/)] 
 * **SANA-WM**: "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15178)] [[Website](https://nvlabs.github.io/Sana/WM/)] 
 * "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.14723)] 
 * "Coding Agent Is Good As World Simulator", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.14398)] 
@@ -551,6 +561,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Learning Bilevel Policies over Symbolic World Models for Long-Horizon Planning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15975)] [[Website](https://dillonzchen.github.io/bison)]
+* "Feedback World Model Enables Precise Guidance of Diffusion Policy", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15705)]
 * **HarmoWAM**: "HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.10942)]
 * **DeformMaster**: "DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.09586)]
 * **GC-IDM**: "Latent Geometry Beyond Search: Amortizing Planning in World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.08732)]
