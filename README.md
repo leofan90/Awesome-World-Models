@@ -118,6 +118,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **HalluWorld**: "HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19341)] [[Website](https://github.com/DegenAI-Labs/HalluWorld)]
 * **WorldArena 2.0**: "WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.17912)] [[Website](https://world-arena.ai)]
 * **DeTrack**: "DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.17451)]
 * "Quantitative Video World Model Evaluation for Geometric-Consistency", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15185)] [[Website](https://pdi-bench.github.io/)]
@@ -178,6 +179,15 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "World-Ego Modeling for Long-Horizon Evolution in Hybrid Embodied Tasks", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19957)]
+* **AffectVerse**: "AffectVerse: Emotional World Models for Multimodal Affective Computing", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19950)]
+* **FlyMirage**: "FlyMirage: A Fully Automated Generation Pipeline for Diverse and Scalable UAV Flight Data via Generative World Model", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19600)]
+* **PhyWorld**: "PhyWorld: Physics-Faithful World Model for Video Generation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19242)]
+* "Transformers Linearly Represent Highly Structured World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.18847)]
+* "Composition of Memory Experts for Diffusion World Models", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2605.18813)]
+* **PROWL**: "PROWL: Prioritized Regret-Driven Optimization for World Model Learning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.18803)]
+* **Incantation**: "Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.18601)]
+* **PH-Dreamer**: "PH-Dreamer: A Physics-Driven World Model via Port-Hamiltonian Generative Dynamics", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.18303)]
 * **PanoWorld**: "PanoWorld: A Generative Spatial World Model for Consistent Whole-House Panorama Synthesis", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.17916)] [[Website](https://jjrcn.github.io/PanoWorld-project-home/)] 
 * **ECG-WM**: "ECG-WM: A Physiology-Informed ECG World Model for Clinical Intervention Simulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.17580)] 
 * "Self-supervised Hierarchical Visual Reasoning with World Model", **`ICML 2026`**. [[Paper](https://arxiv.org/abs/2605.17537)] [[Website](https://github.com/XuYuanFei01/ResDreamer)]
@@ -573,6 +583,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **GaussianDream**: "GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.20752)]
+* **SWEET**: "SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19319)]
 * **RoboFlow4D**: "RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation", **`ICML 2026`**. [[Paper](https://arxiv.org/abs/2605.17522)]
 * **OrbiSim**: "OrbiSim: World Models as Differentiable Physics Engines for Embodied Intelligence", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.16395)] [[Website](https://jjleejj85.github.io/projects/orbisim)]
 * "Learning Bilevel Policies over Symbolic World Models for Long-Horizon Planning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.15975)] [[Website](https://dillonzchen.github.io/bison)]
@@ -835,6 +847,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **HEAT**: "HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19631)] 
 * **EponaV2**: "EponaV2: Driving World Model with Comprehensive Future Reasoning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.14696)] 
 * **HorizonDrive**: "HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.11596)] 
 * **DeepSight**: "DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving", **`ICML 2026`**. [[Paper](https://arxiv.org/abs/2605.10564)] [[Code](https://github.com/hotdogcheesewhite/DeepSight)] 
