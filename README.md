@@ -118,6 +118,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **stable-worldmodel**: "stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.21800)] 
 * **HalluWorld**: "HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19341)] [[Website](https://github.com/DegenAI-Labs/HalluWorld)]
 * **WorldArena 2.0**: "WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.17912)] [[Website](https://world-arena.ai)]
 * **DeTrack**: "DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.17451)]
@@ -179,6 +180,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **WorldKV**: "WorldKV: Efficient World Memory with World Retrieval and Compression", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.22718)] [[Website](https://arxiv.org/abs/2605.22718)]
+* "Beyond Euclidean Proximity: Repairing Latent World Models with Horizon-Matched Trajectory Reachability Metrics", **`arxiv 2026.05`**. [[Paper](https://cvlab-kaist.github.io/WorldKV/)]
+* **ChronoMedicalWorld**: "ChronoMedicalWorld: A Medical World Model for Learning Patient Trajectories from Longitudinal Care Data", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.21963)]
 * "World-Ego Modeling for Long-Horizon Evolution in Hybrid Embodied Tasks", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19957)]
 * **AffectVerse**: "AffectVerse: Emotional World Models for Multimodal Affective Computing", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19950)]
 * **FlyMirage**: "FlyMirage: A Fully Automated Generation Pipeline for Diverse and Scalable UAV Flight Data via Generative World Model", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19600)]
@@ -798,6 +802,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* **Pre-VLA**: "Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.22446)]
 * "Reinforcing VLAs in Task-Agnostic World Models",  **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.12334)] 
 * **DIAL**: "DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.29844)] [[Website](https://xpeng-robotics.github.io/dial)]
 * "Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models",  **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.20607)]
