@@ -72,7 +72,8 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Wayve`**, Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy. [[Paper](https://arxiv.org/pdf/2309.17080)] [[Blog](https://wayve.ai/thinking/introducing-gaia1/)] 
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
-## Surveys
+## Survey
+* "Why We Need World Models for AGI: Where LLMs Fail and How World Models May Outperform" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23972)] 
 * "World Action Models: The Next Frontier in Embodied AI" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.12090)] 
 * "Latent State Design for World Models under Sufficiency Constraints" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.01694)] 
 * "World Model for Robot Learning: A Comprehensive Survey" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.00080)] [[Website](https://ntumars.github.io/wm-robot-survey/)] [[Code](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)]
@@ -118,6 +119,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **WBench**: "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.25874)] [[Website](https://meituan-longcat.github.io/WBench/)] 
 * **stable-worldmodel**: "stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.21800)] 
 * **HalluWorld**: "HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19341)] [[Website](https://github.com/DegenAI-Labs/HalluWorld)]
 * **WorldArena 2.0**: "WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.17912)] [[Website](https://world-arena.ai)]
@@ -180,8 +182,19 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
-* **WorldKV**: "WorldKV: Efficient World Memory with World Retrieval and Compression", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.22718)] [[Website](https://arxiv.org/abs/2605.22718)]
-* "Beyond Euclidean Proximity: Repairing Latent World Models with Horizon-Matched Trajectory Reachability Metrics", **`arxiv 2026.05`**. [[Paper](https://cvlab-kaist.github.io/WorldKV/)]
+* "When Does LeJEPA Learn a World Model?", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.26379)] 
+* "Back to Parsimonious Latents: Learning Task-Centric World Models from Visual Foundations", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.25620)] 
+* **UWM-JEPA**: "UWM-JEPA: Predictive World Models That Imagine in Belief Space", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.25313)] [[Website](https://github.com/santoshkumarradha/uwm-jepa)] 
+* **WorldCraft**: "WorldCraft: From Camera Navigation to Object Manipulation in Interactive Video World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.25077)] [[Website](https://nevsdev.github.io/WorldCraft/)] 
+* "Drift-Resistant Navigation World Model with Anchored Epipolar Guidance", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.24761)] 
+* "World Models as Group Actions", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.24578)] 
+* "Distilling Game Code World Model Generation into Lightweight Large Language Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.24375)] 
+* "Unified 3D Scene Understanding Through Physical World Modeling", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2605.24321)] 
+* "A World Model of Radiologist Reading for Medical Image Representation Learning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23992)] 
+* **SCOPE**: "SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23345)] [[Website](https://z2tong.github.io/SCOPE/)] [[Code](https://github.com/z2tong/SCOPE)] 
+* **WMAttack**: "WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23220)] 
+* **WorldKV**: "WorldKV: Efficient World Memory with World Retrieval and Compression", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.22718)] [[Website](https://cvlab-kaist.github.io/WorldKV/)]
+* "Beyond Euclidean Proximity: Repairing Latent World Models with Horizon-Matched Trajectory Reachability Metrics", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.22164)]
 * **ChronoMedicalWorld**: "ChronoMedicalWorld: A Medical World Model for Learning Patient Trajectories from Longitudinal Care Data", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.21963)]
 * "World-Ego Modeling for Long-Horizon Evolution in Hybrid Embodied Tasks", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19957)]
 * **AffectVerse**: "AffectVerse: Emotional World Models for Multimodal Affective Computing", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19950)]
@@ -587,6 +600,10 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Scaling World-Model Reinforcement Learning Through Diffusion Policy Optimization", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.26282)] 
+* **Nano World Models**: "Nano World Models: A Minimalist Implementation of Future Video Prediction", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23993)] [[Website](https://simchowitzlabpublic.github.io/nano-world-model/)] 
+* "Point Tracking Improves World Action Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23856)] 
+* **GEM-4D**: "GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.22882)] [[Website](https://anonymous-submission-20.github.io/gem.github.io/)]
 * **GaussianDream**: "GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.20752)]
 * **SWEET**: "SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19319)]
 * **RoboFlow4D**: "RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation", **`ICML 2026`**. [[Paper](https://arxiv.org/abs/2605.17522)]
@@ -852,6 +869,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Autonomous Driving
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
+* **X-Foresight**: "X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.24892)]
+* **SparseWorld**: "SparseWorld: Enhancing End-to-End Autonomous Driving via World Models with Sparse Scene Representation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.24354)] [[Website](https://wryzju.github.io/SparseWorld/)] 
+* "Reason--Imagine--Act: Closed-Loop LLM Decision Making with World Models for Autonomous Driving", **`IEEE ITSC 2026`**. [[Paper](https://arxiv.org/abs/2605.24004)] 
 * **HEAT**: "HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.19631)] 
 * **EponaV2**: "EponaV2: Driving World Model with Comprehensive Future Reasoning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.14696)] 
 * **HorizonDrive**: "HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.11596)] 
