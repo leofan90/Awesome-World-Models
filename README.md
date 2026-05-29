@@ -120,6 +120,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **MiraBench**: "MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.29360)] 
 * **What-If World**: "What-If World: A Causal Benchmark for General World Models in Embodied Scenarios", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.27589)] 
 * **WBench**: "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.25874)] [[Website](https://meituan-longcat.github.io/WBench/)] 
 * **stable-worldmodel**: "stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.21800)] 
@@ -184,6 +185,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **YoCausal**: "YoCausal: How Far is Video Generation from World Model? A Causality Perspective", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.30346)] [[Website](https://www.youzhexie.me/papers/YoCausal/index.html)] 
+* **minWM**: "minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.30263)] [[Website](https://github.com/shengshu-ai/minWM)] 
+* "Thoughts-as-Planning: Latent World Models for Chain-of-Thoughts Optimization via Reinforcement Planning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.28842)] [[Code](https://github.com/FastLM/Thoughts-as-Planning)] 
 * **Gamma-World**: "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.28816)] [[Website](https://research.nvidia.com/labs/sil/projects/gamma-world)] 
 * **Chreode**: "Chreode: A Cell World Model for One-Step Temporal Dynamics and Perturbation Prediction", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.28111)] 
 * "When Does LeJEPA Learn a World Model?", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.26379)] 
