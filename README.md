@@ -74,6 +74,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Survey
+* "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.02900)] [[Website](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)]
 * "Why We Need World Models for AGI: Where LLMs Fail and How World Models May Outperform" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23972)] 
 * "World Action Models: The Next Frontier in Embodied AI" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.12090)] 
 * "Latent State Design for World Models under Sufficiency Constraints" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.01694)] 
