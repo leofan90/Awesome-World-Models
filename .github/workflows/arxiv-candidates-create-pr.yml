@@ -1,0 +1,73 @@
+name: Create PR from checked arXiv candidates
+
+on:
+  issue_comment:
+    types:
+      - created
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  create-pr:
+    if: >-
+      !github.event.issue.pull_request &&
+      contains(github.event.issue.labels.*.name, 'arxiv-candidates') &&
+      startsWith(github.event.comment.body, '/create-pr') &&
+      contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Issue selections
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue view "$ISSUE_NUMBER" --json body --jq '.body' > "$RUNNER_TEMP/issue-body.md"
+
+      - name: Apply checked candidates
+        id: apply
+        run: |
+          count="$(python3 -m scripts.apply_issue_selections \
+            --issue-body "$RUNNER_TEMP/issue-body.md" \
+            --summary-output "$RUNNER_TEMP/pr-summary.md")"
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+
+      - name: Report empty selection
+        if: steps.apply.outputs.count == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" \
+            --body "No new checked candidates were found. Check at least one paper and comment \`/create-pr\` again."
+
+      - name: Create pull request
+        if: steps.apply.outputs.count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          branch="automation/arxiv-candidates-${ISSUE_NUMBER}-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add README.md
+          git commit -m "Add reviewed arXiv world model papers"
+          git push origin "$branch"
+          {
+            printf 'Generated from arXiv candidate inbox #%s.\\n\\n' "$ISSUE_NUMBER"
+            cat "$RUNNER_TEMP/pr-summary.md"
+          } > "$RUNNER_TEMP/pr-body.md"
+          pr_url="$(gh pr create \
+            --base "$DEFAULT_BRANCH" \
+            --head "$branch" \
+            --title "Add reviewed arXiv world model papers" \
+            --label arxiv-candidates \
+            --body-file "$RUNNER_TEMP/pr-body.md")"
+          gh issue close "$ISSUE_NUMBER" \
+            --comment "Created $pr_url from the checked candidates. Unchecked candidates will return in the next inbox refresh."

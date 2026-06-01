@@ -6,6 +6,8 @@ This repository provides a curated list of **papers for World Models for General
 
 If you find this repository useful, please consider [citing](#citation) and giving this list a star ⭐. Feel free to share it with others!
 
+Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to discover recent papers for review.
+
 ---
 ## Overview
 

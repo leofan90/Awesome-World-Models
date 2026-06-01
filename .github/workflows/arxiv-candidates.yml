@@ -1,0 +1,84 @@
+name: Refresh arXiv candidate inbox
+
+on:
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: Number of days to search
+        required: false
+        default: "3"
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: read
+
+jobs:
+  refresh-candidates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare inbox state
+        id: inbox
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create arxiv-candidates \
+            --description "Automatically discovered arXiv papers awaiting review" \
+            --color "0E8A16" \
+            --force
+          issue_number="$(gh issue list \
+            --label arxiv-candidates \
+            --state open \
+            --limit 1 \
+            --json number \
+            --jq '.[0].number')"
+          echo "issue_number=$issue_number" >> "$GITHUB_OUTPUT"
+          if [ -n "$issue_number" ]; then
+            gh issue view "$issue_number" --json body --jq '.body' > "$RUNNER_TEMP/existing-inbox.md"
+          else
+            touch "$RUNNER_TEMP/existing-inbox.md"
+          fi
+          gh pr list \
+            --label arxiv-candidates \
+            --state open \
+            --limit 100 \
+            --json body \
+            --jq '.[].body' > "$RUNNER_TEMP/open-arxiv-prs.md"
+
+      - name: Generate candidate report
+        id: candidates
+        env:
+          SEARCH_DAYS: ${{ github.event.inputs.days || '3' }}
+        run: |
+          count="$(python3 scripts/arxiv_candidates.py \
+            --days "$SEARCH_DAYS" \
+            --existing-issue-body "$RUNNER_TEMP/existing-inbox.md" \
+            --known-file "$RUNNER_TEMP/open-arxiv-prs.md" \
+            --output "$RUNNER_TEMP/arxiv-candidates.md")"
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+
+      - name: Update review inbox
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CANDIDATE_COUNT: ${{ steps.candidates.outputs.count }}
+          ISSUE_NUMBER: ${{ steps.inbox.outputs.issue_number }}
+        run: |
+          if [ "$CANDIDATE_COUNT" -gt 0 ]; then
+            if [ -n "$ISSUE_NUMBER" ]; then
+              gh issue edit "$ISSUE_NUMBER" \
+                --title "Review recent arXiv world-title candidates" \
+                --body-file "$RUNNER_TEMP/arxiv-candidates.md"
+            else
+              gh issue create \
+                --title "Review recent arXiv world-title candidates" \
+                --label arxiv-candidates \
+                --body-file "$RUNNER_TEMP/arxiv-candidates.md"
+            fi
+          elif [ -n "$ISSUE_NUMBER" ]; then
+            gh issue close "$ISSUE_NUMBER" \
+              --comment "No unreviewed candidates remain in the current search window."
+          fi
