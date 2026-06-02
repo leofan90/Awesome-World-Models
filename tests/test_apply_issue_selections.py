@@ -45,6 +45,11 @@ class ApplyIssueSelectionsTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Unsupported README section"):
             parse_checked_candidates(body)
 
+    def test_blog_or_technical_report_section_is_supported(self):
+        body = checkbox("2605.00001", "Accepted World Model", "Blog or Technical Report")
+        candidates = parse_checked_candidates(body)
+        self.assertEqual(candidates[0].section, "Blog or Technical Report")
+
     def test_apply_candidates_inserts_at_section_top_and_preserves_crlf(self):
         readme = "# List\r\n## General World Models\r\n* old\r\n## Citation\r\n"
         candidate = AcceptedCandidate(

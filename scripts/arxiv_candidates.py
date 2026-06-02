@@ -70,6 +70,7 @@ SECTION_RULES = (
 )
 
 TARGET_SECTIONS = (
+    "Blog or Technical Report",
     "Survey",
     "Datasets & Benchmarks & Evaluation",
     "General World Models",
