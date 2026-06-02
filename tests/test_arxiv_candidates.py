@@ -13,6 +13,7 @@ from scripts.arxiv_candidates import (
     extract_readme_arxiv_ids,
     extract_checked_arxiv_ids,
     extract_checked_candidate_sections,
+    extract_proposed_readme_entries,
     fetch_page,
     main,
     normalize_arxiv_id,
@@ -69,6 +70,27 @@ class ArxivCandidateTests(unittest.TestCase):
             {"2605.00001": "General World Models"},
         )
 
+    def test_extract_proposed_entry_preserves_manual_edit(self):
+        edited_entry = (
+            '* **DriveWorld**: "DriveWorld: A World Model for Autonomous Driving", '
+            "**`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.00001)] "
+            "[[Code](https://example.com/code)]"
+        )
+        body = "\n".join(
+            [
+                "- [x] Add to `World Models for Autonomous Driving`: "
+                "[DriveWorld](https://arxiv.org/abs/2605.00001)",
+                "- Proposed README entry:",
+                "```markdown",
+                edited_entry,
+                "```",
+            ]
+        )
+        self.assertEqual(
+            extract_proposed_readme_entries(body),
+            {"2605.00001": edited_entry},
+        )
+
     def test_driving_paper_gets_driving_suggestion(self):
         papers, _ = parse_feed(ATOM_FEED)
         suggestion = suggest_section(papers[0])
@@ -112,6 +134,23 @@ class ArxivCandidateTests(unittest.TestCase):
             checked_sections={"2605.00001": "General World Models"},
         )
         self.assertIn("- [x] Add to `General World Models`", report)
+
+    def test_report_preserves_manually_edited_readme_entry(self):
+        papers, total_results = parse_feed(ATOM_FEED)
+        edited_entry = (
+            '* **DriveWorld**: "DriveWorld: A World Model for Autonomous Driving", '
+            "**`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.00001)] "
+            "[[Code](https://example.com/code)]"
+        )
+        report = render_report(
+            [papers[0]],
+            query="ti:world",
+            total_results=total_results,
+            max_results=100,
+            generated_at=datetime(2026, 5, 31, tzinfo=timezone.utc),
+            proposed_entries={"2605.00001": edited_entry},
+        )
+        self.assertIn(edited_entry, report)
 
     def test_large_report_switches_to_compact_candidates(self):
         papers, total_results = parse_feed(ATOM_FEED)

@@ -12,7 +12,7 @@ The pipeline keeps human verification in the loop because title matches and heur
 5. The workflow creates or updates one open GitHub Issue labeled `arxiv-candidates`.
 6. After a maintainer checks accepted papers and comments `/create-pr`, `.github/workflows/arxiv-candidates-create-pr.yml` opens a PR that updates `README.md`.
 
-The single Issue acts as an inbox. Open PRs created by this pipeline are excluded from later inbox refreshes, so pending papers are not proposed repeatedly.
+The single Issue acts as an inbox. Open PRs created by this pipeline are excluded from later inbox refreshes, so pending papers are not proposed repeatedly. Inbox refreshes preserve checked papers, corrected categories, and edited `Proposed README entry` lines.
 
 ## Review an inbox
 

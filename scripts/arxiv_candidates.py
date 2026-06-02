@@ -33,6 +33,13 @@ CHECKED_CANDIDATE_SECTION_PATTERN = re.compile(
     r"^- \[[xX]\] Add to `([^`]+)`: .*?arxiv\.org/abs/([^\s)\]]+)",
     re.IGNORECASE | re.MULTILINE,
 )
+CANDIDATE_ARXIV_URL_PATTERN = re.compile(
+    r"^- \[[ xX]\] Add to `[^`]+`: .*?arxiv\.org/abs/([^\s)\]]+)",
+    re.IGNORECASE | re.MULTILINE,
+)
+PROPOSED_README_ENTRY_PATTERN = re.compile(
+    r"- Proposed README entry:\r?\n```markdown\r?\n([^\r\n]+)\r?\n```"
+)
 VERSION_PATTERN = re.compile(r"v\d+$", re.IGNORECASE)
 WHITESPACE_PATTERN = re.compile(r"\s+")
 
@@ -257,6 +264,18 @@ def extract_checked_candidate_sections(issue_body: str) -> dict[str, str]:
     }
 
 
+def extract_proposed_readme_entries(issue_body: str) -> dict[str, str]:
+    entries = {}
+    matches = list(CANDIDATE_ARXIV_URL_PATTERN.finditer(issue_body))
+    for index, match in enumerate(matches):
+        next_match_start = matches[index + 1].start() if index + 1 < len(matches) else len(issue_body)
+        candidate_body = issue_body[match.end() : next_match_start]
+        entry_match = PROPOSED_README_ENTRY_PATTERN.search(candidate_body)
+        if entry_match is not None:
+            entries[normalize_arxiv_id(match.group(1))] = entry_match.group(1).strip()
+    return entries
+
+
 def load_ignored_ids(path: Path) -> set[str]:
     if not path.exists():
         return set()
@@ -345,9 +364,11 @@ def render_report(
     generated_at: datetime,
     checked_ids: set[str] | None = None,
     checked_sections: dict[str, str] | None = None,
+    proposed_entries: dict[str, str] | None = None,
 ) -> str:
     checked_ids = checked_ids or set()
     checked_sections = checked_sections or {}
+    proposed_entries = proposed_entries or {}
     lines = [
         "# Recent arXiv candidates with `world` in the title",
         "",
@@ -388,7 +409,7 @@ def render_report(
             f"- Abstract excerpt: {html.escape(truncate(paper.summary, 240))}",
             "- Proposed README entry:",
             "```markdown",
-            proposed_readme_entry(paper),
+            proposed_entries.get(paper.arxiv_id, proposed_readme_entry(paper)),
             "```",
         ]
         projected_size = len("\n".join(lines + detailed_block))
@@ -487,10 +508,12 @@ def main() -> int:
     ]
     checked_ids = set()
     checked_sections = {}
+    proposed_entries = {}
     if args.existing_issue_body and args.existing_issue_body.exists():
         existing_issue_body = args.existing_issue_body.read_text(encoding="utf-8")
         checked_ids = extract_checked_arxiv_ids(existing_issue_body)
         checked_sections = extract_checked_candidate_sections(existing_issue_body)
+        proposed_entries = extract_proposed_readme_entries(existing_issue_body)
     report = render_report(
         candidates,
         query,
@@ -499,6 +522,7 @@ def main() -> int:
         now,
         checked_ids,
         checked_sections,
+        proposed_entries,
     )
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(report, encoding="utf-8")
