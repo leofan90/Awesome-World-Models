@@ -76,6 +76,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Survey
+* "Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.01164)]
 * "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.02900)] [[Website](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)]
 * "Why We Need World Models for AGI: Where LLMs Fail and How World Models May Outperform" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23972)] 
 * "World Action Models: The Next Frontier in Embodied AI" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.12090)] 
@@ -123,6 +124,8 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* "RoboTrustBench: Benchmarking the Trustworthiness of Video World Models for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01600)]
+* "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00793)]
 * **MiraBench**: "MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.29360)] 
 * **What-If World**: "What-If World: A Causal Benchmark for General World Models in Embodied Scenarios", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.27589)] 
 * **WBench**: "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.25874)] [[Website](https://meituan-longcat.github.io/WBench/)] 
@@ -188,6 +191,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00780)]
 * **YoCausal**: "YoCausal: How Far is Video Generation from World Model? A Causality Perspective", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.30346)] [[Website](https://www.youzhexie.me/papers/YoCausal/index.html)] 
 * **minWM**: "minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.30263)] [[Website](https://github.com/shengshu-ai/minWM)] 
 * "Thoughts-as-Planning: Latent World Models for Chain-of-Thoughts Optimization via Reinforcement Planning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.28842)] [[Code](https://github.com/FastLM/Thoughts-as-Planning)] 
@@ -611,6 +615,13 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "World-Task Factorization for Robot Learning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.02027)]
+* "WALL-WM: Carving World Action Modeling at the Event Joints", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01955)]
+* "Learning Action-Conditional and Object-Centric Gaussian Splatting World Models for Rigid Objects", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01950)]
+* "IMWM: Intuition Models Complement World Models for Latent Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01626)]
+* "$τ_0$-WM: A Unified Video-Action World Model for Robotic Manipulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.01027)]
+* "SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00664)]
+* "OptiWorld: Optimal Control for Video World Generation under Physical Constraints", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00499)]
 * **SANTS**: "SANTS: A State-Adaptive Scheduler for World Action Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.27947)] [[Website](https://advanced-robotics-lab.github.io/SANTS/)] 
 * "Scaling World-Model Reinforcement Learning Through Diffusion Policy Optimization", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.26282)] 
 * **Nano World Models**: "Nano World Models: A Minimalist Implementation of Future Video Prediction", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23993)] [[Website](https://simchowitzlabpublic.github.io/nano-world-model/)] 
@@ -881,6 +892,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* "Unified Driving Tokens: Representation- and Geometry-Guided Discrete Tokenizer for Driving World Models and Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01935)]
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
 * **DriveWAM**: "DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.28544)]
 * **X-Foresight**: "X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.24892)]
