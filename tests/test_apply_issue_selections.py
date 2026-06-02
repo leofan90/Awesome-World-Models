@@ -50,6 +50,38 @@ class ApplyIssueSelectionsTests(unittest.TestCase):
         candidates = parse_checked_candidates(body)
         self.assertEqual(candidates[0].section, "Blog or Technical Report")
 
+    def test_parse_checked_candidates_preserves_edited_readme_entry(self):
+        edited_entry = (
+            '* **Accepted**: "Accepted World Model", **`arxiv 2026.05`**. '
+            "[[Paper](https://arxiv.org/abs/2605.00001)] [[Code](https://example.com/code)]"
+        )
+        body = "\n".join(
+            [
+                checkbox("2605.00001", "Accepted World Model", "General World Models"),
+                "- Proposed README entry:",
+                "```markdown",
+                edited_entry,
+                "```",
+            ]
+        )
+        candidates = parse_checked_candidates(body)
+        self.assertEqual(candidates[0].readme_entry, edited_entry)
+        updated_readme, _ = apply_candidates("## General World Models\n", candidates)
+        self.assertIn(edited_entry, updated_readme)
+
+    def test_parse_checked_candidates_rejects_entry_for_different_arxiv_id(self):
+        body = "\n".join(
+            [
+                checkbox("2605.00001", "Accepted World Model", "General World Models"),
+                "- Proposed README entry:",
+                "```markdown",
+                '* "Wrong", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.99999)]',
+                "```",
+            ]
+        )
+        with self.assertRaisesRegex(ValueError, "must link to arXiv ID"):
+            parse_checked_candidates(body)
+
     def test_apply_candidates_inserts_at_section_top_and_preserves_crlf(self):
         readme = "# List\r\n## General World Models\r\n* old\r\n## Citation\r\n"
         candidate = AcceptedCandidate(

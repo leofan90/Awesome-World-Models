@@ -18,7 +18,7 @@ The single Issue acts as an inbox. Open PRs created by this pipeline are exclude
 
 1. Open the Issue labeled `arxiv-candidates`.
 2. Review each candidate and check the papers that should be included.
-3. If a suggested category is wrong, edit the category name in that checkbox line before triggering the PR.
+3. If needed, edit the category name in the checkbox line or refine its `Proposed README entry`.
 4. Comment `/create-pr`.
 5. Review and merge the generated PR.
 

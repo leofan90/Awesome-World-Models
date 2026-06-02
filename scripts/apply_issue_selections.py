@@ -14,9 +14,12 @@ from pathlib import Path
 
 from scripts.arxiv_candidates import TARGET_SECTIONS, extract_readme_arxiv_ids, normalize_arxiv_id
 
-CHECKED_CANDIDATE_PATTERN = re.compile(
-    r"^- \[[xX]\] Add to `([^`]+)`: .*?<!-- arxiv-candidate:([A-Za-z0-9_-]+) -->",
+CANDIDATE_PATTERN = re.compile(
+    r"^- \[([ xX])\] Add to `([^`]+)`: .*?<!-- arxiv-candidate:([A-Za-z0-9_-]+) -->",
     re.MULTILINE,
+)
+PROPOSED_README_ENTRY_PATTERN = re.compile(
+    r"- Proposed README entry:\r?\n```markdown\r?\n([^\r\n]+)\r?\n```"
 )
 ARXIV_ID_PATTERN = re.compile(r"^(?:\d{4}\.\d{4,5}|[a-z-]+/\d{7})$", re.IGNORECASE)
 
@@ -27,6 +30,7 @@ class AcceptedCandidate:
     title: str
     published: date
     section: str
+    readme_entry: str | None = None
 
 
 def decode_metadata(encoded_metadata: str) -> dict[str, str]:
@@ -41,8 +45,11 @@ def decode_metadata(encoded_metadata: str) -> dict[str, str]:
 def parse_checked_candidates(issue_body: str) -> list[AcceptedCandidate]:
     candidates = []
     seen_ids = set()
-    for match in CHECKED_CANDIDATE_PATTERN.finditer(issue_body):
-        section, encoded_metadata = match.groups()
+    matches = list(CANDIDATE_PATTERN.finditer(issue_body))
+    for index, match in enumerate(matches):
+        checked, section, encoded_metadata = match.groups()
+        if checked.lower() != "x":
+            continue
         if section not in TARGET_SECTIONS:
             raise ValueError(f"Unsupported README section: {section}")
         metadata = decode_metadata(encoded_metadata)
@@ -51,6 +58,9 @@ def parse_checked_candidates(issue_body: str) -> list[AcceptedCandidate]:
             raise ValueError(f"Invalid arXiv ID: {arxiv_id}")
         title = normalize_title(required_metadata(metadata, "title"))
         published = date.fromisoformat(required_metadata(metadata, "published"))
+        next_match_start = matches[index + 1].start() if index + 1 < len(matches) else len(issue_body)
+        candidate_body = issue_body[match.end() : next_match_start]
+        readme_entry = extract_proposed_readme_entry(candidate_body, arxiv_id)
         if arxiv_id not in seen_ids:
             candidates.append(
                 AcceptedCandidate(
@@ -58,6 +68,7 @@ def parse_checked_candidates(issue_body: str) -> list[AcceptedCandidate]:
                     title=title,
                     published=published,
                     section=section,
+                    readme_entry=readme_entry,
                 )
             )
             seen_ids.add(arxiv_id)
@@ -75,7 +86,21 @@ def normalize_title(title: str) -> str:
     return " ".join(title.split())
 
 
+def extract_proposed_readme_entry(candidate_body: str, arxiv_id: str) -> str | None:
+    match = PROPOSED_README_ENTRY_PATTERN.search(candidate_body)
+    if match is None:
+        return None
+    readme_entry = match.group(1).strip()
+    if not readme_entry.startswith("* "):
+        raise ValueError(f"Proposed README entry must start with '* ': {arxiv_id}")
+    if arxiv_id not in extract_readme_arxiv_ids(readme_entry):
+        raise ValueError(f"Proposed README entry must link to arXiv ID: {arxiv_id}")
+    return readme_entry
+
+
 def proposed_readme_entry(candidate: AcceptedCandidate) -> str:
+    if candidate.readme_entry:
+        return candidate.readme_entry
     month = candidate.published.strftime("%Y.%m")
     return (
         f'* "{candidate.title}", **`arxiv {month}`**. '

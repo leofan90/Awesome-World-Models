@@ -60,7 +60,7 @@ jobs:
           git commit -m "Add reviewed arXiv world model papers"
           git push origin "$branch"
           {
-            printf 'Generated from arXiv candidate inbox #%s.\\n\\n' "$ISSUE_NUMBER"
+            printf 'Generated from arXiv candidate inbox #%s.\n\n' "$ISSUE_NUMBER"
             cat "$RUNNER_TEMP/pr-summary.md"
           } > "$RUNNER_TEMP/pr-body.md"
           pr_url="$(gh pr create \

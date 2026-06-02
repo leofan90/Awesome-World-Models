@@ -124,8 +124,8 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
-* "RoboTrustBench: Benchmarking the Trustworthiness of Video World Models for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01600)]
-* "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00793)]
+* **RoboTrustBench**: "RoboTrustBench: Benchmarking the Trustworthiness of Video World Models for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01600)] [[Website](https://huiqiongli.github.io/RoboTrustBench/)]
+* **MBench**: "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00793)] [[Website](https://peanutup.github.io/MBench-project/)] [[Code](https://github.com/study-overflow/MBench)]
 * **MiraBench**: "MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.29360)] 
 * **What-If World**: "What-If World: A Causal Benchmark for General World Models in Embodied Scenarios", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.27589)] 
 * **WBench**: "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.25874)] [[Website](https://meituan-longcat.github.io/WBench/)] 
@@ -616,12 +616,12 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 ---
 ## World Models for Embodied AI
 * "World-Task Factorization for Robot Learning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.02027)]
-* "WALL-WM: Carving World Action Modeling at the Event Joints", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01955)]
+* **`X Square Robot`**, WALL-WM: Carving World Action Modeling at the Event Joints. [[Paper](https://arxiv.org/abs/2606.01955)] [[Website](https://github.com/X-Square-Robot/wall-x)]
 * "Learning Action-Conditional and Object-Centric Gaussian Splatting World Models for Rigid Objects", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01950)]
-* "IMWM: Intuition Models Complement World Models for Latent Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01626)]
-* "$τ_0$-WM: A Unified Video-Action World Model for Robotic Manipulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.01027)]
-* "SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00664)]
-* "OptiWorld: Optimal Control for Video World Generation under Physical Constraints", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00499)]
+* **IMWM**: "IMWM: Intuition Models Complement World Models for Latent Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01626)]
+* **$τ_0$-WM**: "$τ_0$-WM: A Unified Video-Action World Model for Robotic Manipulation", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.01027)]
+* **SKIP**: "SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00664)]
+* **OptiWorld**: "OptiWorld: Optimal Control for Video World Generation under Physical Constraints", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00499)] [[Code](https://yuyuanspace.com/OptiWorld/)]
 * **SANTS**: "SANTS: A State-Adaptive Scheduler for World Action Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.27947)] [[Website](https://advanced-robotics-lab.github.io/SANTS/)] 
 * "Scaling World-Model Reinforcement Learning Through Diffusion Policy Optimization", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.26282)] 
 * **Nano World Models**: "Nano World Models: A Minimalist Implementation of Future Video Prediction", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23993)] [[Website](https://simchowitzlabpublic.github.io/nano-world-model/)] 
@@ -892,7 +892,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
-* "Unified Driving Tokens: Representation- and Geometry-Guided Discrete Tokenizer for Driving World Models and Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01935)]
+* **Unified Driving Tokens**: "Unified Driving Tokens: Representation- and Geometry-Guided Discrete Tokenizer for Driving World Models and Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01935)]
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
 * **DriveWAM**: "DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.28544)]
 * **X-Foresight**: "X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.24892)]
