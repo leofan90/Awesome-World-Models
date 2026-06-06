@@ -127,6 +127,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* "Towards World Models in Biomedical Research", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05925)]
 * **RoboTrustBench**: "RoboTrustBench: Benchmarking the Trustworthiness of Video World Models for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01600)] [[Website](https://huiqiongli.github.io/RoboTrustBench/)]
 * **MBench**: "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00793)] [[Website](https://peanutup.github.io/MBench-project/)] [[Code](https://github.com/study-overflow/MBench)]
 * **MiraBench**: "MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.29360)] 
@@ -625,6 +626,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **Flash-WAM**: "Flash-WAM: Modality-Aware Distillation for World Action Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05254)]
 * "Generalization of World Models under Environmental Variability for Vision-based Quadrotor Navigation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05015)]
 * **WAM-Nav**: "WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.04907)]
 * **OSCAR**: "OSCAR: Omni-Embodiment Skeleton-Conditioned World Action Model for Robotics", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.04463)] [[Website](https://wuzy2115.github.io/oscar-project-page/)]
@@ -857,6 +859,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* "World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05979)]
+* **PiL-World**: "PiL-World: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05773)]
 * "Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.02486)]
 * **Pre-VLA**: "Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.22446)]
 * "Reinforcing VLAs in Task-Agnostic World Models",  **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.12334)] 
@@ -894,6 +898,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Visual Understanding
+* "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.06476)]
 * "Do LLMs Build World Models From Text? A Multilingual Diagnostic of Spatial Reasoning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.28277)] 
 * **GeoWorld-VLM**: "GeoWorld-VLM: Geometry from World Models for Vision-Language Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.16713)] 
 * **World2VLM**: "World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2604.26934)] [[Website](https://huggingface.co/datasets/WanyueZhang/World2VLM)] [[Code](https://github.com/WanyueZhang-ai/World2VLM)] 
@@ -908,6 +913,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* **PLAN-S**: "PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.06014)]
+* **Discrete-WAM**: "Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05645)]
 * **Unified Driving Tokens**: "Unified Driving Tokens: Representation- and Geometry-Guided Discrete Tokenizer for Driving World Models and Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01935)]
 ### Refer to https://github.com/LMD0311/Awesome-World-Model
 * **DriveWAM**: "DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.28544)]
