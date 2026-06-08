@@ -195,6 +195,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **AnchorWorld**: "AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.07326)]
 * "A 3D Isovist World Model -- Revealing a City's Unseen Geometry and Its Emergent Cross-City Signature", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.03609)] 
 * "World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.03603)] [[Code](https://github.com/yczhou001/PF-OPSD)] 
 * **MetaWorld**: "MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.02753)] 
@@ -626,6 +627,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **AdaWAM**: "Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.07089)] [[Website](https://adawam.github.io/)]
 * **Flash-WAM**: "Flash-WAM: Modality-Aware Distillation for World Action Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05254)]
 * "Generalization of World Models under Environmental Variability for Vision-based Quadrotor Navigation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05015)]
 * **WAM-Nav**: "WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.04907)]
