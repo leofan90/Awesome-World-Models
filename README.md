@@ -840,6 +840,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 * **Robotic World Model**: "Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.10100)]
 * **RoboHorizon**: "RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation", **`arXiv 2025.01`**. [[Paper](https://arxiv.org/abs/2501.06605)] 
 * **Dream to Manipulate**: "Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.14957)] [[Website](https://leobarcellona.github.io/DreamToManipulate/)] 
+* **`UnrealZoo`**, UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI, **`ICCV 2025 Highlight`**. [[Paper](https://arxiv.org/abs/2412.20977)] [[Website](https://unrealzoo.site/)] [[Code](https://github.com/UnrealZoo/unrealzoo-gym)]
 * **WHALE**: "WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.05619)]
 * **VisualPredicator**: "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.23156)] 
 * "Multi-Task Interactive Robot Fleet Learning with Visual World Models", **`CoRL 2024`**. [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
