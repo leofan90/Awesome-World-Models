@@ -79,6 +79,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Survey
+* "Bridging the Agent-World Gap: Text World Models for LLM-based Agents", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09032)]
 * "Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.01164)]
 * "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.02900)] [[Website](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)]
 * "Why We Need World Models for AGI: Where LLMs Fail and How World Models May Outperform" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.23972)] 
@@ -195,6 +196,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Latent Spatial Memory for Video World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09828)]
+* **Echo-Memory**: "Echo-Memory: A Controlled Study of Memory in Action World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09803)]
+* **Prisma-World**: "Prisma-World: Camera-Controllable Multi-Agent Video World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09507)]
+* **FF-JEPA**: "FF-JEPA: Long-Horizon Planning in World Models with Latent Planners", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09311)]
 * **AnchorWorld**: "AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.07326)]
 * "A 3D Isovist World Model -- Revealing a City's Unseen Geometry and Its Emergent Cross-City Signature", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.03609)] 
 * "World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.03603)] [[Code](https://github.com/yczhou001/PF-OPSD)] 
@@ -627,6 +632,15 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **iMaC**: "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09813)]
+* **AHA-WAM**: "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09811)]
+* "Targeting World Models to Compromise Robot Learning Pipelines", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09499)]
+* **$ω$-EVA**: "$ω$-EVA: Envision, Verify, and Act with Latent Interactive World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09457)]
+* **MotionWA**: "MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09215)]
+* **C$^3$ache**: "C$^3$ache: Accelerating World Action Models with Cross Inference Chunk Cache", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.08962)]
+* "Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.08775)]
+* **Dream-Tac**: "Dream-Tac: A Unified Tactile World Action Model for Contact-Rich Robot Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.08737)]
+* **FAWAM**: "FAWAM: Force-Aware World Action Models for Closed-Loop Contact-Rich Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.08555)]
 * **AdaWAM**: "Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.07089)] [[Website](https://adawam.github.io/)]
 * **Flash-WAM**: "Flash-WAM: Modality-Aware Distillation for World Action Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05254)]
 * "Generalization of World Models under Environmental Variability for Vision-based Quadrotor Navigation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05015)]
