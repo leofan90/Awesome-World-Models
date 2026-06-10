@@ -128,6 +128,8 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **WorldOlympiad**: "WorldOlympiad: Can Your World Model Survive a Triathlon?", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11129)]
+* "Can Image Models Imagine Time? ImageTime: A Novel Benchmark for Probing Visual World Modeling Through Spatiotemporal Consistency", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.10620)]
 * "Towards World Models in Biomedical Research", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05925)]
 * **RoboTrustBench**: "RoboTrustBench: Benchmarking the Trustworthiness of Video World Models for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01600)] [[Website](https://huiqiongli.github.io/RoboTrustBench/)]
 * **MBench**: "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.00793)] [[Website](https://peanutup.github.io/MBench-project/)] [[Code](https://github.com/study-overflow/MBench)]
@@ -196,6 +198,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **BiWM**: "BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.10135)]
 * "Latent Spatial Memory for Video World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09828)]
 * **Echo-Memory**: "Echo-Memory: A Controlled Study of Memory in Action World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09803)]
 * **Prisma-World**: "Prisma-World: Camera-Controllable Multi-Agent Video World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09507)]
@@ -632,6 +635,10 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **Next Forcing**: "Next Forcing: Causal World Modeling with Multi-Chunk Prediction", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11187)]
+* **TacForeSight**: "TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11184)]
+* **HiMem-WAM**: "HiMem-WAM: Hierarchical Memory-Gated World Action Models for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.10363)]
+* **Efficient-WAM**: "Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.10040)]
 * **iMaC**: "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09813)]
 * **AHA-WAM**: "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09811)]
 * "Targeting World Models to Compromise Robot Learning Pipelines", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09499)]
