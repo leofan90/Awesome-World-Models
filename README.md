@@ -128,6 +128,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* "World Model Self-Distillation: Training World Models to Solve General Tasks", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12072)]
 * **WorldOlympiad**: "WorldOlympiad: Can Your World Model Survive a Triathlon?", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11129)]
 * "Can Image Models Imagine Time? ImageTime: A Novel Benchmark for Probing Visual World Modeling Through Spatiotemporal Consistency", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.10620)]
 * "Towards World Models in Biomedical Research", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05925)]
@@ -198,6 +199,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Slots, Transitions, Loops: Learning Composable World Models for ARC", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12316)]
 * **BiWM**: "BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.10135)]
 * "Latent Spatial Memory for Video World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09828)]
 * **Echo-Memory**: "Echo-Memory: A Controlled Study of Memory in Action World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09803)]
@@ -635,6 +637,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Making Foresight Actionable: Repurposing Representation Alignment in World Action Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12217)]
+* **PLUME**: "PLUME: Probabilistic Latent Unified World Modeling and Parameter Estimation for Multi-Finger Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11396)]
 * **Next Forcing**: "Next Forcing: Causal World Modeling with Multi-Chunk Prediction", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11187)]
 * **TacForeSight**: "TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11184)]
 * **HiMem-WAM**: "HiMem-WAM: Hierarchical Memory-Gated World Action Models for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.10363)]
@@ -883,6 +887,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* **World Pilot**: "World Pilot: Steering Vision-Language-Action Models with World-Action Priors", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12403)]
+* "Vision-Language-Action Models Meet World Models: Embodied Agentic AI for Low-Altitude Wireless Networks", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11618)]
 * "World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05979)]
 * **PiL-World**: "PiL-World: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05773)]
 * "Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.02486)]
