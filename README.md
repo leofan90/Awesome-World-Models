@@ -128,6 +128,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* "Diffusion Transformer World-Action Model for AV Scene Prediction", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12987)]
 * "World Model Self-Distillation: Training World Models to Solve General Tasks", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12072)]
 * **WorldOlympiad**: "WorldOlympiad: Can Your World Model Survive a Triathlon?", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11129)]
 * "Can Image Models Imagine Time? ImageTime: A Novel Benchmark for Probing Visual World Modeling Through Spatiotemporal Consistency", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.10620)]
@@ -637,6 +638,12 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **RepWAM**: "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.13674)]
+* "$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.13672)]
+* **MaskWAM**: "MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.13515)]
+* **NavWAM**: "NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.13494)]
+* **EA-WM**: "EA-WM: Event-Aware World Models with Task-Specification Grounding for Long-Horizon Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.13053)]
+* **EWAM**: "EWAM: An Enhanced World Action Model for Closed-Loop Online Adaptation in Embodied Intelligence", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12690)]
 * "Making Foresight Actionable: Repurposing Representation Alignment in World Action Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12217)]
 * **PLUME**: "PLUME: Probabilistic Latent Unified World Modeling and Parameter Estimation for Multi-Finger Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11396)]
 * **Next Forcing**: "Next Forcing: Causal World Modeling with Multi-Chunk Prediction", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11187)]
@@ -943,6 +950,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* "A Tutorial on World Models and Physical AI", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12783)]
 * **PLAN-S**: "PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.06014)]
 * **Discrete-WAM**: "Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05645)]
 * **Unified Driving Tokens**: "Unified Driving Tokens: Representation- and Geometry-Guided Discrete Tokenizer for Driving World Models and Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.01935)]
