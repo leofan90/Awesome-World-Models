@@ -203,6 +203,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **DreamReg**: "DreamReg: Belief-Driven World Model for 2D-3D Ultrasound Registration", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18825)]
 * **MaineCoon**: "MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17800)]
 * **ActWorld**: "ActWorld: From Explorable to Interactive World Model via Action-Aware Memory", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17730)]
 * **DreamX-World 1.0**: "DreamX-World 1.0: A General-Purpose Interactive World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16993)]
@@ -645,6 +646,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **Mem-World**: "Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18960)]
+* **DREAM-Chunk**: "DREAM-Chunk: Reactive Action Chunking with Latent World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18589)]
+* **PAIWorld**: "PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18375)]
 * **WAM-RL**: "WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17906)]
 * **Qwen-RobotWorld**: "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17030)]
 * **Kairos**: "Kairos: A Native World Model Stack for Physical AI", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16533)]
