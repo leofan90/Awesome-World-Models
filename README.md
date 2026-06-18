@@ -79,6 +79,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Survey
+* "Medical world models: representing medical states, modelling clinical dynamics and guiding intervention policies", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16721)]
 * "Bridging the Agent-World Gap: Text World Models for LLM-based Agents", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09032)]
 * "Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.01164)]
 * "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses" **`arXiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.02900)] [[Website](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)]
@@ -128,6 +129,8 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **EgoCS-400K**: "EgoCS-400K: An Egocentric Gameplay Dataset for World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18180)]
+* **ARB4WM**: "ARB4WM: An Adversarial Robustness Benchmark for World Models in Continuous Control", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16605)]
 * "Diffusion Transformer World-Action Model for AV Scene Prediction", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12987)]
 * "World Model Self-Distillation: Training World Models to Solve General Tasks", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12072)]
 * **WorldOlympiad**: "WorldOlympiad: Can Your World Model Survive a Triathlon?", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11129)]
@@ -200,6 +203,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **MaineCoon**: "MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17800)]
+* **ActWorld**: "ActWorld: From Explorable to Interactive World Model via Action-Aware Memory", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17730)]
+* **DreamX-World 1.0**: "DreamX-World 1.0: A General-Purpose Interactive World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16993)]
+* **BadWorld**: "BadWorld: Adversarial Attacks on World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16519)]
 * "Slots, Transitions, Loops: Learning Composable World Models for ARC", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12316)]
 * **BiWM**: "BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.10135)]
 * "Latent Spatial Memory for Video World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09828)]
@@ -638,6 +645,11 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **WAM-RL**: "WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17906)]
+* **Qwen-RobotWorld**: "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17030)]
+* **Kairos**: "Kairos: A Native World Model Stack for Physical AI", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16533)]
+* **BRICKS-WM**: "BRICKS-WM: Building Reusability via Interface Composition Kinetics for Structured World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16489)]
+* "LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.15768)]
 * **RepWAM**: "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.13674)]
 * "$\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.13672)]
 * **MaskWAM**: "MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.13515)]
@@ -950,6 +962,10 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18250)]
+* **OmniDrive**: "OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17536)]
+* **GraphWorld**: "GraphWorld: Long-Horizon Planning with World Models for End-to-End Autonomous Driving", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16274)]
+* "Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.15869)]
 * "A Tutorial on World Models and Physical AI", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12783)]
 * **PLAN-S**: "PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.06014)]
 * **Discrete-WAM**: "Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05645)]
