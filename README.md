@@ -129,6 +129,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* "Current World Models Lack a Persistent State Core", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.20545)]
 * **EgoCS-400K**: "EgoCS-400K: An Egocentric Gameplay Dataset for World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18180)]
 * **ARB4WM**: "ARB4WM: An Adversarial Robustness Benchmark for World Models in Continuous Control", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16605)]
 * "Diffusion Transformer World-Action Model for AV Scene Prediction", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12987)]
@@ -203,6 +204,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Sensorimotor World Models: Perception for Action via Inverse Dynamics", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.20104)]
+* **Holo-World**: "Holo-World: Unified Camera, Object and Weather Control for Video World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.20083)]
+* **SurgVista**: "SurgVista: Long-Horizon Surgical World Modeling with Plausible Instrument-Tissue Dynamics", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.19889)]
 * **DreamReg**: "DreamReg: Belief-Driven World Model for 2D-3D Ultrasound Registration", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18825)]
 * **MaineCoon**: "MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17800)]
 * **ActWorld**: "ActWorld: From Explorable to Interactive World Model via Action-Aware Memory", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17730)]
@@ -646,6 +650,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **MemoryWAM**: "MemoryWAM: Efficient World Action Modeling with Persistent Memory", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.20562)]
+* "Reward as An Agent for Embodied World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.19990)]
+* **SWAP**: "SWAP: Symmetric Equivariant World-Model for Agile Robot Parkour", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.19928)]
 * **Mem-World**: "Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18960)]
 * **DREAM-Chunk**: "DREAM-Chunk: Reactive Action Chunking with Latent World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18589)]
 * **PAIWorld**: "PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18375)]
