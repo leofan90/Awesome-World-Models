@@ -204,6 +204,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Compression and Retrieval: Implicit Memory Retrieval for Video World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23105)]
+* "Reference-Free Assessment of Physical Consistency in World Model-based Video Generation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.22363)]
 * "Sensorimotor World Models: Perception for Action via Inverse Dynamics", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.20104)]
 * **Holo-World**: "Holo-World: Unified Camera, Object and Weather Control for Video World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.20083)]
 * **SurgVista**: "SurgVista: Long-Horizon Surgical World Modeling with Plausible Instrument-Tissue Dynamics", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.19889)]
@@ -650,6 +652,14 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "A Watermark for Vision-Language-Action and World Action Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23574)]
+* **SkyJEPA**: "SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23444)]
+* **IOI**: "IOI: Decoupling Kinematics and Physics for Interactive World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23296)]
+* "Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23280)]
+* **Foresight**: "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23085)]
+* **AdaReP**: "AdaReP:Adaptive Re-Planning under Model Mismatch for Neural World-Model Predictive Control", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23079)]
+* "Attacking the Trusted Imagination: Oracle-Level Integrity Attacks on Imagine-then-Act World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.22966)]
+* **Wh0**: "Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.22136)]
 * **MemoryWAM**: "MemoryWAM: Efficient World Action Modeling with Persistent Memory", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.20562)]
 * "Reward as An Agent for Embodied World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.19990)]
 * **SWAP**: "SWAP: Symmetric Equivariant World-Model for Agile Robot Parkour", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.19928)]
