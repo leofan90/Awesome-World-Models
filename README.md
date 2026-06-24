@@ -79,6 +79,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **`Yann LeCun`**, A Path Towards Autonomous Machine Intelligence. [[Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
 
 ## Survey
+* "Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24152)]
 * "Medical world models: representing medical states, modelling clinical dynamics and guiding intervention policies", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16721)]
 * "Bridging the Agent-World Gap: Text World Models for LLM-based Agents", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.09032)]
 * "Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2606.01164)]
@@ -652,6 +653,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "World Value Models for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24742)]
+* **NavWM**: "NavWM: A Unified Navigation World Model for Foresight-Driven Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24101)]
+* **DynaWM**: "DynaWM: Dynamics-Aware Distillation with World Model and Momentum Targets for Smooth Locomotion over Continuous Stairs", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24089)]
 * "A Watermark for Vision-Language-Action and World Action Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23574)]
 * **SkyJEPA**: "SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23444)]
 * **IOI**: "IOI: Decoupling Kinematics and Physics for Interactive World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23296)]
