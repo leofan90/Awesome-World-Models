@@ -205,6 +205,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Causal-rCM**: "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.25473)]
 * "Compression and Retrieval: Implicit Memory Retrieval for Video World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23105)]
 * "Reference-Free Assessment of Physical Consistency in World Model-based Video Generation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.22363)]
 * "Sensorimotor World Models: Perception for Action via Inverse Dynamics", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.20104)]
@@ -653,6 +654,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "In-Context World Modeling for Robotic Control", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.26025)]
 * "World Value Models for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24742)]
 * **NavWM**: "NavWM: A Unified Navigation World Model for Foresight-Driven Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24101)]
 * **DynaWM**: "DynaWM: Dynamics-Aware Distillation with World Model and Momentum Targets for Smooth Locomotion over Continuous Stairs", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24089)]
