@@ -130,6 +130,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **PhysEditWorld**: "PhysEditWorld: A Large-Scale Dataset Toward Physics-Editable World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.26694)]
 * "Current World Models Lack a Persistent State Core", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.20545)]
 * **EgoCS-400K**: "EgoCS-400K: An Egocentric Gameplay Dataset for World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18180)]
 * **ARB4WM**: "ARB4WM: An Adversarial Robustness Benchmark for World Models in Continuous Control", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16605)]
@@ -205,6 +206,11 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Hallucination in World Models is Predictable and Preventable", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.27326)]
+* **EO-WM**: "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.27277)]
+* "A Generalization Theory for JEPA-Based World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.27014)]
+* "Einstein World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.26969)]
+* **LithoDreamer**: "LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.26713)]
 * **Causal-rCM**: "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.25473)]
 * "Compression and Retrieval: Implicit Memory Retrieval for Video World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.23105)]
 * "Reference-Free Assessment of Physical Consistency in World Model-based Video Generation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.22363)]
@@ -654,6 +660,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.27374)]
+* "Not All Actions Are Equal: Rethinking Conditioning for Dexterous World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.27325)]
+* **Tactile-WAM**: "Tactile-WAM: Touch-Aware World Action Model with Tactile Asymmetric Attention", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.26663)]
 * "In-Context World Modeling for Robotic Control", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.26025)]
 * "World Value Models for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24742)]
 * **NavWM**: "NavWM: A Unified Navigation World Model for Foresight-Driven Planning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24101)]
@@ -989,6 +998,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* "Risk-Aware Selective Multimodal Driver Monitoring with Driver-State World Modeling", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.26922)]
 * "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18250)]
 * **OmniDrive**: "OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17536)]
 * **GraphWorld**: "GraphWorld: Long-Horizon Planning with World Models for End-to-End Autonomous Driving", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.16274)]
