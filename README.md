@@ -660,6 +660,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **PhysisForcing**: "PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.28128)]
 * "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.27374)]
 * "Not All Actions Are Equal: Rethinking Conditioning for Dexterous World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.27325)]
 * **Tactile-WAM**: "Tactile-WAM: Touch-Aware World Action Model with Tactile Asymmetric Attention", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.26663)]
