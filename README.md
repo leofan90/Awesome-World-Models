@@ -130,6 +130,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **WorldRoamBench**: "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.31672)]
 * "A Physics-Grounded Benchmark for Multi-Agent Dynamics in World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.28757)]
 * **PhysEditWorld**: "PhysEditWorld: A Large-Scale Dataset Toward Physics-Editable World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.26694)]
 * "Current World Models Lack a Persistent State Core", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.20545)]
@@ -207,6 +208,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **AdaJEPA**: "AdaJEPA: An Adaptive Latent World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.32026)]
+* **MemLearner**: "MemLearner: Learning to Query Context memory for Video World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.31734)]
+* **Delta-JEPA**: "Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.31232)]
 * **DreamForge-World 0.1**: "DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.30292)]
 * "Prototype Latent World Model Replay for Class-Incremental Learning", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.29465)]
 * "Flow Matching in Feature Space for Stochastic World Modeling", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.29059)]
@@ -664,6 +668,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **DVG-WM**: "DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.32028)]
 * "Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.29908)]
 * "Learning Transferable Dynamics Priors from Action to World Modeling", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.29501)]
 * "ViPSim: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.28804)]
