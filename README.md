@@ -133,6 +133,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **ProVisE**: "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.21072)] [[Code](https://github.com/ZJU-OmniAI/ProVisE)] [[Website](https://zju-omniai.github.io/ProVisE/)]
 * **KineBench**: "KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19876)]
 * **WorldRoamBench**: "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.31672)]
 * "A Physics-Grounded Benchmark for Multi-Agent Dynamics in World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.28757)]
