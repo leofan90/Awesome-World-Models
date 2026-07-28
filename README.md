@@ -213,6 +213,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "On the Identifiability of Controlled World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.22430)]
+* **Music-JEPA**: "Music-JEPA: Learning a World Model of Sound from Action", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.22000)]
 * **PhysCoRe**: "PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20653)]
 * **Dreamer-CPC**: "Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19809)]
 * **Koopman Dreamer**: "Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19719)]
@@ -691,6 +693,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Robot-Factored World Models via Robot Rendering", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.22535)]
+* **ViTacWorld**: "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.22530)]
 * "Masked Visual Actions for Unified World Modeling", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19343)]
 * **WorldScape Policy 2.0**: "WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.18840)]
 * **RoboInter1.5**: "RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.18709)]
