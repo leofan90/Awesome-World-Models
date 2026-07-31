@@ -80,6 +80,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **`world-models.io`**, A structured knowledge hub for AI world models, with model profiles, research syntheses, comparisons, benchmark-oriented evaluation context, and a practical taxonomy. [[Website](https://world-models.io/)] [[Blog](https://world-models.io/en/timeline/practical-taxonomy-ai-world-models/)]
 
 ## Survey
+* "Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28226)]
 * "From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11689)]
 * "From World Models to World Action Models: A Concise Tutorial for Robotics", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00836)]
 * "Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.24152)]
@@ -133,6 +134,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* "CG-World: A Large-Scale World-State Dataset and Protocol for World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26452)]
 * **ProVisE**: "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.21072)] [[Code](https://github.com/ZJU-OmniAI/ProVisE)] [[Website](https://zju-omniai.github.io/ProVisE/)]
 * **KineBench**: "KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19876)]
 * **WorldRoamBench**: "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.31672)]
@@ -213,6 +215,22 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **PhiZero**: "PhiZero: A World Model Built Around Physical Language", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28624)]
+* **QQWorld**: "QQWorld: Quantile-Quantile Matching for World Model Regularization", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28415)]
+* **ShadowDancer**: "ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28362)]
+* **Tycho**: "Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28287)]
+* "Failure Detection for Surgical Robot Imitation Policies via Flow-Matching World Modeling", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.27511)]
+* "Mental World Modeling", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.27201)]
+* "What Can Latent World Models Know? Physical Parameter Identifiability in Multimodal Predictive Representations", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.27017)]
+* "StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26754)]
+* "CalTwin: Towards Calibrated, Shift-Robust Medical World Models via Fisher-Information Regularisation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26752)]
+* "ActSWM: Action-Sensitive World Models for Long-Horizon Planning in Open-World Games", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26712)]
+* "Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26646)]
+* "Learning Implicit Causal World Models from Multi-Agent Demonstrations", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26336)]
+* "INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26056)]
+* "Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26040)]
+* "Wonder: Video World Model Done Better", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26037)]
+* "Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.25337)]
 * "On the Identifiability of Controlled World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.22430)]
 * **Music-JEPA**: "Music-JEPA: Learning a World Model of Sound from Action", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.22000)]
 * **PhysCoRe**: "PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20653)]
@@ -693,6 +711,12 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **QuantWAMs**: "QuantWAMs: Calibrating at the Right Granularity for World Action Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28405)]
+* **TacWAM**: "TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28391)]
+* **EgoGenesis**: "EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28243)]
+* "World Action Planner: Generalizable Decision-Making with Action-Conditioned World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.27599)]
+* "Enfold: Folding World-Generator Computation into Predictive Representations for Efficient Embodied Control", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26657)]
+* "DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.25918)]
 * "Robot-Factored World Models via Robot Rendering", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.22535)]
 * **ViTacWorld**: "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.22530)]
 * "Masked Visual Actions for Unified World Modeling", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19343)]
@@ -999,6 +1023,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* "CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26789)]
 * **World Pilot**: "World Pilot: Steering Vision-Language-Action Models with World-Action Priors", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12403)]
 * "Vision-Language-Action Models Meet World Models: Embodied Agentic AI for Low-Altitude Wireless Networks", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11618)]
 * "World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.05979)]
