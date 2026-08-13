@@ -31,6 +31,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * World Models, **`NIPS 2018 Oral`**. [[Paper](https://arxiv.org/abs/1803.10122)] [[Website](https://worldmodels.github.io/)] 
 
 ## Blog or Technical Report
+* **`ST-WAM`**, ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts. [[Paper](https://arxiv.org/abs/2607.28993)] [[Website](https://thu-wangmx.github.io/st-wam/)] [[Code](https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model)]
 * **`NVIDIA OmniDreams`**, NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation. [[Paper](https://arxiv.org/abs/2606.03159)] 
 * **`Cosmos 3`**, Cosmos 3: Omnimodal World Models for Physical AI. [[Paper](https://arxiv.org/abs/2606.02800)] [[Website](https://research.nvidia.com/labs/cosmos-lab/cosmos3)]
 * **`X Square Robot`**, WALL-WM: Carving World Action Modeling at the Event Joints. [[Paper](https://arxiv.org/abs/2606.01955)] [[Website](https://github.com/X-Square-Robot/wall-x)]
