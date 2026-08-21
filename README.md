@@ -216,6 +216,14 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20284)]
+* "Orthogonal JEPA: Factorized Predictive States for Latent World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20065)]
+* "Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.18746)]
+* "Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.18647)]
+* "Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.18484)]
+* "Towards Zero-Shot Task Transfer with Neurosymbolic World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.17959)]
+* "An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.17956)]
+* "No Gaussian Required: Contrastive Inverse Dynamics for JEPA World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.17542)]
 * **PhiZero**: "PhiZero: A World Model Built Around Physical Language", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28624)]
 * **QQWorld**: "QQWorld: Quantile-Quantile Matching for World Model Regularization", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28415)]
 * **ShadowDancer**: "ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28362)]
@@ -712,6 +720,11 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **DECOWAM**: "DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20114)]
+* **HiTac-WAM**: "HiTac-WAM: A Hierarchical Tactile World Action Model for Contact-Rich Robot Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.19574)]
+* "Reinforced Planning with Latent World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.18669)]
+* "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.18234)]
+* "Hydra-0: Action Flow for Generalist World Modeling and Control", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.18077)]
 * **QuantWAMs**: "QuantWAMs: Calibrating at the Right Granularity for World Action Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28405)]
 * **TacWAM**: "TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28391)]
 * **EgoGenesis**: "EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28243)]
@@ -1081,6 +1094,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* **DA-WAM**: "DA-WAM: Decision-Aligned Future Latents for Driving World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.19085)]
 * **HyWorldVLA**: "HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20988)]
 * "PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20175)]
 * **GeoWorldAD**: "GeoWorldAD: Geometry World Action Model for Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.17521)]
