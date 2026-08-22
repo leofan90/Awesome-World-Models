@@ -412,7 +412,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * "Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model", **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2603.05438)] 
 * "Beyond Pixel Histories: World Models with Persistent 3D State", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.03482)] [[Website](https://francelico.github.io/persist.github.io)]
 * "Contextual Latent World Models for Offline Meta Reinforcement Learning", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.02935)]
-* "Next Embedding Prediction Makes World Models Stronger", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.02765)]
+* **NE-Dreamer**: "Next Embedding Prediction Makes World Models Stronger", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.02765)] [[Code](https://github.com/corl-team/nedreamer)]
 * **COMBAT**: "COMBAT: Conditional World Models for Behavioral Agent Training", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.00825)]
 * **DreamWorld**: "DreamWorld: Unified World Modeling in Video Generation", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.00466)] [[Code](https://github.com/ABU121111/DreamWorld)] 
 * **MetaOthello**: "MetaOthello: A Controlled Study of Multiple World Models in Transformers", **`arxiv 2026.02`**. [[Paper](https://arxiv.org/abs/2602.23164)] 
