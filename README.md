@@ -720,6 +720,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **ForeTime-VLA**: "ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20735)]
 * **DECOWAM**: "DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20114)]
 * **HiTac-WAM**: "HiTac-WAM: A Hierarchical Tactile World Action Model for Contact-Rich Robot Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.19574)]
 * "Reinforced Planning with Latent World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.18669)]
@@ -1094,6 +1095,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* **WA-JEPA**: "WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20974)]
 * **DA-WAM**: "DA-WAM: Decision-Aligned Future Latents for Driving World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.19085)]
 * **HyWorldVLA**: "HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20988)]
 * "PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20175)]
