@@ -252,7 +252,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * **PhysCoRe**: "PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20653)]
 * **Dreamer-CPC**: "Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19809)]
 * **Koopman Dreamer**: "Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19719)]
-* **ABot-World-0**: "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19191)]
+* **ABot-World-0**: "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19191)] [[Website](https://abot-world.amap.com/#create)] [[Code](https://github.com/amap-cvlab/ABot-World)]
 * **FilmWorld**: "FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19038)]
 * **DWM**: "DWM: Separating World Effects from Actions in Latent World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.18715)]
 * **AlayaWorld**: "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.18367)]
