@@ -81,6 +81,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **`world-models.io`**, A structured knowledge hub for AI world models, with model profiles, research syntheses, comparisons, benchmark-oriented evaluation context, and a practical taxonomy. [[Website](https://world-models.io/)] [[Blog](https://world-models.io/en/timeline/practical-taxonomy-ai-world-models/)]
 
 ## Survey
+* "From Generation to Simulation: How Far Are World Models from Being True Simulators?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23070)]
 * "Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28226)]
 * "From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11689)]
 * "From World Models to World Action Models: A Concise Tutorial for Robotics", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00836)]
@@ -216,6 +217,12 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **ReWorld**: "ReWorld: An Interactive World Model with Long-Horizon Memory", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23565)]
+* "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23383)]
+* **Future Querying**: "Future Querying: Can LLMs Serve as Implicit Medical World Models?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23248)]
+* **EchoWM**: "EchoWM: Open and Enterable Omnimodal World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23189)]
+* **LpWM**: "LpWM: A Case for Sparse Representations in World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22764)]
+* **MOSH-WM**: "MOSH-WM: Mask-Grounded Soft-Hamiltonian Dynamics for Object-Centric World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22750)]
 * "Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20284)]
 * "Orthogonal JEPA: Factorized Predictive States for Latent World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20065)]
 * "Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.18746)]
@@ -720,6 +727,10 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **LD4WAM**: "LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22403)]
+* **WAM-OPD**: "WAM-OPD: On-Policy Distillation for World Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22364)]
+* "Beyond Instance Slots: Semantically Rich World Models for Physical Interaction Planning", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22294)]
+* **DreamMimic**: "DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22278)]
 * **ForeTime-VLA**: "ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20735)]
 * **DECOWAM**: "DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20114)]
 * **HiTac-WAM**: "HiTac-WAM: A Hierarchical Tactile World Action Model for Contact-Rich Robot Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.19574)]
@@ -1095,6 +1106,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* **GeoWAM**: "GeoWAM: Visual Geometry World Action Models for Autonomous Driving", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23486)]
+* **BehaviorWorldGen**: "BehaviorWorldGen: Closing the Loop between Action Models and World Simulators via Controllable Behavior-Aware Structured World Generation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22187)]
 * **WA-JEPA**: "WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20974)]
 * **DA-WAM**: "DA-WAM: Decision-Aligned Future Latents for Driving World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.19085)]
 * **HyWorldVLA**: "HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.20988)]
