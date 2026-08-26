@@ -217,6 +217,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **Game2World Engine**: "Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24680)]
 * **ReWorld**: "ReWorld: An Interactive World Model with Long-Horizon Memory", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23565)]
 * "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23383)]
 * **Future Querying**: "Future Querying: Can LLMs Serve as Implicit Medical World Models?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23248)]
@@ -727,6 +728,12 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24885)]
+* "Latent Action as Intention Enables Efficient Future Imagination for World Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24882)]
+* **LeFlow**: "LeFlow: Generative Latent Flow Planning for World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24855)]
+* **GaussianWAM**: "GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24714)]
+* **GlanceWAM**: "GlanceWAM: Sparse Test-Time Imagination for World-Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23927)]
+* **DreamLedger**: "DreamLedger: Execution-Settled Credit Files for World-Model Imagination in Robot Decision Loops", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23863)]
 * **LD4WAM**: "LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22403)]
 * **WAM-OPD**: "WAM-OPD: On-Policy Distillation for World Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22364)]
 * "Beyond Instance Slots: Semantically Rich World Models for Physical Interaction Planning", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22294)]
