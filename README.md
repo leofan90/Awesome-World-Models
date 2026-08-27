@@ -136,6 +136,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **MiniMax H3 1K prompt dataset**: curated 1K text-to-video prompts with 3-field structure anatomy, 10 reusable prompts, and an H3 vs. peer model comparison. [[Website](https://neta.art/use-cases/en/h3-1000-prompt-list)] [[Code](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts)] [[Dataset](https://huggingface.co/datasets/ostris/minimax_h3_1k)]
 * "CG-World: A Large-Scale World-State Dataset and Protocol for World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26452)]
 * **ProVisE**: "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.21072)] [[Code](https://github.com/ZJU-OmniAI/ProVisE)] [[Website](https://zju-omniai.github.io/ProVisE/)]
 * **KineBench**: "KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.19876)]
@@ -216,7 +217,6 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * "Imagine the Unseen World: A Benchmark for Systematic Generalization in Visual World Models", **`NIPS 2023`**. [[Paper](https://arxiv.org/abs/2311.09064)]
 
 ---
-* **MiniMax H3 1K prompt dataset**: curated 1K text-to-video prompts with 3-field structure anatomy, 10 reusable prompts, and an H3 vs. peer model comparison. [[Website](https://neta.art/use-cases/en/h3-1000-prompt-list)] [[Code](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts)] [[Dataset](https://huggingface.co/datasets/ostris/minimax_h3_1k)]
 ## General World Models
 * **Game2World Engine**: "Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24680)]
 * **ReWorld**: "ReWorld: An Interactive World Model with Long-Horizon Memory", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23565)]
