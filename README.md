@@ -216,6 +216,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 * "Imagine the Unseen World: A Benchmark for Systematic Generalization in Visual World Models", **`NIPS 2023`**. [[Paper](https://arxiv.org/abs/2311.09064)]
 
 ---
+* **MiniMax H3 1K prompt dataset**: curated 1K text-to-video prompts with 3-field structure anatomy, 10 reusable prompts, and an H3 vs. peer model comparison. [[Website](https://neta.art/use-cases/en/h3-1000-prompt-list)] [[Code](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts)] [[Dataset](https://huggingface.co/datasets/ostris/minimax_h3_1k)]
 ## General World Models
 * **Game2World Engine**: "Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24680)]
 * **ReWorld**: "ReWorld: An Interactive World Model with Long-Horizon Memory", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23565)]
