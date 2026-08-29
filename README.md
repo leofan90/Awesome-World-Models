@@ -81,6 +81,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **`world-models.io`**, A structured knowledge hub for AI world models, with model profiles, research syntheses, comparisons, benchmark-oriented evaluation context, and a practical taxonomy. [[Website](https://world-models.io/)] [[Blog](https://world-models.io/en/timeline/practical-taxonomy-ai-world-models/)]
 
 ## Survey
+* "Surgical Video Generation From Diffusion to World Models: A Survey", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.26214)]
 * "From Generation to Simulation: How Far Are World Models from Being True Simulators?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23070)]
 * "Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28226)]
 * "From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11689)]
@@ -136,6 +137,8 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **PAWBench**: "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27345)]
+* **R2M-Bench**: "R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27328)]
 * **MiniMax H3 1K prompt dataset**: curated 1K text-to-video prompts with 3-field structure anatomy, 10 reusable prompts, and an H3 vs. peer model comparison. [[Website](https://neta.art/use-cases/en/h3-1000-prompt-list)] [[Code](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts)] [[Dataset](https://huggingface.co/datasets/ostris/minimax_h3_1k)]
 * "CG-World: A Large-Scale World-State Dataset and Protocol for World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26452)]
 * **ProVisE**: "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.21072)] [[Code](https://github.com/ZJU-OmniAI/ProVisE)] [[Website](https://zju-omniai.github.io/ProVisE/)]
@@ -218,6 +221,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **SpatialCrafter**: "SpatialCrafter: Single Image World Modeling with Generative 3D Proxies", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27073)]
+* **4DSynth**: "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.26947)]
+* **Code World Model**: "Code World Model: Coding Agent as World Brain", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.25927)]
+* "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.25518)]
 * **Game2World Engine**: "Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24680)]
 * **ReWorld**: "ReWorld: An Interactive World Model with Long-Horizon Memory", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23565)]
 * "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23383)]
@@ -729,6 +736,13 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **CLAP**: "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27406)]
+* "Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27259)]
+* **Riemann-1.0**: "Riemann-1.0: An Embodied World Action Model for Physical AI", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27033)]
+* **Zero-WAM**: "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.26103)]
+* **WALL-SS**: "WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.26239)]
+* **GaussianDream++**: "GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.25659)]
+* **ConfAL-WM**: "ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.25572)]
 * "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24885)]
 * "Latent Action as Intention Enables Efficient Future Imagination for World Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24882)]
 * **LeFlow**: "LeFlow: Generative Latent Flow Planning for World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.24855)]
@@ -1114,6 +1128,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* **4DGS-WAM**: "4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.25956)]
 * **GeoWAM**: "GeoWAM: Visual Geometry World Action Models for Autonomous Driving", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23486)]
 * **BehaviorWorldGen**: "BehaviorWorldGen: Closing the Loop between Action Models and World Simulators via Controllable Behavior-Aware Structured World Generation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22187)]
 * **WA-JEPA**: "WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.20974)]
