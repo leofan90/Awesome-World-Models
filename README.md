@@ -221,6 +221,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.28541)]
 * **SpatialCrafter**: "SpatialCrafter: Single Image World Modeling with Generative 3D Proxies", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27073)]
 * **4DSynth**: "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.26947)]
 * **Code World Model**: "Code World Model: Coding Agent as World Brain", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.25927)]
@@ -736,6 +737,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **AcrossVAM1.0**: "AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.28491)]
 * **CLAP**: "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27406)]
 * "Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27259)]
 * **Riemann-1.0**: "Riemann-1.0: An Embodied World Action Model for Physical AI", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27033)]
