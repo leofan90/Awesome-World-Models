@@ -221,6 +221,12 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **H3-World**: "H3-World: Turning Language Understanding into World Control", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.01560)]
+* **CAER**: "CAER: Causal Action Effect Reweighting for World Model Training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30897)]
+* "Can Video World Models Track Unobserved World States?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30692)]
+* **WebWorld**: "WebWorld: The Browser as a World Model for Self-Improving Web Code", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30530)]
+* "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.29910)]
+* "Off-Manifold Refinement: Guiding Video Generators with a Frozen World Model", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.29904)]
 * "An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.28541)]
 * **SpatialCrafter**: "SpatialCrafter: Single Image World Modeling with Generative 3D Proxies", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27073)]
 * **4DSynth**: "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.26947)]
@@ -737,6 +743,11 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **ZimaBlue**: "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2609.00188)]
+* **IMPACT**: "IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2609.00161)]
+* **PAVE**: "PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30378)]
+* **Motus2**: "Motus2: A Self-Evolving General World Model for Dexterous Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30237)]
+* "AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.29937)]
 * **AcrossVAM1.0**: "AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.28491)]
 * **CLAP**: "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27406)]
 * "Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27259)]
