@@ -137,6 +137,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **SolarWM**: "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02886)]
 * **PAWBench**: "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27345)]
 * **R2M-Bench**: "R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27328)]
 * **MiniMax H3 1K prompt dataset**: curated 1K text-to-video prompts with 3-field structure anatomy, 10 reusable prompts, and an H3 vs. peer model comparison. [[Website](https://neta.art/use-cases/en/h3-1000-prompt-list)] [[Code](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts)] [[Dataset](https://huggingface.co/datasets/ostris/minimax_h3_1k)]
@@ -221,6 +222,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Discriminative World Models for Web Agents", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02885)]
 * **H3-World**: "H3-World: Turning Language Understanding into World Control", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.01560)]
 * **CAER**: "CAER: Causal Action Effect Reweighting for World Model Training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30897)]
 * "Can Video World Models Track Unobserved World States?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30692)]
@@ -743,6 +745,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02542)]
+* **SA-WAM**: "Spatially Aware World Action Model via Geometric Latent Diffusion", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02531)]
+* "World-Coherent Decoding: Self-Verifying Test-Time Planning for World Action Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02159)]
 * **ZimaBlue**: "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2609.00188)]
 * **IMPACT**: "IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2609.00161)]
 * **PAVE**: "PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30378)]
