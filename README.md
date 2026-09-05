@@ -81,6 +81,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **`world-models.io`**, A structured knowledge hub for AI world models, with model profiles, research syntheses, comparisons, benchmark-oriented evaluation context, and a practical taxonomy. [[Website](https://world-models.io/)] [[Blog](https://world-models.io/en/timeline/practical-taxonomy-ai-world-models/)]
 
 ## Survey
+* "Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03927)]
 * "Surgical Video Generation From Diffusion to World Models: A Survey", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.26214)]
 * "From Generation to Simulation: How Far Are World Models from Being True Simulators?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23070)]
 * "Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.28226)]
@@ -137,6 +138,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 
 ---
 ## Datasets & Benchmarks & Evaluation
+* **VeriPhy**: "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03153)]
 * **SolarWM**: "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02886)]
 * **PAWBench**: "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27345)]
 * **R2M-Bench**: "R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27328)]
@@ -222,6 +224,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **WorldReward**: "WorldReward: Reward Modeling for Camera-Conditioned World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03952)]
+* **OctWorld**: "OctWorld: Long-Range World-Consistent Video Generation with Octree-Based 3D Mapping", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03919)]
+* "Semantic Bayesian World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03834)]
+* "Building Pretraining Data for World Models: An Unreal Engine-Based Pipeline for Action-Conditioned Video Generation", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03557)]
 * "Discriminative World Models for Web Agents", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02885)]
 * **H3-World**: "H3-World: Turning Language Understanding into World Control", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.01560)]
 * **CAER**: "CAER: Causal Action Effect Reweighting for World Model Training", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30897)]
@@ -745,6 +751,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03565)]
+* "Latent Energy Action Planning with World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03294)]
 * "World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02542)]
 * **SA-WAM**: "Spatially Aware World Action Model via Geometric Latent Diffusion", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02531)]
 * "World-Coherent Decoding: Self-Verifying Test-Time Planning for World Action Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02159)]
@@ -1089,6 +1097,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for VLA
+* **WISE**: "WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03681)]
 * "CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.26789)]
 * **World Pilot**: "World Pilot: Steering Vision-Language-Action Models with World-Action Priors", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.12403)]
 * "Vision-Language-Action Models Meet World Models: Embodied Agentic AI for Low-Altitude Wireless Networks", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.11618)]
@@ -1146,6 +1155,10 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* "Rethinking World Models for Safety-Critical Embodied Systems", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03774)]
+* **SV-WAM**: "SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03602)]
+* **Drive-HWM**: "Drive-HWM: Hierarchical World Models for Dynamic-Latent Guided Autonomous Driving", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03572)]
+* "Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03225)]
 * **4DGS-WAM**: "4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.25956)]
 * **GeoWAM**: "GeoWAM: Visual Geometry World Action Models for Autonomous Driving", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23486)]
 * **BehaviorWorldGen**: "BehaviorWorldGen: Closing the Loop between Action Models and World Simulators via Controllable Behavior-Aware Structured World Generation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.22187)]
