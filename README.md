@@ -224,6 +224,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "World in World: Explore the World with World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.11548)]
 * "Programmable World Model", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.10540)]
 * **Arti-JEPA**: "Arti-JEPA: Adapting Video World Model to Real-Time MRI of the Vocal Tract for Speech-Production Analysis", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09757)]
 * **Valerant**: "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09418)]
@@ -760,6 +761,8 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Memory as Plans: World-Action Modeling with Memory-Grounded Planning", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.11561)]
+* **FARM**: "FARM: Reading Failure Signals from the Internal Predictive States of a Frozen Robotic World Model", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.11445)]
 * **DUET-DINO**: "DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.10506)]
 * **HaWMPO**: "HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09941)]
 * "Compact Visuotactile World Models for Lifting: Prediction, Reward Alignment, and Force Constraints", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09597)]
