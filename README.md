@@ -81,6 +81,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **`world-models.io`**, A structured knowledge hub for AI world models, with model profiles, research syntheses, comparisons, benchmark-oriented evaluation context, and a practical taxonomy. [[Website](https://world-models.io/)] [[Blog](https://world-models.io/en/timeline/practical-taxonomy-ai-world-models/)]
 
 ## Survey
+* "World-Action Models for Robot Learning and Control: A Survey", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.16074)]
 * "Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03927)]
 * "Surgical Video Generation From Diffusion to World Models: A Survey", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.26214)]
 * "From Generation to Simulation: How Far Are World Models from Being True Simulators?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.23070)]
@@ -224,6 +225,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.14462)]
 * "World in World: Explore the World with World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.11548)]
 * "Programmable World Model", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.10540)]
 * **Arti-JEPA**: "Arti-JEPA: Adapting Video World Model to Real-Time MRI of the Vocal Tract for Speech-Production Analysis", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09757)]
@@ -761,6 +763,15 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* "Modality-Autoregressive World-Action Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.17524)]
+* **XPACE**: "XPACE: Joint World and Action Modeling from Heterogeneous Experience", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.17372)]
+* "World Models for Embodied Intelligence: From Plausible to Controllable to Actionable", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.16697)]
+* **WholeBodyWAM**: "WholeBodyWAM: Generalizing Pre-trained World-Action Priors to Humanoid Loco-Manipulation via WBC-Grounded Coordination", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.16644)]
+* **WLA$^3$**: "WLA$^3$: World Latent Action Modeling for Semantics, Dynamics, and Kinematics", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.15870)]
+* "When the World Lies: Backdoor Attacks on Latent World Models for Downstream Control", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.15781)]
+* **DIDO**: "DIDO: Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.15570)]
+* "Legislating World-Model-Based Planning with Legal Reasoning", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.15113)]
+* "One Model, Two Physical Stories: Auditing Misalignment in Multi-Modal World Modeling", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.14833)]
 * "Memory as Plans: World-Action Modeling with Memory-Grounded Planning", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.11561)]
 * **FARM**: "FARM: Reading Failure Signals from the Internal Predictive States of a Frozen Robotic World Model", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.11445)]
 * **DUET-DINO**: "DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.10506)]
