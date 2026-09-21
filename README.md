@@ -1240,6 +1240,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 * **LMGenDrive**: "LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.08719)] 
 * "Beyond Static Forecasting: Unleashing the Power of World Models for Mobile Traffic Extrapolation", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.08199)] 
 * **DeltaWorld**: "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens", **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2604.04913)] [[Code](https://deltatok.github.io)] 
+* **DriveVA**: "DriveVA: Video Action Models are Zero-Shot Drivers", **`ECCV 2026`**. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19)] [[Code](https://github.com/xiaomi-mlab/DriveVA)]
 * **DriveDreamer-Policy**: "DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning", **`arxiv 2026.04`**. [[Paper](https://arxiv.org/abs/2604.01765)] [[Website](https://drivedreamer-policy.github.io/)] 
 * **DLWM**: "DLWM: Dual Latent World Models enable Holistic Gaussian-centric Pre-training in Autonomous Driving", **`CVPR 2026`**. [[Paper](https://arxiv.org/abs/2604.00969)] 
 * **AutoWorld**: "AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models", **`arxiv 2026.03`**. [[Paper](https://arxiv.org/abs/2603.28963)] 
