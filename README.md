@@ -763,6 +763,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **LeWAM**: "Latent evolving World Action Model", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.27455)] [[Code](https://github.com/XuejiFang/LeWAM)]
 * "Modality-Autoregressive World-Action Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.17524)]
 * **XPACE**: "XPACE: Joint World and Action Modeling from Heterogeneous Experience", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.17372)]
 * "World Models for Embodied Intelligence: From Plausible to Controllable to Actionable", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.16697)]
