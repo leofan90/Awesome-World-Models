@@ -1175,6 +1175,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Visual Understanding
+* **Spatial-Interactor**: "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.23038)] [[Website](https://zju-omniai.github.io/Spatial-Interactor/)] [[Code](https://github.com/ZJU-OmniAI/Spatial-Interactor)]
 * "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.06476)]
 * "Do LLMs Build World Models From Text? A Multilingual Diagnostic of Spatial Reasoning", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.28277)] 
 * **GeoWorld-VLM**: "GeoWorld-VLM: Geometry from World Models for Vision-Language Models", **`arxiv 2026.05`**. [[Paper](https://arxiv.org/abs/2605.16713)] 
