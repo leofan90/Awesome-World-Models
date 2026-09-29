@@ -796,6 +796,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 * **PAVE**: "PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30378)]
 * **Motus2**: "Motus2: A Self-Evolving General World Model for Dexterous Manipulation", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.30237)]
 * "AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.29937)]
+* **Point-LeWM & Point-Delta-JEPA**: "Does Latent Planning Survive Point Clouds? Action-Conditioned JEPA World Models for Geometric Observations and Goals", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.29434)] [[Website](https://fafraob.github.io/point-lewm/)] [[Code](https://github.com/fafraob/point-lewm)]
 * **AcrossVAM1.0**: "AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.28491)]
 * **CLAP**: "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27406)]
 * "Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27259)]
