@@ -763,6 +763,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **EMPIRIC**: "EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.35047)] [[Website](https://basisresearch.github.io/empiric/)] [[Code](https://github.com/BasisResearch/predicators)]
 * **LeWAM**: "Latent evolving World Action Model", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.27455)] [[Code](https://github.com/XuejiFang/LeWAM)]
 * "Modality-Autoregressive World-Action Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.17524)]
 * **XPACE**: "XPACE: Joint World and Action Modeling from Heterogeneous Experience", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.17372)]
@@ -1047,6 +1048,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 * **WristWorld**: "WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.07313)]
 * "A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.02538)]
 * "Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models", **`RSS 2025 Workshop on Resilient Off-road Autonomous Robotics (ROAR)`**. [[Paper](https://arxiv.org/abs/2509.26339)]
+* **ExoPredicator**: "ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2509.26255)] [[Website](https://www.basis.ai/blog/exopredicator/)] [[Code](https://github.com/BasisResearch/predicators)]
 * **EMMA**: "EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.22407)]
 * **LongScape**: "LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21790)]
 * **KeyWorld**: "KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.21027)]
@@ -1113,7 +1115,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 * **Dream to Manipulate**: "Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination", **`arXiv 2024.12`**. [[Paper](https://arxiv.org/abs/2412.14957)] [[Website](https://leobarcellona.github.io/DreamToManipulate/)] 
 * **`UnrealZoo`**, UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI, **`ICCV 2025 Highlight`**. [[Paper](https://arxiv.org/abs/2412.20977)] [[Website](https://unrealzoo.site/)] [[Code](https://github.com/UnrealZoo/unrealzoo-gym)]
 * **WHALE**: "WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making", **`arXiv 2024.11`**. [[Paper](https://arxiv.org/abs/2411.05619)]
-* **VisualPredicator**: "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.23156)] 
+* **VisualPredicator**: "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning", **`ICLR 2025`**. [[Paper](https://arxiv.org/abs/2410.23156)] [[Code](https://github.com/BasisResearch/predicators)]
 * "Multi-Task Interactive Robot Fleet Learning with Visual World Models", **`CoRL 2024`**. [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
 * **X-MOBILITY**: "X-MOBILITY: End-To-End Generalizable Navigation via World Modeling", **`arXiv 2024.10`**. [[Paper](https://arxiv.org/abs/2410.17491)]
 * **PIVOT-R**: "PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation", **`NeurIPS 2024`**. [[Paper](https://arxiv.org/pdf/2410.10394)]
