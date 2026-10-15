@@ -841,6 +841,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 * **FlowWAM**: "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.13017)]
 * **Xiaomi-Robotics-U0**: "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.11643)]
 * "Causally Debiased Latent Action Model for Embodied Action Conditioned World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.09185)]
+* **Qantara**: "Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Inference", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.04978)] [[Website](https://corl-team.github.io/qantara/)] [[Code](https://github.com/corl-team/qantara)]
 * **DeWorldSG**: "DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00889)]
 * **ABot-M0.5**: "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00678)]
 * "Path Planning in Physically Viable World Models", **`arxiv 2026.07`**. [[Paper](https://arxiv.org/abs/2607.00673)]
