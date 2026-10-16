@@ -205,6 +205,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 * **LikePhys**: "LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference", **`ICLR 2026`**. [[Paper](https://arxiv.org/abs/2510.11512)] [[Website](https://yuanjianhao508.github.io/LikePhys/)]
 * **World-in-World**: "World-in-World: World Models in a Closed-Loop World", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.18135)] [[Website](https://github.com/World-In-World/world-in-world)] 
 * **VideoVerse**: "VideoVerse: How Far is Your T2V Generator from a World Model?", **`arXiv 2025.10`**. [[Paper](https://arxiv.org/abs/2510.08398)] 
+* **VideoScore2**: "VideoScore2: Think before You Score in Generative Video Evaluation", **`arxiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.22799)] [[Code](https://github.com/TIGER-AI-Lab/VideoScore2)]
 * **OmniWorld**: "OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling", **`arXiv 2025.09`**. [[Paper](https://arxiv.org/abs/2509.12201)] [[Website](https://yangzhou24.github.io/OmniWorld/)]
 * "Beyond Simulation: Benchmarking World Models for Planning and Causality in Autonomous Driving", **`ICRA 2025`**. [[Paper](https://arxiv.org/abs/2508.01922)] 
 * **WM-ABench**: "Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation", **`ACL 2025(Findings)`**. [[Paper](https://arxiv.org/abs/2506.21876)] [[Website](https://wm-abench.maitrix.org/)]
