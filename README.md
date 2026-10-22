@@ -140,6 +140,7 @@ Maintainers can use the [arXiv candidate pipeline](docs/arxiv-pipeline.md) to di
 ---
 ## Datasets & Benchmarks & Evaluation
 * **WorldMemBench**: "WorldMemBench: A Comprehensive Benchmark for Memory of Video World Models", **`arxiv 2026.10`**. [[Paper](https://arxiv.org/abs/2610.19063)] [[Website](https://zju-real.github.io/WorldMemBench/)] [[Code](https://github.com/ZJU-REAL/WorldMemBench)]
+* **NavSafe-∞**: "NavSafe-∞: Benchmarking Closed-Loop Driving Safety in Photorealistic Environments", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.26618)] [[Website](https://navsafe-vail.github.io/)] [[Code](https://github.com/VAIL-UCLA/NavSafe-infty)]
 * **VeriPhy**: "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03153)]
 * **SolarWM**: "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02886)]
 * **PAWBench**: "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?", **`arxiv 2026.08`**. [[Paper](https://arxiv.org/abs/2608.27345)]
