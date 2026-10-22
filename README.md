@@ -765,6 +765,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **UNITAS**: "UNITAS: A 3D-Native World Action Model for Embodied Manipulation", **`arxiv 2026.10`**. [[Paper](http://arxiv.org/abs/2610.12099)] [[Website](http://unitas-wam.github.io/)] [[Code](http://github.com/DexForce/UNITAS)]
 * **EMPIRIC**: "EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.35047)] [[Website](https://basisresearch.github.io/empiric/)] [[Code](https://github.com/BasisResearch/predicators)]
 * **LeWAM**: "Latent evolving World Action Model", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.27455)] [[Code](https://github.com/XuejiFang/LeWAM)]
 * "Modality-Autoregressive World-Action Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.17524)]
