@@ -880,6 +880,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 * **SWAP**: "SWAP: Symmetric Equivariant World-Model for Agile Robot Parkour", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.19928)]
 * **Mem-World**: "Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18960)]
 * **DREAM-Chunk**: "DREAM-Chunk: Reactive Action Chunking with Latent World Model", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18589)]
+* **MolmoMotion**: "MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18558)]
 * **PAIWorld**: "PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.18375)]
 * **WAM-RL**: "WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17906)]
 * **Qwen-RobotWorld**: "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation", **`arxiv 2026.06`**. [[Paper](https://arxiv.org/abs/2606.17030)]
