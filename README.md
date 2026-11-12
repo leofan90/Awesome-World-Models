@@ -229,6 +229,7 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **FlockWorld**: "FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation", **`NeurIPS 2026`**. [[Paper](https://arxiv.org/abs/2610.34564)] [[Code](https://github.com/wangyz1999/flockworld)]
 * "AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.14462)]
 * "World in World: Explore the World with World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.11548)]
 * "Programmable World Model", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.10540)]
